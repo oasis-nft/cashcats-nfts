@@ -3,7 +3,7 @@ const OUTPUT_PATH = './output/images/'
 const OUTPUT_PATH_META = './output/data/'
 const OUTPUT_PATH_ROOT = './output/'
 const SEED = 'BLOCK HASH OF LAST MINTED NFT';
-const MAX_GEN = 1;
+const MAX_GEN = 10000;
 const EXTERNAL_URL = 'TBD';
 const IPFS_URL = 'TBD';
 
