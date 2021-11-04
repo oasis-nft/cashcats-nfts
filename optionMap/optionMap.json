@@ -1,0 +1,368 @@
+[
+  {
+    "attributeId": 0,
+    "name": "Background",
+    "optionValues": [
+      {
+        "optionId": 0,
+        "name": "Red",
+        "rarity": 200
+      },
+      {
+        "optionId": 1,
+        "name": "Purple",
+        "rarity": 200
+      },
+      {
+        "optionId": 2,
+        "name": "Green",
+        "rarity": 200
+      },
+      {
+        "optionId": 3,
+        "name": "Yellow",
+        "rarity": 200
+      },
+      {
+        "optionId": 4,
+        "name": "Blue",
+        "rarity": 200
+      }
+    ]
+  },
+  {
+    "attributeId": 1,
+    "name": "Body",
+    "optionValues": [
+      {
+        "optionId": 0,
+        "name": "White",
+        "rarity": 200
+      },
+      {
+        "optionId": 1,
+        "name": "Brown",
+        "rarity": 200
+      },
+      {
+        "optionId": 2,
+        "name": "Yellow",
+        "rarity": 200
+      },
+      {
+        "optionId": 3,
+        "name": "Pink",
+        "rarity": 200
+      },
+      {
+        "optionId": 4,
+        "name": "Red",
+        "rarity": 40
+      },
+      {
+        "optionId": 5,
+        "name": "White Striped",
+        "rarity": 50
+      },
+      {
+        "optionId": 6,
+        "name": "White Spotted",
+        "rarity": 50
+      },
+      {
+        "optionId": 7,
+        "name": "Ruby",
+        "rarity": 30
+      },
+      {
+        "optionId": 8,
+        "name": "Emerald",
+        "rarity": 20
+      },
+      {
+        "optionId": 9,
+        "name": "Diamond",
+        "rarity": 10
+      }
+    ]
+  },
+  {
+    "attributeId": 2,
+    "name": "Eyes",
+    "optionValues": [
+      {
+        "optionId": 0,
+        "name": "Monocle",
+        "rarity": 20
+      },
+      {
+        "optionId": 1,
+        "name": "Long Eyes",
+        "rarity": 50
+      },
+      {
+        "optionId": 2,
+        "name": "Cash",
+        "rarity": 70
+      },
+      {
+        "optionId": 3,
+        "name": "Bitcoin",
+        "rarity": 60
+      },
+      {
+        "optionId": 4,
+        "name": "Uplifted Eyes",
+        "rarity": 100
+      },
+      {
+        "optionId": 5,
+        "name": "Resting Eyes",
+        "rarity": 100
+      },
+      {
+        "optionId": 6,
+        "name": "Love Look",
+        "rarity": 30
+      },
+      {
+        "optionId": 7,
+        "name": "8bit Glasses",
+        "rarity": 10
+      },
+      {
+        "optionId": 8,
+        "name": "Librarian Glasses",
+        "rarity": 30
+      },
+      {
+        "optionId": 9,
+        "name": "Cute Look",
+        "rarity": 100
+      },
+      {
+        "optionId": 10,
+        "name": "Round Glasses",
+        "rarity": 40
+      },
+      {
+        "optionId": 11,
+        "name": "Happy Look",
+        "rarity": 100
+      },
+      {
+        "optionId": 12,
+        "name": "Wink Eyes",
+        "rarity": 100
+      },
+      {
+        "optionId": 13,
+        "name": "Dead Look",
+        "rarity": 50
+      },
+      {
+        "optionId": 14,
+        "name": "Awake Look",
+        "rarity": 100
+      },
+      {
+        "optionId": 15,
+        "name": "Cool Glasses",
+        "rarity": 40
+      }
+    ]
+  },
+  {
+    "attributeId": 3,
+    "name": "Mouth",
+    "optionValues": [
+      {
+        "optionId": 0,
+        "name": "Smoke",
+        "rarity": 60
+      },
+      {
+        "optionId": 1,
+        "name": "Snout",
+        "rarity": 140
+      },
+      {
+        "optionId": 2,
+        "name": "Z Teeth",
+        "rarity": 140
+      },
+      {
+        "optionId": 3,
+        "name": "X Snout",
+        "rarity": 80
+      },
+      {
+        "optionId": 4,
+        "name": "Friendly Smile",
+        "rarity": 150
+      },
+      {
+        "optionId": 5,
+        "name": "Happy Laugh",
+        "rarity": 100
+      },
+      {
+        "optionId": 6,
+        "name": "Vampire Cat",
+        "rarity": 40
+      },
+      {
+        "optionId": 7,
+        "name": "Tongue",
+        "rarity": 150
+      },
+      {
+        "optionId": 8,
+        "name": "Mustache",
+        "rarity": 20
+      },
+      {
+        "optionId": 9,
+        "name": "Whisker Smile",
+        "rarity": 120
+      }
+    ]
+  },
+  {
+    "attributeId": 4,
+    "name": "Collar",
+    "optionValues": [
+      {
+        "optionId": 0,
+        "name": "Diamond Collar",
+        "rarity": 10
+      },
+      {
+        "optionId": 1,
+        "name": "Cuban Chain",
+        "rarity": 40
+      },
+      {
+        "optionId": 2,
+        "name": "Bandana",
+        "rarity": 75
+      },
+      {
+        "optionId": 3,
+        "name": "Bow Tie",
+        "rarity": 75
+      },
+      {
+        "optionId": 4,
+        "name": "Golden Collar",
+        "rarity": 30
+      },
+      {
+        "optionId": 5,
+        "name": "Leather Collar",
+        "rarity": 75
+      },
+      {
+        "optionId": 6,
+        "name": "Hippy Collar",
+        "rarity": 50
+      },
+      {
+        "optionId": 7,
+        "name": "Flowers",
+        "rarity": 50
+      },
+      {
+        "optionId": 8,
+        "name": "Spiky Collar",
+        "rarity": 75
+      },
+      {
+        "optionId": 9,
+        "name": "Bitcoin Chain",
+        "rarity": 20
+      },
+      {
+        "optionId": 10,
+        "name": "None",
+        "rarity": 500
+      }
+    ]
+  },
+  {
+    "attributeId": 5,
+    "name": "Accessory",
+    "optionValues": [
+      {
+        "optionId": 0,
+        "name": "Baret",
+        "rarity": 40
+      },
+      {
+        "optionId": 1,
+        "name": "Ceasar",
+        "rarity": 30
+      },
+      {
+        "optionId": 2,
+        "name": "Crown",
+        "rarity": 10
+      },
+      {
+        "optionId": 3,
+        "name": "Flower",
+        "rarity": 50
+      },
+      {
+        "optionId": 4,
+        "name": "Bandana",
+        "rarity": 70
+      },
+      {
+        "optionId": 5,
+        "name": "Bow Clip",
+        "rarity": 50
+      },
+      {
+        "optionId": 6,
+        "name": "Hippie Feathers",
+        "rarity": 30
+      },
+      {
+        "optionId": 7,
+        "name": "Smooth Criminal",
+        "rarity": 40
+      },
+      {
+        "optionId": 8,
+        "name": "Headphones",
+        "rarity": 60
+      },
+      {
+        "optionId": 9,
+        "name": "Bucket Hat",
+        "rarity": 70
+      },
+      {
+        "optionId": 10,
+        "name": "Golden Earring",
+        "rarity": 70
+      },
+      {
+        "optionId": 11,
+        "name": "Halo",
+        "rarity": 20
+      },
+      {
+        "optionId": 12,
+        "name": "Hearts",
+        "rarity": 60
+      },
+      {
+        "optionId": 13,
+        "name": "None",
+        "rarity": 400
+      }
+    ]
+  }
+]
