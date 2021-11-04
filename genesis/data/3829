@@ -1,0 +1,45 @@
+{
+    "id": 3829,
+    "description": "CashCats",
+    "name": "Cat # 3829",
+    "image": "https://cashcats.mypinata.cloud/ipfs/bafybeigio5rjqqlz6abnvayng7w26a32p6b2keovroqopr46pw45oc3laa/3829.png",
+    "external_url": "ipfs/bafybeigio5rjqqlz6abnvayng7w26a32p6b2keovroqopr46pw45oc3laa/3829.png",
+    "traits": [
+        {
+            "trait_type": "Background",
+            "option_id": 1,
+            "value": "Purple",
+            "trait_count": 2017
+        },
+        {
+            "trait_type": "Body",
+            "option_id": 0,
+            "value": "White",
+            "trait_count": 1939
+        },
+        {
+            "trait_type": "Eyes",
+            "option_id": 1,
+            "value": "Long Eyes",
+            "trait_count": 485
+        },
+        {
+            "trait_type": "Mouth",
+            "option_id": 1,
+            "value": "Snout",
+            "trait_count": 1441
+        },
+        {
+            "trait_type": "Collar",
+            "option_id": 4,
+            "value": "Golden Collar",
+            "trait_count": 297
+        },
+        {
+            "trait_type": "Accessory",
+            "option_id": 4,
+            "value": "Bandana",
+            "trait_count": 667
+        }
+    ]
+}

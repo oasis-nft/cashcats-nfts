@@ -1,0 +1,45 @@
+{
+    "id": 9235,
+    "description": "CashCats",
+    "name": "Cat # 9235",
+    "image": "https://cashcats.mypinata.cloud/ipfs/bafybeigio5rjqqlz6abnvayng7w26a32p6b2keovroqopr46pw45oc3laa/9235.png",
+    "external_url": "ipfs/bafybeigio5rjqqlz6abnvayng7w26a32p6b2keovroqopr46pw45oc3laa/9235.png",
+    "traits": [
+        {
+            "trait_type": "Background",
+            "option_id": 4,
+            "value": "Blue",
+            "trait_count": 1936
+        },
+        {
+            "trait_type": "Body",
+            "option_id": 0,
+            "value": "White",
+            "trait_count": 1939
+        },
+        {
+            "trait_type": "Eyes",
+            "option_id": 13,
+            "value": "Dead Look",
+            "trait_count": 482
+        },
+        {
+            "trait_type": "Mouth",
+            "option_id": 4,
+            "value": "Friendly Smile",
+            "trait_count": 1469
+        },
+        {
+            "trait_type": "Collar",
+            "option_id": 4,
+            "value": "Golden Collar",
+            "trait_count": 297
+        },
+        {
+            "trait_type": "Accessory",
+            "option_id": 1,
+            "value": "Ceasar",
+            "trait_count": 301
+        }
+    ]
+}

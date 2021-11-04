@@ -1,0 +1,45 @@
+{
+    "id": 1916,
+    "description": "CashCats",
+    "name": "Cat # 1916",
+    "image": "https://cashcats.mypinata.cloud/ipfs/bafybeigio5rjqqlz6abnvayng7w26a32p6b2keovroqopr46pw45oc3laa/1916.png",
+    "external_url": "ipfs/bafybeigio5rjqqlz6abnvayng7w26a32p6b2keovroqopr46pw45oc3laa/1916.png",
+    "traits": [
+        {
+            "trait_type": "Background",
+            "option_id": 0,
+            "value": "Red",
+            "trait_count": 2023
+        },
+        {
+            "trait_type": "Body",
+            "option_id": 3,
+            "value": "Pink",
+            "trait_count": 1993
+        },
+        {
+            "trait_type": "Eyes",
+            "option_id": 1,
+            "value": "Long Eyes",
+            "trait_count": 485
+        },
+        {
+            "trait_type": "Mouth",
+            "option_id": 3,
+            "value": "X Snout",
+            "trait_count": 808
+        },
+        {
+            "trait_type": "Collar",
+            "option_id": 8,
+            "value": "Spiky Collar",
+            "trait_count": 768
+        },
+        {
+            "trait_type": "Accessory",
+            "option_id": 0,
+            "value": "Baret",
+            "trait_count": 394
+        }
+    ]
+}

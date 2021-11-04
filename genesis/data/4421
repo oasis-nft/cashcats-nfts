@@ -1,0 +1,45 @@
+{
+    "id": 4421,
+    "description": "CashCats",
+    "name": "Cat # 4421",
+    "image": "https://cashcats.mypinata.cloud/ipfs/bafybeigio5rjqqlz6abnvayng7w26a32p6b2keovroqopr46pw45oc3laa/4421.png",
+    "external_url": "ipfs/bafybeigio5rjqqlz6abnvayng7w26a32p6b2keovroqopr46pw45oc3laa/4421.png",
+    "traits": [
+        {
+            "trait_type": "Background",
+            "option_id": 3,
+            "value": "Yellow",
+            "trait_count": 2049
+        },
+        {
+            "trait_type": "Body",
+            "option_id": 2,
+            "value": "Yellow",
+            "trait_count": 2018
+        },
+        {
+            "trait_type": "Eyes",
+            "option_id": 10,
+            "value": "Round Glasses",
+            "trait_count": 369
+        },
+        {
+            "trait_type": "Mouth",
+            "option_id": 0,
+            "value": "Smoke",
+            "trait_count": 607
+        },
+        {
+            "trait_type": "Collar",
+            "option_id": 5,
+            "value": "Leather Collar",
+            "trait_count": 762
+        },
+        {
+            "trait_type": "Accessory",
+            "option_id": 12,
+            "value": "Hearts",
+            "trait_count": 591
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "id": 5718,
+    "description": "CashCats",
+    "name": "Cat # 5718",
+    "image": "https://cashcats.mypinata.cloud/ipfs/bafybeigio5rjqqlz6abnvayng7w26a32p6b2keovroqopr46pw45oc3laa/5718.png",
+    "external_url": "ipfs/bafybeigio5rjqqlz6abnvayng7w26a32p6b2keovroqopr46pw45oc3laa/5718.png",
+    "traits": [
+        {
+            "trait_type": "Background",
+            "option_id": 4,
+            "value": "Blue",
+            "trait_count": 1936
+        },
+        {
+            "trait_type": "Body",
+            "option_id": 3,
+            "value": "Pink",
+            "trait_count": 1993
+        },
+        {
+            "trait_type": "Eyes",
+            "option_id": 6,
+            "value": "Love Look",
+            "trait_count": 274
+        },
+        {
+            "trait_type": "Mouth",
+            "option_id": 6,
+            "value": "Vampire Cat",
+            "trait_count": 405
+        },
+        {
+            "trait_type": "Collar",
+            "option_id": 9,
+            "value": "Bitcoin Chain",
+            "trait_count": 215
+        },
+        {
+            "trait_type": "Accessory",
+            "option_id": 0,
+            "value": "Baret",
+            "trait_count": 394
+        }
+    ]
+}

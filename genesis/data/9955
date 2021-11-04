@@ -1,0 +1,39 @@
+{
+    "id": 9955,
+    "description": "CashCats",
+    "name": "Cat # 9955",
+    "image": "https://cashcats.mypinata.cloud/ipfs/bafybeigio5rjqqlz6abnvayng7w26a32p6b2keovroqopr46pw45oc3laa/9955.png",
+    "external_url": "ipfs/bafybeigio5rjqqlz6abnvayng7w26a32p6b2keovroqopr46pw45oc3laa/9955.png",
+    "traits": [
+        {
+            "trait_type": "Background",
+            "option_id": 3,
+            "value": "Yellow",
+            "trait_count": 2049
+        },
+        {
+            "trait_type": "Body",
+            "option_id": 1,
+            "value": "Brown",
+            "trait_count": 2031
+        },
+        {
+            "trait_type": "Eyes",
+            "option_id": 7,
+            "value": "8bit Glasses",
+            "trait_count": 111
+        },
+        {
+            "trait_type": "Mouth",
+            "option_id": 7,
+            "value": "Tongue",
+            "trait_count": 1499
+        },
+        {
+            "trait_type": "Collar",
+            "option_id": 4,
+            "value": "Golden Collar",
+            "trait_count": 297
+        }
+    ]
+}

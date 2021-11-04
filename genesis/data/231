@@ -1,0 +1,39 @@
+{
+    "id": 231,
+    "description": "CashCats",
+    "name": "Cat # 231",
+    "image": "https://cashcats.mypinata.cloud/ipfs/bafybeigio5rjqqlz6abnvayng7w26a32p6b2keovroqopr46pw45oc3laa/231.png",
+    "external_url": "ipfs/bafybeigio5rjqqlz6abnvayng7w26a32p6b2keovroqopr46pw45oc3laa/231.png",
+    "traits": [
+        {
+            "trait_type": "Background",
+            "option_id": 2,
+            "value": "Green",
+            "trait_count": 1975
+        },
+        {
+            "trait_type": "Body",
+            "option_id": 8,
+            "value": "Emerald",
+            "trait_count": 226
+        },
+        {
+            "trait_type": "Eyes",
+            "option_id": 10,
+            "value": "Round Glasses",
+            "trait_count": 369
+        },
+        {
+            "trait_type": "Mouth",
+            "option_id": 3,
+            "value": "X Snout",
+            "trait_count": 808
+        },
+        {
+            "trait_type": "Accessory",
+            "option_id": 7,
+            "value": "Smooth Criminal",
+            "trait_count": 394
+        }
+    ]
+}

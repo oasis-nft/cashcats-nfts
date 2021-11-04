@@ -1,0 +1,39 @@
+{
+    "id": 4867,
+    "description": "CashCats",
+    "name": "Cat # 4867",
+    "image": "https://cashcats.mypinata.cloud/ipfs/bafybeigio5rjqqlz6abnvayng7w26a32p6b2keovroqopr46pw45oc3laa/4867.png",
+    "external_url": "ipfs/bafybeigio5rjqqlz6abnvayng7w26a32p6b2keovroqopr46pw45oc3laa/4867.png",
+    "traits": [
+        {
+            "trait_type": "Background",
+            "option_id": 1,
+            "value": "Purple",
+            "trait_count": 2017
+        },
+        {
+            "trait_type": "Body",
+            "option_id": 3,
+            "value": "Pink",
+            "trait_count": 1993
+        },
+        {
+            "trait_type": "Eyes",
+            "option_id": 9,
+            "value": "Cute Look",
+            "trait_count": 887
+        },
+        {
+            "trait_type": "Mouth",
+            "option_id": 5,
+            "value": "Happy Laugh",
+            "trait_count": 991
+        },
+        {
+            "trait_type": "Collar",
+            "option_id": 8,
+            "value": "Spiky Collar",
+            "trait_count": 768
+        }
+    ]
+}

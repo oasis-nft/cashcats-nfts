@@ -1,0 +1,39 @@
+{
+    "id": 4769,
+    "description": "CashCats",
+    "name": "Cat # 4769",
+    "image": "https://cashcats.mypinata.cloud/ipfs/bafybeigio5rjqqlz6abnvayng7w26a32p6b2keovroqopr46pw45oc3laa/4769.png",
+    "external_url": "ipfs/bafybeigio5rjqqlz6abnvayng7w26a32p6b2keovroqopr46pw45oc3laa/4769.png",
+    "traits": [
+        {
+            "trait_type": "Background",
+            "option_id": 2,
+            "value": "Green",
+            "trait_count": 1975
+        },
+        {
+            "trait_type": "Body",
+            "option_id": 3,
+            "value": "Pink",
+            "trait_count": 1993
+        },
+        {
+            "trait_type": "Eyes",
+            "option_id": 4,
+            "value": "Uplifted Eyes",
+            "trait_count": 1077
+        },
+        {
+            "trait_type": "Mouth",
+            "option_id": 9,
+            "value": "Whisker Smile",
+            "trait_count": 1250
+        },
+        {
+            "trait_type": "Collar",
+            "option_id": 2,
+            "value": "Bandana",
+            "trait_count": 816
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "id": 5532,
+    "description": "CashCats",
+    "name": "Cat # 5532",
+    "image": "https://cashcats.mypinata.cloud/ipfs/bafybeigio5rjqqlz6abnvayng7w26a32p6b2keovroqopr46pw45oc3laa/5532.png",
+    "external_url": "ipfs/bafybeigio5rjqqlz6abnvayng7w26a32p6b2keovroqopr46pw45oc3laa/5532.png",
+    "traits": [
+        {
+            "trait_type": "Background",
+            "option_id": 2,
+            "value": "Green",
+            "trait_count": 1975
+        },
+        {
+            "trait_type": "Body",
+            "option_id": 2,
+            "value": "Yellow",
+            "trait_count": 2018
+        },
+        {
+            "trait_type": "Eyes",
+            "option_id": 8,
+            "value": "Librarian Glasses",
+            "trait_count": 308
+        },
+        {
+            "trait_type": "Mouth",
+            "option_id": 1,
+            "value": "Snout",
+            "trait_count": 1441
+        },
+        {
+            "trait_type": "Collar",
+            "option_id": 5,
+            "value": "Leather Collar",
+            "trait_count": 762
+        },
+        {
+            "trait_type": "Accessory",
+            "option_id": 9,
+            "value": "Bucket Hat",
+            "trait_count": 677
+        }
+    ]
+}

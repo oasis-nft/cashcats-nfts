@@ -1,0 +1,45 @@
+{
+    "id": 8748,
+    "description": "CashCats",
+    "name": "Cat # 8748",
+    "image": "https://cashcats.mypinata.cloud/ipfs/bafybeigio5rjqqlz6abnvayng7w26a32p6b2keovroqopr46pw45oc3laa/8748.png",
+    "external_url": "ipfs/bafybeigio5rjqqlz6abnvayng7w26a32p6b2keovroqopr46pw45oc3laa/8748.png",
+    "traits": [
+        {
+            "trait_type": "Background",
+            "option_id": 1,
+            "value": "Purple",
+            "trait_count": 2017
+        },
+        {
+            "trait_type": "Body",
+            "option_id": 6,
+            "value": "White Spotted",
+            "trait_count": 509
+        },
+        {
+            "trait_type": "Eyes",
+            "option_id": 7,
+            "value": "8bit Glasses",
+            "trait_count": 111
+        },
+        {
+            "trait_type": "Mouth",
+            "option_id": 7,
+            "value": "Tongue",
+            "trait_count": 1499
+        },
+        {
+            "trait_type": "Collar",
+            "option_id": 6,
+            "value": "Hippy Collar",
+            "trait_count": 477
+        },
+        {
+            "trait_type": "Accessory",
+            "option_id": 7,
+            "value": "Smooth Criminal",
+            "trait_count": 394
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "id": 531,
+    "description": "CashCats",
+    "name": "Cat # 531",
+    "image": "https://cashcats.mypinata.cloud/ipfs/bafybeigio5rjqqlz6abnvayng7w26a32p6b2keovroqopr46pw45oc3laa/531.png",
+    "external_url": "ipfs/bafybeigio5rjqqlz6abnvayng7w26a32p6b2keovroqopr46pw45oc3laa/531.png",
+    "traits": [
+        {
+            "trait_type": "Background",
+            "option_id": 0,
+            "value": "Red",
+            "trait_count": 2023
+        },
+        {
+            "trait_type": "Body",
+            "option_id": 2,
+            "value": "Yellow",
+            "trait_count": 2018
+        },
+        {
+            "trait_type": "Eyes",
+            "option_id": 1,
+            "value": "Long Eyes",
+            "trait_count": 485
+        },
+        {
+            "trait_type": "Mouth",
+            "option_id": 6,
+            "value": "Vampire Cat",
+            "trait_count": 405
+        },
+        {
+            "trait_type": "Collar",
+            "option_id": 3,
+            "value": "Bow Tie",
+            "trait_count": 749
+        }
+    ]
+}

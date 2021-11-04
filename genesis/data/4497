@@ -1,0 +1,39 @@
+{
+    "id": 4497,
+    "description": "CashCats",
+    "name": "Cat # 4497",
+    "image": "https://cashcats.mypinata.cloud/ipfs/bafybeigio5rjqqlz6abnvayng7w26a32p6b2keovroqopr46pw45oc3laa/4497.png",
+    "external_url": "ipfs/bafybeigio5rjqqlz6abnvayng7w26a32p6b2keovroqopr46pw45oc3laa/4497.png",
+    "traits": [
+        {
+            "trait_type": "Background",
+            "option_id": 4,
+            "value": "Blue",
+            "trait_count": 1936
+        },
+        {
+            "trait_type": "Body",
+            "option_id": 0,
+            "value": "White",
+            "trait_count": 1939
+        },
+        {
+            "trait_type": "Eyes",
+            "option_id": 11,
+            "value": "Happy Look",
+            "trait_count": 1019
+        },
+        {
+            "trait_type": "Mouth",
+            "option_id": 7,
+            "value": "Tongue",
+            "trait_count": 1499
+        },
+        {
+            "trait_type": "Accessory",
+            "option_id": 1,
+            "value": "Ceasar",
+            "trait_count": 301
+        }
+    ]
+}

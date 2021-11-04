@@ -1,0 +1,39 @@
+{
+    "id": 2959,
+    "description": "CashCats",
+    "name": "Cat # 2959",
+    "image": "https://cashcats.mypinata.cloud/ipfs/bafybeigio5rjqqlz6abnvayng7w26a32p6b2keovroqopr46pw45oc3laa/2959.png",
+    "external_url": "ipfs/bafybeigio5rjqqlz6abnvayng7w26a32p6b2keovroqopr46pw45oc3laa/2959.png",
+    "traits": [
+        {
+            "trait_type": "Background",
+            "option_id": 2,
+            "value": "Green",
+            "trait_count": 1975
+        },
+        {
+            "trait_type": "Body",
+            "option_id": 2,
+            "value": "Yellow",
+            "trait_count": 2018
+        },
+        {
+            "trait_type": "Eyes",
+            "option_id": 11,
+            "value": "Happy Look",
+            "trait_count": 1019
+        },
+        {
+            "trait_type": "Mouth",
+            "option_id": 5,
+            "value": "Happy Laugh",
+            "trait_count": 991
+        },
+        {
+            "trait_type": "Collar",
+            "option_id": 7,
+            "value": "Flowers",
+            "trait_count": 518
+        }
+    ]
+}

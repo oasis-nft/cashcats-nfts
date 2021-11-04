@@ -1,0 +1,45 @@
+{
+    "id": 2704,
+    "description": "CashCats",
+    "name": "Cat # 2704",
+    "image": "https://cashcats.mypinata.cloud/ipfs/bafybeigio5rjqqlz6abnvayng7w26a32p6b2keovroqopr46pw45oc3laa/2704.png",
+    "external_url": "ipfs/bafybeigio5rjqqlz6abnvayng7w26a32p6b2keovroqopr46pw45oc3laa/2704.png",
+    "traits": [
+        {
+            "trait_type": "Background",
+            "option_id": 1,
+            "value": "Purple",
+            "trait_count": 2017
+        },
+        {
+            "trait_type": "Body",
+            "option_id": 8,
+            "value": "Emerald",
+            "trait_count": 226
+        },
+        {
+            "trait_type": "Eyes",
+            "option_id": 5,
+            "value": "Resting Eyes",
+            "trait_count": 989
+        },
+        {
+            "trait_type": "Mouth",
+            "option_id": 6,
+            "value": "Vampire Cat",
+            "trait_count": 405
+        },
+        {
+            "trait_type": "Collar",
+            "option_id": 7,
+            "value": "Flowers",
+            "trait_count": 518
+        },
+        {
+            "trait_type": "Accessory",
+            "option_id": 11,
+            "value": "Halo",
+            "trait_count": 207
+        }
+    ]
+}

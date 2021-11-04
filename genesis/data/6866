@@ -1,0 +1,39 @@
+{
+    "id": 6866,
+    "description": "CashCats",
+    "name": "Cat # 6866",
+    "image": "https://cashcats.mypinata.cloud/ipfs/bafybeigio5rjqqlz6abnvayng7w26a32p6b2keovroqopr46pw45oc3laa/6866.png",
+    "external_url": "ipfs/bafybeigio5rjqqlz6abnvayng7w26a32p6b2keovroqopr46pw45oc3laa/6866.png",
+    "traits": [
+        {
+            "trait_type": "Background",
+            "option_id": 1,
+            "value": "Purple",
+            "trait_count": 2017
+        },
+        {
+            "trait_type": "Body",
+            "option_id": 7,
+            "value": "Ruby",
+            "trait_count": 290
+        },
+        {
+            "trait_type": "Eyes",
+            "option_id": 9,
+            "value": "Cute Look",
+            "trait_count": 887
+        },
+        {
+            "trait_type": "Mouth",
+            "option_id": 7,
+            "value": "Tongue",
+            "trait_count": 1499
+        },
+        {
+            "trait_type": "Accessory",
+            "option_id": 10,
+            "value": "Golden Earring",
+            "trait_count": 681
+        }
+    ]
+}

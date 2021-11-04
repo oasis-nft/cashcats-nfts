@@ -1,0 +1,33 @@
+{
+    "id": 2752,
+    "description": "CashCats",
+    "name": "Cat # 2752",
+    "image": "https://cashcats.mypinata.cloud/ipfs/bafybeigio5rjqqlz6abnvayng7w26a32p6b2keovroqopr46pw45oc3laa/2752.png",
+    "external_url": "ipfs/bafybeigio5rjqqlz6abnvayng7w26a32p6b2keovroqopr46pw45oc3laa/2752.png",
+    "traits": [
+        {
+            "trait_type": "Background",
+            "option_id": 3,
+            "value": "Yellow",
+            "trait_count": 2049
+        },
+        {
+            "trait_type": "Body",
+            "option_id": 8,
+            "value": "Emerald",
+            "trait_count": 226
+        },
+        {
+            "trait_type": "Eyes",
+            "option_id": 3,
+            "value": "Bitcoin",
+            "trait_count": 628
+        },
+        {
+            "trait_type": "Mouth",
+            "option_id": 7,
+            "value": "Tongue",
+            "trait_count": 1499
+        }
+    ]
+}

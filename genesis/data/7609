@@ -1,0 +1,39 @@
+{
+    "id": 7609,
+    "description": "CashCats",
+    "name": "Cat # 7609",
+    "image": "https://cashcats.mypinata.cloud/ipfs/bafybeigio5rjqqlz6abnvayng7w26a32p6b2keovroqopr46pw45oc3laa/7609.png",
+    "external_url": "ipfs/bafybeigio5rjqqlz6abnvayng7w26a32p6b2keovroqopr46pw45oc3laa/7609.png",
+    "traits": [
+        {
+            "trait_type": "Background",
+            "option_id": 3,
+            "value": "Yellow",
+            "trait_count": 2049
+        },
+        {
+            "trait_type": "Body",
+            "option_id": 5,
+            "value": "White Striped",
+            "trait_count": 508
+        },
+        {
+            "trait_type": "Eyes",
+            "option_id": 13,
+            "value": "Dead Look",
+            "trait_count": 482
+        },
+        {
+            "trait_type": "Mouth",
+            "option_id": 6,
+            "value": "Vampire Cat",
+            "trait_count": 405
+        },
+        {
+            "trait_type": "Collar",
+            "option_id": 8,
+            "value": "Spiky Collar",
+            "trait_count": 768
+        }
+    ]
+}

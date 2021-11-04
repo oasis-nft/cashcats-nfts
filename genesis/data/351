@@ -1,0 +1,45 @@
+{
+    "id": 351,
+    "description": "CashCats",
+    "name": "Cat # 351",
+    "image": "https://cashcats.mypinata.cloud/ipfs/bafybeigio5rjqqlz6abnvayng7w26a32p6b2keovroqopr46pw45oc3laa/351.png",
+    "external_url": "ipfs/bafybeigio5rjqqlz6abnvayng7w26a32p6b2keovroqopr46pw45oc3laa/351.png",
+    "traits": [
+        {
+            "trait_type": "Background",
+            "option_id": 3,
+            "value": "Yellow",
+            "trait_count": 2049
+        },
+        {
+            "trait_type": "Body",
+            "option_id": 3,
+            "value": "Pink",
+            "trait_count": 1993
+        },
+        {
+            "trait_type": "Eyes",
+            "option_id": 4,
+            "value": "Uplifted Eyes",
+            "trait_count": 1077
+        },
+        {
+            "trait_type": "Mouth",
+            "option_id": 5,
+            "value": "Happy Laugh",
+            "trait_count": 991
+        },
+        {
+            "trait_type": "Collar",
+            "option_id": 3,
+            "value": "Bow Tie",
+            "trait_count": 749
+        },
+        {
+            "trait_type": "Accessory",
+            "option_id": 1,
+            "value": "Ceasar",
+            "trait_count": 301
+        }
+    ]
+}

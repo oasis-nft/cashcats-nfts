@@ -1,0 +1,39 @@
+{
+    "id": 4104,
+    "description": "CashCats",
+    "name": "Cat # 4104",
+    "image": "https://cashcats.mypinata.cloud/ipfs/bafybeigio5rjqqlz6abnvayng7w26a32p6b2keovroqopr46pw45oc3laa/4104.png",
+    "external_url": "ipfs/bafybeigio5rjqqlz6abnvayng7w26a32p6b2keovroqopr46pw45oc3laa/4104.png",
+    "traits": [
+        {
+            "trait_type": "Background",
+            "option_id": 0,
+            "value": "Red",
+            "trait_count": 2023
+        },
+        {
+            "trait_type": "Body",
+            "option_id": 1,
+            "value": "Brown",
+            "trait_count": 2031
+        },
+        {
+            "trait_type": "Eyes",
+            "option_id": 5,
+            "value": "Resting Eyes",
+            "trait_count": 989
+        },
+        {
+            "trait_type": "Mouth",
+            "option_id": 1,
+            "value": "Snout",
+            "trait_count": 1441
+        },
+        {
+            "trait_type": "Accessory",
+            "option_id": 11,
+            "value": "Halo",
+            "trait_count": 207
+        }
+    ]
+}

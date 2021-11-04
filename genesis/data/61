@@ -1,0 +1,33 @@
+{
+    "id": 61,
+    "description": "CashCats",
+    "name": "Cat # 61",
+    "image": "https://cashcats.mypinata.cloud/ipfs/bafybeigio5rjqqlz6abnvayng7w26a32p6b2keovroqopr46pw45oc3laa/61.png",
+    "external_url": "ipfs/bafybeigio5rjqqlz6abnvayng7w26a32p6b2keovroqopr46pw45oc3laa/61.png",
+    "traits": [
+        {
+            "trait_type": "Background",
+            "option_id": 4,
+            "value": "Blue",
+            "trait_count": 1936
+        },
+        {
+            "trait_type": "Body",
+            "option_id": 5,
+            "value": "White Striped",
+            "trait_count": 508
+        },
+        {
+            "trait_type": "Eyes",
+            "option_id": 2,
+            "value": "Cash",
+            "trait_count": 720
+        },
+        {
+            "trait_type": "Mouth",
+            "option_id": 2,
+            "value": "Z Teeth",
+            "trait_count": 1331
+        }
+    ]
+}

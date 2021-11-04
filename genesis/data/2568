@@ -1,0 +1,39 @@
+{
+    "id": 2568,
+    "description": "CashCats",
+    "name": "Cat # 2568",
+    "image": "https://cashcats.mypinata.cloud/ipfs/bafybeigio5rjqqlz6abnvayng7w26a32p6b2keovroqopr46pw45oc3laa/2568.png",
+    "external_url": "ipfs/bafybeigio5rjqqlz6abnvayng7w26a32p6b2keovroqopr46pw45oc3laa/2568.png",
+    "traits": [
+        {
+            "trait_type": "Background",
+            "option_id": 2,
+            "value": "Green",
+            "trait_count": 1975
+        },
+        {
+            "trait_type": "Body",
+            "option_id": 0,
+            "value": "White",
+            "trait_count": 1939
+        },
+        {
+            "trait_type": "Eyes",
+            "option_id": 2,
+            "value": "Cash",
+            "trait_count": 720
+        },
+        {
+            "trait_type": "Mouth",
+            "option_id": 1,
+            "value": "Snout",
+            "trait_count": 1441
+        },
+        {
+            "trait_type": "Accessory",
+            "option_id": 9,
+            "value": "Bucket Hat",
+            "trait_count": 677
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "id": 610,
+    "description": "CashCats",
+    "name": "Cat # 610",
+    "image": "https://cashcats.mypinata.cloud/ipfs/bafybeigio5rjqqlz6abnvayng7w26a32p6b2keovroqopr46pw45oc3laa/610.png",
+    "external_url": "ipfs/bafybeigio5rjqqlz6abnvayng7w26a32p6b2keovroqopr46pw45oc3laa/610.png",
+    "traits": [
+        {
+            "trait_type": "Background",
+            "option_id": 3,
+            "value": "Yellow",
+            "trait_count": 2049
+        },
+        {
+            "trait_type": "Body",
+            "option_id": 3,
+            "value": "Pink",
+            "trait_count": 1993
+        },
+        {
+            "trait_type": "Eyes",
+            "option_id": 4,
+            "value": "Uplifted Eyes",
+            "trait_count": 1077
+        },
+        {
+            "trait_type": "Mouth",
+            "option_id": 5,
+            "value": "Happy Laugh",
+            "trait_count": 991
+        },
+        {
+            "trait_type": "Collar",
+            "option_id": 1,
+            "value": "Cuban Chain",
+            "trait_count": 397
+        },
+        {
+            "trait_type": "Accessory",
+            "option_id": 4,
+            "value": "Bandana",
+            "trait_count": 667
+        }
+    ]
+}

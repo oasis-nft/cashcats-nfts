@@ -1,0 +1,33 @@
+{
+    "id": 5645,
+    "description": "CashCats",
+    "name": "Cat # 5645",
+    "image": "https://cashcats.mypinata.cloud/ipfs/bafybeigio5rjqqlz6abnvayng7w26a32p6b2keovroqopr46pw45oc3laa/5645.png",
+    "external_url": "ipfs/bafybeigio5rjqqlz6abnvayng7w26a32p6b2keovroqopr46pw45oc3laa/5645.png",
+    "traits": [
+        {
+            "trait_type": "Background",
+            "option_id": 3,
+            "value": "Yellow",
+            "trait_count": 2049
+        },
+        {
+            "trait_type": "Body",
+            "option_id": 3,
+            "value": "Pink",
+            "trait_count": 1993
+        },
+        {
+            "trait_type": "Eyes",
+            "option_id": 15,
+            "value": "Cool Glasses",
+            "trait_count": 388
+        },
+        {
+            "trait_type": "Mouth",
+            "option_id": 6,
+            "value": "Vampire Cat",
+            "trait_count": 405
+        }
+    ]
+}

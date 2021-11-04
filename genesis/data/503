@@ -1,0 +1,45 @@
+{
+    "id": 503,
+    "description": "CashCats",
+    "name": "Cat # 503",
+    "image": "https://cashcats.mypinata.cloud/ipfs/bafybeigio5rjqqlz6abnvayng7w26a32p6b2keovroqopr46pw45oc3laa/503.png",
+    "external_url": "ipfs/bafybeigio5rjqqlz6abnvayng7w26a32p6b2keovroqopr46pw45oc3laa/503.png",
+    "traits": [
+        {
+            "trait_type": "Background",
+            "option_id": 3,
+            "value": "Yellow",
+            "trait_count": 2049
+        },
+        {
+            "trait_type": "Body",
+            "option_id": 1,
+            "value": "Brown",
+            "trait_count": 2031
+        },
+        {
+            "trait_type": "Eyes",
+            "option_id": 3,
+            "value": "Bitcoin",
+            "trait_count": 628
+        },
+        {
+            "trait_type": "Mouth",
+            "option_id": 7,
+            "value": "Tongue",
+            "trait_count": 1499
+        },
+        {
+            "trait_type": "Collar",
+            "option_id": 9,
+            "value": "Bitcoin Chain",
+            "trait_count": 215
+        },
+        {
+            "trait_type": "Accessory",
+            "option_id": 0,
+            "value": "Baret",
+            "trait_count": 394
+        }
+    ]
+}

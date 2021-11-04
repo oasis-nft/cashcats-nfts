@@ -1,0 +1,45 @@
+{
+    "id": 6858,
+    "description": "CashCats",
+    "name": "Cat # 6858",
+    "image": "https://cashcats.mypinata.cloud/ipfs/bafybeigio5rjqqlz6abnvayng7w26a32p6b2keovroqopr46pw45oc3laa/6858.png",
+    "external_url": "ipfs/bafybeigio5rjqqlz6abnvayng7w26a32p6b2keovroqopr46pw45oc3laa/6858.png",
+    "traits": [
+        {
+            "trait_type": "Background",
+            "option_id": 1,
+            "value": "Purple",
+            "trait_count": 2017
+        },
+        {
+            "trait_type": "Body",
+            "option_id": 8,
+            "value": "Emerald",
+            "trait_count": 226
+        },
+        {
+            "trait_type": "Eyes",
+            "option_id": 5,
+            "value": "Resting Eyes",
+            "trait_count": 989
+        },
+        {
+            "trait_type": "Mouth",
+            "option_id": 8,
+            "value": "Mustache",
+            "trait_count": 199
+        },
+        {
+            "trait_type": "Collar",
+            "option_id": 5,
+            "value": "Leather Collar",
+            "trait_count": 762
+        },
+        {
+            "trait_type": "Accessory",
+            "option_id": 6,
+            "value": "Hippie Feathers",
+            "trait_count": 307
+        }
+    ]
+}

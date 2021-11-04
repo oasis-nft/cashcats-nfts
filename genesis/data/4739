@@ -1,0 +1,39 @@
+{
+    "id": 4739,
+    "description": "CashCats",
+    "name": "Cat # 4739",
+    "image": "https://cashcats.mypinata.cloud/ipfs/bafybeigio5rjqqlz6abnvayng7w26a32p6b2keovroqopr46pw45oc3laa/4739.png",
+    "external_url": "ipfs/bafybeigio5rjqqlz6abnvayng7w26a32p6b2keovroqopr46pw45oc3laa/4739.png",
+    "traits": [
+        {
+            "trait_type": "Background",
+            "option_id": 1,
+            "value": "Purple",
+            "trait_count": 2017
+        },
+        {
+            "trait_type": "Body",
+            "option_id": 8,
+            "value": "Emerald",
+            "trait_count": 226
+        },
+        {
+            "trait_type": "Eyes",
+            "option_id": 1,
+            "value": "Long Eyes",
+            "trait_count": 485
+        },
+        {
+            "trait_type": "Mouth",
+            "option_id": 9,
+            "value": "Whisker Smile",
+            "trait_count": 1250
+        },
+        {
+            "trait_type": "Accessory",
+            "option_id": 3,
+            "value": "Flower",
+            "trait_count": 523
+        }
+    ]
+}

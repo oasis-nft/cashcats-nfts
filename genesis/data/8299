@@ -1,0 +1,45 @@
+{
+    "id": 8299,
+    "description": "CashCats",
+    "name": "Cat # 8299",
+    "image": "https://cashcats.mypinata.cloud/ipfs/bafybeigio5rjqqlz6abnvayng7w26a32p6b2keovroqopr46pw45oc3laa/8299.png",
+    "external_url": "ipfs/bafybeigio5rjqqlz6abnvayng7w26a32p6b2keovroqopr46pw45oc3laa/8299.png",
+    "traits": [
+        {
+            "trait_type": "Background",
+            "option_id": 0,
+            "value": "Red",
+            "trait_count": 2023
+        },
+        {
+            "trait_type": "Body",
+            "option_id": 3,
+            "value": "Pink",
+            "trait_count": 1993
+        },
+        {
+            "trait_type": "Eyes",
+            "option_id": 12,
+            "value": "Wink Eyes",
+            "trait_count": 1030
+        },
+        {
+            "trait_type": "Mouth",
+            "option_id": 6,
+            "value": "Vampire Cat",
+            "trait_count": 405
+        },
+        {
+            "trait_type": "Collar",
+            "option_id": 2,
+            "value": "Bandana",
+            "trait_count": 816
+        },
+        {
+            "trait_type": "Accessory",
+            "option_id": 12,
+            "value": "Hearts",
+            "trait_count": 591
+        }
+    ]
+}

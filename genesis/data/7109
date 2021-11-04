@@ -1,0 +1,39 @@
+{
+    "id": 7109,
+    "description": "CashCats",
+    "name": "Cat # 7109",
+    "image": "https://cashcats.mypinata.cloud/ipfs/bafybeigio5rjqqlz6abnvayng7w26a32p6b2keovroqopr46pw45oc3laa/7109.png",
+    "external_url": "ipfs/bafybeigio5rjqqlz6abnvayng7w26a32p6b2keovroqopr46pw45oc3laa/7109.png",
+    "traits": [
+        {
+            "trait_type": "Background",
+            "option_id": 4,
+            "value": "Blue",
+            "trait_count": 1936
+        },
+        {
+            "trait_type": "Body",
+            "option_id": 4,
+            "value": "Red",
+            "trait_count": 397
+        },
+        {
+            "trait_type": "Eyes",
+            "option_id": 13,
+            "value": "Dead Look",
+            "trait_count": 482
+        },
+        {
+            "trait_type": "Mouth",
+            "option_id": 2,
+            "value": "Z Teeth",
+            "trait_count": 1331
+        },
+        {
+            "trait_type": "Collar",
+            "option_id": 5,
+            "value": "Leather Collar",
+            "trait_count": 762
+        }
+    ]
+}

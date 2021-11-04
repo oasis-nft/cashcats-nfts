@@ -1,0 +1,39 @@
+{
+    "id": 6782,
+    "description": "CashCats",
+    "name": "Cat # 6782",
+    "image": "https://cashcats.mypinata.cloud/ipfs/bafybeigio5rjqqlz6abnvayng7w26a32p6b2keovroqopr46pw45oc3laa/6782.png",
+    "external_url": "ipfs/bafybeigio5rjqqlz6abnvayng7w26a32p6b2keovroqopr46pw45oc3laa/6782.png",
+    "traits": [
+        {
+            "trait_type": "Background",
+            "option_id": 2,
+            "value": "Green",
+            "trait_count": 1975
+        },
+        {
+            "trait_type": "Body",
+            "option_id": 4,
+            "value": "Red",
+            "trait_count": 397
+        },
+        {
+            "trait_type": "Eyes",
+            "option_id": 2,
+            "value": "Cash",
+            "trait_count": 720
+        },
+        {
+            "trait_type": "Mouth",
+            "option_id": 1,
+            "value": "Snout",
+            "trait_count": 1441
+        },
+        {
+            "trait_type": "Accessory",
+            "option_id": 10,
+            "value": "Golden Earring",
+            "trait_count": 681
+        }
+    ]
+}

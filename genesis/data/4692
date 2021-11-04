@@ -1,0 +1,33 @@
+{
+    "id": 4692,
+    "description": "CashCats",
+    "name": "Cat # 4692",
+    "image": "https://cashcats.mypinata.cloud/ipfs/bafybeigio5rjqqlz6abnvayng7w26a32p6b2keovroqopr46pw45oc3laa/4692.png",
+    "external_url": "ipfs/bafybeigio5rjqqlz6abnvayng7w26a32p6b2keovroqopr46pw45oc3laa/4692.png",
+    "traits": [
+        {
+            "trait_type": "Background",
+            "option_id": 4,
+            "value": "Blue",
+            "trait_count": 1936
+        },
+        {
+            "trait_type": "Body",
+            "option_id": 2,
+            "value": "Yellow",
+            "trait_count": 2018
+        },
+        {
+            "trait_type": "Eyes",
+            "option_id": 13,
+            "value": "Dead Look",
+            "trait_count": 482
+        },
+        {
+            "trait_type": "Mouth",
+            "option_id": 3,
+            "value": "X Snout",
+            "trait_count": 808
+        }
+    ]
+}

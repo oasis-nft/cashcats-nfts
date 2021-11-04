@@ -1,0 +1,45 @@
+{
+    "id": 9308,
+    "description": "CashCats",
+    "name": "Cat # 9308",
+    "image": "https://cashcats.mypinata.cloud/ipfs/bafybeigio5rjqqlz6abnvayng7w26a32p6b2keovroqopr46pw45oc3laa/9308.png",
+    "external_url": "ipfs/bafybeigio5rjqqlz6abnvayng7w26a32p6b2keovroqopr46pw45oc3laa/9308.png",
+    "traits": [
+        {
+            "trait_type": "Background",
+            "option_id": 0,
+            "value": "Red",
+            "trait_count": 2023
+        },
+        {
+            "trait_type": "Body",
+            "option_id": 6,
+            "value": "White Spotted",
+            "trait_count": 509
+        },
+        {
+            "trait_type": "Eyes",
+            "option_id": 13,
+            "value": "Dead Look",
+            "trait_count": 482
+        },
+        {
+            "trait_type": "Mouth",
+            "option_id": 3,
+            "value": "X Snout",
+            "trait_count": 808
+        },
+        {
+            "trait_type": "Collar",
+            "option_id": 7,
+            "value": "Flowers",
+            "trait_count": 518
+        },
+        {
+            "trait_type": "Accessory",
+            "option_id": 8,
+            "value": "Headphones",
+            "trait_count": 591
+        }
+    ]
+}

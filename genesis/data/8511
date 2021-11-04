@@ -1,0 +1,45 @@
+{
+    "id": 8511,
+    "description": "CashCats",
+    "name": "Cat # 8511",
+    "image": "https://cashcats.mypinata.cloud/ipfs/bafybeigio5rjqqlz6abnvayng7w26a32p6b2keovroqopr46pw45oc3laa/8511.png",
+    "external_url": "ipfs/bafybeigio5rjqqlz6abnvayng7w26a32p6b2keovroqopr46pw45oc3laa/8511.png",
+    "traits": [
+        {
+            "trait_type": "Background",
+            "option_id": 1,
+            "value": "Purple",
+            "trait_count": 2017
+        },
+        {
+            "trait_type": "Body",
+            "option_id": 3,
+            "value": "Pink",
+            "trait_count": 1993
+        },
+        {
+            "trait_type": "Eyes",
+            "option_id": 12,
+            "value": "Wink Eyes",
+            "trait_count": 1030
+        },
+        {
+            "trait_type": "Mouth",
+            "option_id": 9,
+            "value": "Whisker Smile",
+            "trait_count": 1250
+        },
+        {
+            "trait_type": "Collar",
+            "option_id": 6,
+            "value": "Hippy Collar",
+            "trait_count": 477
+        },
+        {
+            "trait_type": "Accessory",
+            "option_id": 0,
+            "value": "Baret",
+            "trait_count": 394
+        }
+    ]
+}

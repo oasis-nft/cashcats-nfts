@@ -1,0 +1,39 @@
+{
+    "id": 2650,
+    "description": "CashCats",
+    "name": "Cat # 2650",
+    "image": "https://cashcats.mypinata.cloud/ipfs/bafybeigio5rjqqlz6abnvayng7w26a32p6b2keovroqopr46pw45oc3laa/2650.png",
+    "external_url": "ipfs/bafybeigio5rjqqlz6abnvayng7w26a32p6b2keovroqopr46pw45oc3laa/2650.png",
+    "traits": [
+        {
+            "trait_type": "Background",
+            "option_id": 4,
+            "value": "Blue",
+            "trait_count": 1936
+        },
+        {
+            "trait_type": "Body",
+            "option_id": 2,
+            "value": "Yellow",
+            "trait_count": 2018
+        },
+        {
+            "trait_type": "Eyes",
+            "option_id": 15,
+            "value": "Cool Glasses",
+            "trait_count": 388
+        },
+        {
+            "trait_type": "Mouth",
+            "option_id": 4,
+            "value": "Friendly Smile",
+            "trait_count": 1469
+        },
+        {
+            "trait_type": "Accessory",
+            "option_id": 4,
+            "value": "Bandana",
+            "trait_count": 667
+        }
+    ]
+}

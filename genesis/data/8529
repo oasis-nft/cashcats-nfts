@@ -1,0 +1,33 @@
+{
+    "id": 8529,
+    "description": "CashCats",
+    "name": "Cat # 8529",
+    "image": "https://cashcats.mypinata.cloud/ipfs/bafybeigio5rjqqlz6abnvayng7w26a32p6b2keovroqopr46pw45oc3laa/8529.png",
+    "external_url": "ipfs/bafybeigio5rjqqlz6abnvayng7w26a32p6b2keovroqopr46pw45oc3laa/8529.png",
+    "traits": [
+        {
+            "trait_type": "Background",
+            "option_id": 1,
+            "value": "Purple",
+            "trait_count": 2017
+        },
+        {
+            "trait_type": "Body",
+            "option_id": 1,
+            "value": "Brown",
+            "trait_count": 2031
+        },
+        {
+            "trait_type": "Eyes",
+            "option_id": 0,
+            "value": "Monocle",
+            "trait_count": 209
+        },
+        {
+            "trait_type": "Mouth",
+            "option_id": 3,
+            "value": "X Snout",
+            "trait_count": 808
+        }
+    ]
+}
