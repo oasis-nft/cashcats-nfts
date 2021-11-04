@@ -132,7 +132,7 @@ async function generate() {
     // generate json metadata
     await generateMetadata(OUTPUT_PATH_META, i, nftSet[i], rarityMap);
     // generate the cats (id = i+1)
-    await generateCatImage(ASSETS_PATH, OUTPUT_PATH, i, nftSet[i]);
+    // await generateCatImage(ASSETS_PATH, OUTPUT_PATH, i, nftSet[i]);
 
   }
 
