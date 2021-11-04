@@ -1,4 +1,4 @@
-## Cat generation
+## CashCats generation
 
 This tool has been used to generate the CashCats NFTs. The tool uses a pseudo random number generator to randomize the set. This allows the images to be reproduced based on the seed that was used to generate the CashCats. The tool will generate both images and metadata jsons.
 
