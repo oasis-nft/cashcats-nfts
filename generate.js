@@ -21,7 +21,7 @@ generate();
 
 async function generate() {
   const files = await fs.readdirSync(ASSETS_PATH);
-
+  let totalOptions = 1;
   const catAssets = [];
   for(let i = 0; i < files.length; i++) {
     const filePath = `${ASSETS_PATH}${files[i]}/`
@@ -51,6 +51,7 @@ async function generate() {
           });
         }
       }
+      totalOptions *= assets.length;
 
       catAssets.push({
         index: i,
@@ -85,7 +86,7 @@ async function generate() {
 
   shuffle(nftSet);
 
-  console.log(`Unique options mapped! There are ${nftSet.length} unique options available`);
+  console.log(`Unique options mapped! Selected ${nftSet.length} out of ${totalOptions} unique options available`);
 
   const setSize = nftSet.length > MAX_GEN ? MAX_GEN : nftSet.length;
   nftSet = nftSet.slice(0, setSize)
@@ -132,7 +133,7 @@ async function generate() {
     // generate json metadata
     await generateMetadata(OUTPUT_PATH_META, i, nftSet[i], rarityMap);
     // generate the cats (id = i+1)
-    // await generateCatImage(ASSETS_PATH, OUTPUT_PATH, i, nftSet[i]);
+    await generateCatImage(ASSETS_PATH, OUTPUT_PATH, i, nftSet[i]);
 
   }
 

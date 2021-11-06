@@ -39,20 +39,39 @@ function buildRarityHtml(rarityMap, optionMap) {
     }
   `;
 
+  body = body.concat(
+    `
+      <div style="width: 100%"><h1>CashCats NFT Option Map</h1></div>
+      <div style="width: 50%">
+        <p>With the optionmap below, a total of 1,232,000 unique cats can be created. 10,000 cats have been selected randomly using a seeded pseudorandom number generator. </p>
+        <p>The weight of the attribute determines the chance an attribute will be selected by the generator. Due to the randomnes of the selection process the actual selected amount will deviate. </p>
+      </div>
+    `
+  );
+
   optionMap.forEach( attribute => {
     // console.log(attribute);
+    
     body = body.concat(
     `<div class="title"><h2>${attribute.name}</h2></div>`
     );
 
     body = body.concat('<div class="wrapper">')
     attribute.optionValues.forEach( option => {
-      // console.log(option)
       const rarity = _.find(rarityMap, {key: `${attribute.attributeId}-${option.optionId}`})
+      
+      // we made a mistake in the optionMap. The name labels Emerald and Ruby have been swapped. Since we cant change the optionMap we correct it here..
+      let name = option.name;
+
+      if(name === "Emerald" ) {
+        name = "Ruby";
+      } else if(name === "Ruby") {
+        name = "Emerald";
+      }
 
       body = body.concat(`<div class="attribute">`);
-      body = body.concat(`<div><img src="../assets/${attribute.attributeId}/${option.optionId}.png" /></div>`);
-      body = body.concat(`<div><strong>${option.name}</strong></div>`);
+      body = body.concat(`<div><img src="https://raw.githubusercontent.com/oasis-nft/cashcats-nfts/master/assets/${attribute.attributeId}/${option.optionId}.png" /></div>`);
+      body = body.concat(`<div><strong>${name}</strong></div>`);
       body = body.concat(`<div><strong>${rarity.count} cats</strong></div>`);
       body = body.concat(`<div><strong>${rarity.rarity}%</strong></div>`);
       body = body.concat(`<div>Weight: ${option.rarity}</div>`);
