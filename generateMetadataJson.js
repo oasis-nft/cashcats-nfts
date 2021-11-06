@@ -24,10 +24,20 @@ const generateMetadata = async function(path, id, options, rarityMap) {
     const rarity = _.find(rarityMap, {key: options[i]});
 
     if(option.name !== 'None') {
+
+      // we made a mistake in the optionMap. Emerald and Ruby have been swapped. Since we cant change the optionMap we correct it here..
+      let name = option.name;
+
+      if(name === "Emerald" ) {
+        name = "Ruby";
+      } else if(name === "Ruby") {
+        name = "Emerald";
+      }
+
       const entry = {}
       entry.trait_type = attribute.name;
       entry.option_id = option.optionId;
-      entry.value = option.name;
+      entry.value = name;
       entry.trait_count = rarity.count;
 
       metadata.traits.push(entry)
