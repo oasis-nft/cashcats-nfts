@@ -148,12 +148,11 @@ async function generate() {
   toBurn = uniq(toBurn);
   toBurnCount = toBurn.length;
 
-
   console.log(`The set contains ${toBurnCount} copycats (will be burned) and ${nftSet.length - (toBurnCount)} unique cats.`);
 
   console.log(`Options mapped! Selected ${nftSet.length} out of ${totalOptions} unique options available`);
 
-  const setSize = uniqueSet(nftSet).length;
+  const setSize = nftSet.length - toBurnCount;
   nftSet = nftSet.slice(0, nftSet.length)
 
   // calculate rarities, excluding burned cats
@@ -257,7 +256,7 @@ async function generate() {
 
   for(let i = 0; i < max; i++) {
     // generate json metadata
-    await generateMetadata(OUTPUT_PATH_META, i, nftSet[i], rarityMap);
+    // await generateMetadata(OUTPUT_PATH_META, i, nftSet[i], rarityMap);
     // generate the cats
     // await generateCatImage(ASSETS_PATH, PATCHED_ASSETS_PATH, OUTPUT_PATH, i, nftSet[i], toBurn, BURNED_CAT_PATH);
     
