@@ -8,32 +8,27 @@
         {
             "trait_type": "Background",
             "option_id": 2,
-            "value": "Green",
-            "trait_count": 1975
+            "value": "Green"
         },
         {
             "trait_type": "Body",
             "option_id": 5,
-            "value": "White Striped",
-            "trait_count": 508
+            "value": "White Striped"
         },
         {
             "trait_type": "Eyes",
             "option_id": 1,
-            "value": "Long Eyes",
-            "trait_count": 485
+            "value": "Long Eyes"
         },
         {
             "trait_type": "Mouth",
             "option_id": 6,
-            "value": "Vampire Cat",
-            "trait_count": 405
+            "value": "Vampire Cat"
         },
         {
             "trait_type": "Accessory",
             "option_id": 3,
-            "value": "Flower",
-            "trait_count": 523
+            "value": "Flower"
         }
     ]
 }

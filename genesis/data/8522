@@ -8,32 +8,27 @@
         {
             "trait_type": "Background",
             "option_id": 2,
-            "value": "Green",
-            "trait_count": 1975
+            "value": "Green"
         },
         {
             "trait_type": "Body",
             "option_id": 0,
-            "value": "White",
-            "trait_count": 1939
+            "value": "White"
         },
         {
             "trait_type": "Eyes",
             "option_id": 12,
-            "value": "Wink Eyes",
-            "trait_count": 1030
+            "value": "Wink Eyes"
         },
         {
             "trait_type": "Mouth",
             "option_id": 1,
-            "value": "Snout",
-            "trait_count": 1441
+            "value": "Snout"
         },
         {
             "trait_type": "Accessory",
             "option_id": 4,
-            "value": "Bandana",
-            "trait_count": 667
+            "value": "Bandana"
         }
     ]
 }

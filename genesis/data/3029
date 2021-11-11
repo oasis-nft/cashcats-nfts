@@ -8,32 +8,27 @@
         {
             "trait_type": "Background",
             "option_id": 0,
-            "value": "Red",
-            "trait_count": 2023
+            "value": "Red"
         },
         {
             "trait_type": "Body",
             "option_id": 3,
-            "value": "Pink",
-            "trait_count": 1993
+            "value": "Pink"
         },
         {
             "trait_type": "Eyes",
             "option_id": 5,
-            "value": "Resting Eyes",
-            "trait_count": 989
+            "value": "Resting Eyes"
         },
         {
             "trait_type": "Mouth",
             "option_id": 6,
-            "value": "Vampire Cat",
-            "trait_count": 405
+            "value": "Vampire Cat"
         },
         {
             "trait_type": "Accessory",
             "option_id": 9,
-            "value": "Bucket Hat",
-            "trait_count": 677
+            "value": "Bucket Hat"
         }
     ]
 }

@@ -8,32 +8,27 @@
         {
             "trait_type": "Background",
             "option_id": 3,
-            "value": "Yellow",
-            "trait_count": 2049
+            "value": "Yellow"
         },
         {
             "trait_type": "Body",
             "option_id": 4,
-            "value": "Red",
-            "trait_count": 397
+            "value": "Red"
         },
         {
             "trait_type": "Eyes",
             "option_id": 9,
-            "value": "Cute Look",
-            "trait_count": 887
+            "value": "Cute Look"
         },
         {
             "trait_type": "Mouth",
             "option_id": 5,
-            "value": "Happy Laugh",
-            "trait_count": 991
+            "value": "Happy Laugh"
         },
         {
             "trait_type": "Collar",
             "option_id": 8,
-            "value": "Spiky Collar",
-            "trait_count": 768
+            "value": "Spiky Collar"
         }
     ]
 }

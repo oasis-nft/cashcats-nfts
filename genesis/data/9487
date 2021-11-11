@@ -8,26 +8,22 @@
         {
             "trait_type": "Background",
             "option_id": 4,
-            "value": "Blue",
-            "trait_count": 1936
+            "value": "Blue"
         },
         {
             "trait_type": "Body",
             "option_id": 4,
-            "value": "Red",
-            "trait_count": 397
+            "value": "Red"
         },
         {
             "trait_type": "Eyes",
             "option_id": 3,
-            "value": "Bitcoin",
-            "trait_count": 628
+            "value": "Bitcoin"
         },
         {
             "trait_type": "Mouth",
             "option_id": 1,
-            "value": "Snout",
-            "trait_count": 1441
+            "value": "Snout"
         }
     ]
 }

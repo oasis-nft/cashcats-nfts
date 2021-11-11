@@ -8,26 +8,22 @@
         {
             "trait_type": "Background",
             "option_id": 2,
-            "value": "Green",
-            "trait_count": 1975
+            "value": "Green"
         },
         {
             "trait_type": "Body",
             "option_id": 9,
-            "value": "Diamond",
-            "trait_count": 89
+            "value": "Diamond"
         },
         {
             "trait_type": "Eyes",
             "option_id": 3,
-            "value": "Bitcoin",
-            "trait_count": 628
+            "value": "Bitcoin"
         },
         {
             "trait_type": "Mouth",
             "option_id": 9,
-            "value": "Whisker Smile",
-            "trait_count": 1250
+            "value": "Whisker Smile"
         }
     ]
 }

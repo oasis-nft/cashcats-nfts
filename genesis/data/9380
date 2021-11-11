@@ -8,26 +8,22 @@
         {
             "trait_type": "Background",
             "option_id": 0,
-            "value": "Red",
-            "trait_count": 2023
+            "value": "Red"
         },
         {
             "trait_type": "Body",
             "option_id": 0,
-            "value": "White",
-            "trait_count": 1939
+            "value": "White"
         },
         {
             "trait_type": "Eyes",
             "option_id": 13,
-            "value": "Dead Look",
-            "trait_count": 482
+            "value": "Dead Look"
         },
         {
             "trait_type": "Mouth",
             "option_id": 3,
-            "value": "X Snout",
-            "trait_count": 808
+            "value": "X Snout"
         }
     ]
 }

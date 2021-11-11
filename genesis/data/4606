@@ -8,26 +8,22 @@
         {
             "trait_type": "Background",
             "option_id": 3,
-            "value": "Yellow",
-            "trait_count": 2049
+            "value": "Yellow"
         },
         {
             "trait_type": "Body",
             "option_id": 6,
-            "value": "White Spotted",
-            "trait_count": 509
+            "value": "White Spotted"
         },
         {
             "trait_type": "Eyes",
             "option_id": 12,
-            "value": "Wink Eyes",
-            "trait_count": 1030
+            "value": "Wink Eyes"
         },
         {
             "trait_type": "Mouth",
             "option_id": 2,
-            "value": "Z Teeth",
-            "trait_count": 1331
+            "value": "Z Teeth"
         }
     ]
 }

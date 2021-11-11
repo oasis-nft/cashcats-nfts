@@ -7,27 +7,23 @@
     "traits": [
         {
             "trait_type": "Background",
-            "option_id": 0,
-            "value": "Red",
-            "trait_count": 2023
+            "option_id": 8,
+            "value": "Blue / Green"
         },
         {
             "trait_type": "Body",
             "option_id": 2,
-            "value": "Yellow",
-            "trait_count": 2018
+            "value": "Yellow"
         },
         {
             "trait_type": "Eyes",
             "option_id": 14,
-            "value": "Awake Look",
-            "trait_count": 1024
+            "value": "Awake Look"
         },
         {
             "trait_type": "Mouth",
             "option_id": 0,
-            "value": "Smoke",
-            "trait_count": 607
+            "value": "Smoke"
         }
     ]
 }

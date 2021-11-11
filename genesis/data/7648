@@ -7,27 +7,23 @@
     "traits": [
         {
             "trait_type": "Background",
-            "option_id": 4,
-            "value": "Blue",
-            "trait_count": 1936
+            "option_id": 6,
+            "value": "Purple / Blue"
         },
         {
             "trait_type": "Body",
             "option_id": 1,
-            "value": "Brown",
-            "trait_count": 2031
+            "value": "Brown"
         },
         {
             "trait_type": "Eyes",
             "option_id": 9,
-            "value": "Cute Look",
-            "trait_count": 887
+            "value": "Cute Look"
         },
         {
             "trait_type": "Mouth",
             "option_id": 0,
-            "value": "Smoke",
-            "trait_count": 607
+            "value": "Smoke"
         }
     ]
 }

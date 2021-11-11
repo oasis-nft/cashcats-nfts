@@ -8,38 +8,32 @@
         {
             "trait_type": "Background",
             "option_id": 1,
-            "value": "Purple",
-            "trait_count": 2017
+            "value": "Purple"
         },
         {
             "trait_type": "Body",
             "option_id": 5,
-            "value": "White Striped",
-            "trait_count": 508
+            "value": "White Striped"
         },
         {
             "trait_type": "Eyes",
             "option_id": 14,
-            "value": "Awake Look",
-            "trait_count": 1024
+            "value": "Awake Look"
         },
         {
             "trait_type": "Mouth",
             "option_id": 7,
-            "value": "Tongue",
-            "trait_count": 1499
+            "value": "Tongue"
         },
         {
             "trait_type": "Collar",
             "option_id": 5,
-            "value": "Leather Collar",
-            "trait_count": 762
+            "value": "Leather Collar"
         },
         {
             "trait_type": "Accessory",
             "option_id": 5,
-            "value": "Bow Clip",
-            "trait_count": 509
+            "value": "Bow Clip"
         }
     ]
 }

@@ -8,38 +8,32 @@
         {
             "trait_type": "Background",
             "option_id": 2,
-            "value": "Green",
-            "trait_count": 1975
+            "value": "Green"
         },
         {
             "trait_type": "Body",
             "option_id": 2,
-            "value": "Yellow",
-            "trait_count": 2018
+            "value": "Yellow"
         },
         {
             "trait_type": "Eyes",
             "option_id": 4,
-            "value": "Uplifted Eyes",
-            "trait_count": 1077
+            "value": "Uplifted Eyes"
         },
         {
             "trait_type": "Mouth",
             "option_id": 0,
-            "value": "Smoke",
-            "trait_count": 607
+            "value": "Smoke"
         },
         {
             "trait_type": "Collar",
             "option_id": 4,
-            "value": "Golden Collar",
-            "trait_count": 297
+            "value": "Golden Collar"
         },
         {
             "trait_type": "Accessory",
             "option_id": 1,
-            "value": "Ceasar",
-            "trait_count": 301
+            "value": "Ceasar"
         }
     ]
 }

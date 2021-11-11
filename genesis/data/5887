@@ -8,38 +8,32 @@
         {
             "trait_type": "Background",
             "option_id": 2,
-            "value": "Green",
-            "trait_count": 1975
+            "value": "Green"
         },
         {
             "trait_type": "Body",
             "option_id": 3,
-            "value": "Pink",
-            "trait_count": 1993
+            "value": "Pink"
         },
         {
             "trait_type": "Eyes",
             "option_id": 14,
-            "value": "Awake Look",
-            "trait_count": 1024
+            "value": "Awake Look"
         },
         {
             "trait_type": "Mouth",
             "option_id": 9,
-            "value": "Whisker Smile",
-            "trait_count": 1250
+            "value": "Whisker Smile"
         },
         {
             "trait_type": "Collar",
             "option_id": 3,
-            "value": "Bow Tie",
-            "trait_count": 749
+            "value": "Bow Tie"
         },
         {
             "trait_type": "Accessory",
             "option_id": 10,
-            "value": "Golden Earring",
-            "trait_count": 681
+            "value": "Golden Earring"
         }
     ]
 }

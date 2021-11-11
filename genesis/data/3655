@@ -8,32 +8,27 @@
         {
             "trait_type": "Background",
             "option_id": 0,
-            "value": "Red",
-            "trait_count": 2023
+            "value": "Red"
         },
         {
             "trait_type": "Body",
             "option_id": 1,
-            "value": "Brown",
-            "trait_count": 2031
+            "value": "Brown"
         },
         {
             "trait_type": "Eyes",
             "option_id": 6,
-            "value": "Love Look",
-            "trait_count": 274
+            "value": "Love Look"
         },
         {
             "trait_type": "Mouth",
             "option_id": 6,
-            "value": "Vampire Cat",
-            "trait_count": 405
+            "value": "Vampire Cat"
         },
         {
             "trait_type": "Collar",
             "option_id": 0,
-            "value": "Diamond Collar",
-            "trait_count": 102
+            "value": "Diamond Collar"
         }
     ]
 }

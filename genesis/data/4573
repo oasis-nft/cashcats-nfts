@@ -8,26 +8,22 @@
         {
             "trait_type": "Background",
             "option_id": 1,
-            "value": "Purple",
-            "trait_count": 2017
+            "value": "Purple"
         },
         {
             "trait_type": "Body",
             "option_id": 0,
-            "value": "White",
-            "trait_count": 1939
+            "value": "White"
         },
         {
             "trait_type": "Eyes",
             "option_id": 11,
-            "value": "Happy Look",
-            "trait_count": 1019
+            "value": "Happy Look"
         },
         {
             "trait_type": "Mouth",
             "option_id": 7,
-            "value": "Tongue",
-            "trait_count": 1499
+            "value": "Tongue"
         }
     ]
 }

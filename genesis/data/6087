@@ -8,32 +8,27 @@
         {
             "trait_type": "Background",
             "option_id": 4,
-            "value": "Blue",
-            "trait_count": 1936
+            "value": "Blue"
         },
         {
             "trait_type": "Body",
             "option_id": 3,
-            "value": "Pink",
-            "trait_count": 1993
+            "value": "Pink"
         },
         {
             "trait_type": "Eyes",
             "option_id": 7,
-            "value": "8bit Glasses",
-            "trait_count": 111
+            "value": "8bit Glasses"
         },
         {
             "trait_type": "Mouth",
             "option_id": 2,
-            "value": "Z Teeth",
-            "trait_count": 1331
+            "value": "Z Teeth"
         },
         {
             "trait_type": "Accessory",
             "option_id": 10,
-            "value": "Golden Earring",
-            "trait_count": 681
+            "value": "Golden Earring"
         }
     ]
 }

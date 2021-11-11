@@ -8,32 +8,27 @@
         {
             "trait_type": "Background",
             "option_id": 4,
-            "value": "Blue",
-            "trait_count": 1936
+            "value": "Blue"
         },
         {
             "trait_type": "Body",
             "option_id": 1,
-            "value": "Brown",
-            "trait_count": 2031
+            "value": "Brown"
         },
         {
             "trait_type": "Eyes",
             "option_id": 6,
-            "value": "Love Look",
-            "trait_count": 274
+            "value": "Love Look"
         },
         {
             "trait_type": "Mouth",
             "option_id": 2,
-            "value": "Z Teeth",
-            "trait_count": 1331
+            "value": "Z Teeth"
         },
         {
             "trait_type": "Collar",
             "option_id": 8,
-            "value": "Spiky Collar",
-            "trait_count": 768
+            "value": "Spiky Collar"
         }
     ]
 }

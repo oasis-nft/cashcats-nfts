@@ -8,38 +8,32 @@
         {
             "trait_type": "Background",
             "option_id": 0,
-            "value": "Red",
-            "trait_count": 2023
+            "value": "Red"
         },
         {
             "trait_type": "Body",
             "option_id": 6,
-            "value": "White Spotted",
-            "trait_count": 509
+            "value": "White Spotted"
         },
         {
             "trait_type": "Eyes",
             "option_id": 11,
-            "value": "Happy Look",
-            "trait_count": 1019
+            "value": "Happy Look"
         },
         {
             "trait_type": "Mouth",
             "option_id": 3,
-            "value": "X Snout",
-            "trait_count": 808
+            "value": "X Snout"
         },
         {
             "trait_type": "Collar",
             "option_id": 6,
-            "value": "Hippy Collar",
-            "trait_count": 477
+            "value": "Hippy Collar"
         },
         {
             "trait_type": "Accessory",
             "option_id": 10,
-            "value": "Golden Earring",
-            "trait_count": 681
+            "value": "Golden Earring"
         }
     ]
 }

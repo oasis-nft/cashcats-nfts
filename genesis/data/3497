@@ -8,32 +8,27 @@
         {
             "trait_type": "Background",
             "option_id": 1,
-            "value": "Purple",
-            "trait_count": 2017
+            "value": "Purple"
         },
         {
             "trait_type": "Body",
             "option_id": 3,
-            "value": "Pink",
-            "trait_count": 1993
+            "value": "Pink"
         },
         {
             "trait_type": "Eyes",
             "option_id": 3,
-            "value": "Bitcoin",
-            "trait_count": 628
+            "value": "Bitcoin"
         },
         {
             "trait_type": "Mouth",
             "option_id": 6,
-            "value": "Vampire Cat",
-            "trait_count": 405
+            "value": "Vampire Cat"
         },
         {
             "trait_type": "Collar",
             "option_id": 3,
-            "value": "Bow Tie",
-            "trait_count": 749
+            "value": "Bow Tie"
         }
     ]
 }

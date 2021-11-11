@@ -8,32 +8,27 @@
         {
             "trait_type": "Background",
             "option_id": 4,
-            "value": "Blue",
-            "trait_count": 1936
+            "value": "Blue"
         },
         {
             "trait_type": "Body",
             "option_id": 1,
-            "value": "Brown",
-            "trait_count": 2031
+            "value": "Brown"
         },
         {
             "trait_type": "Eyes",
             "option_id": 8,
-            "value": "Librarian Glasses",
-            "trait_count": 308
+            "value": "Librarian Glasses"
         },
         {
             "trait_type": "Mouth",
             "option_id": 9,
-            "value": "Whisker Smile",
-            "trait_count": 1250
+            "value": "Whisker Smile"
         },
         {
             "trait_type": "Accessory",
             "option_id": 10,
-            "value": "Golden Earring",
-            "trait_count": 681
+            "value": "Golden Earring"
         }
     ]
 }

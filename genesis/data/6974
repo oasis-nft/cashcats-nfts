@@ -8,32 +8,27 @@
         {
             "trait_type": "Background",
             "option_id": 2,
-            "value": "Green",
-            "trait_count": 1975
+            "value": "Green"
         },
         {
             "trait_type": "Body",
             "option_id": 4,
-            "value": "Red",
-            "trait_count": 397
+            "value": "Red"
         },
         {
             "trait_type": "Eyes",
             "option_id": 7,
-            "value": "8bit Glasses",
-            "trait_count": 111
+            "value": "8bit Glasses"
         },
         {
             "trait_type": "Mouth",
             "option_id": 4,
-            "value": "Friendly Smile",
-            "trait_count": 1469
+            "value": "Friendly Smile"
         },
         {
             "trait_type": "Collar",
             "option_id": 9,
-            "value": "Bitcoin Chain",
-            "trait_count": 215
+            "value": "Bitcoin Chain"
         }
     ]
 }

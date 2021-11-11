@@ -8,32 +8,27 @@
         {
             "trait_type": "Background",
             "option_id": 1,
-            "value": "Purple",
-            "trait_count": 2017
+            "value": "Purple"
         },
         {
             "trait_type": "Body",
             "option_id": 3,
-            "value": "Pink",
-            "trait_count": 1993
+            "value": "Pink"
         },
         {
             "trait_type": "Eyes",
             "option_id": 7,
-            "value": "8bit Glasses",
-            "trait_count": 111
+            "value": "8bit Glasses"
         },
         {
             "trait_type": "Mouth",
             "option_id": 9,
-            "value": "Whisker Smile",
-            "trait_count": 1250
+            "value": "Whisker Smile"
         },
         {
             "trait_type": "Accessory",
             "option_id": 2,
-            "value": "Crown",
-            "trait_count": 122
+            "value": "Crown"
         }
     ]
 }

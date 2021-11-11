@@ -7,27 +7,23 @@
     "traits": [
         {
             "trait_type": "Background",
-            "option_id": 2,
-            "value": "Green",
-            "trait_count": 1975
+            "option_id": 5,
+            "value": "Red / Orange"
         },
         {
             "trait_type": "Body",
             "option_id": 1,
-            "value": "Brown",
-            "trait_count": 2031
+            "value": "Brown"
         },
         {
             "trait_type": "Eyes",
             "option_id": 10,
-            "value": "Round Glasses",
-            "trait_count": 369
+            "value": "Round Glasses"
         },
         {
             "trait_type": "Mouth",
             "option_id": 9,
-            "value": "Whisker Smile",
-            "trait_count": 1250
+            "value": "Whisker Smile"
         }
     ]
 }

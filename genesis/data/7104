@@ -8,32 +8,27 @@
         {
             "trait_type": "Background",
             "option_id": 4,
-            "value": "Blue",
-            "trait_count": 1936
+            "value": "Blue"
         },
         {
             "trait_type": "Body",
             "option_id": 8,
-            "value": "Ruby",
-            "trait_count": 226
+            "value": "Ruby"
         },
         {
             "trait_type": "Eyes",
             "option_id": 12,
-            "value": "Wink Eyes",
-            "trait_count": 1030
+            "value": "Wink Eyes"
         },
         {
             "trait_type": "Mouth",
             "option_id": 6,
-            "value": "Vampire Cat",
-            "trait_count": 405
+            "value": "Vampire Cat"
         },
         {
             "trait_type": "Collar",
             "option_id": 8,
-            "value": "Spiky Collar",
-            "trait_count": 768
+            "value": "Spiky Collar"
         }
     ]
 }

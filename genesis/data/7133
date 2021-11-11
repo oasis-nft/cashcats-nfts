@@ -8,32 +8,27 @@
         {
             "trait_type": "Background",
             "option_id": 1,
-            "value": "Purple",
-            "trait_count": 2017
+            "value": "Purple"
         },
         {
             "trait_type": "Body",
             "option_id": 0,
-            "value": "White",
-            "trait_count": 1939
+            "value": "White"
         },
         {
             "trait_type": "Eyes",
             "option_id": 4,
-            "value": "Uplifted Eyes",
-            "trait_count": 1077
+            "value": "Uplifted Eyes"
         },
         {
             "trait_type": "Mouth",
             "option_id": 6,
-            "value": "Vampire Cat",
-            "trait_count": 405
+            "value": "Vampire Cat"
         },
         {
             "trait_type": "Collar",
             "option_id": 5,
-            "value": "Leather Collar",
-            "trait_count": 762
+            "value": "Leather Collar"
         }
     ]
 }

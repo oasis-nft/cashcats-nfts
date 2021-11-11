@@ -8,32 +8,27 @@
         {
             "trait_type": "Background",
             "option_id": 1,
-            "value": "Purple",
-            "trait_count": 2017
+            "value": "Purple"
         },
         {
             "trait_type": "Body",
             "option_id": 0,
-            "value": "White",
-            "trait_count": 1939
+            "value": "White"
         },
         {
             "trait_type": "Eyes",
             "option_id": 12,
-            "value": "Wink Eyes",
-            "trait_count": 1030
+            "value": "Wink Eyes"
         },
         {
             "trait_type": "Mouth",
             "option_id": 5,
-            "value": "Happy Laugh",
-            "trait_count": 991
+            "value": "Happy Laugh"
         },
         {
             "trait_type": "Accessory",
             "option_id": 0,
-            "value": "Baret",
-            "trait_count": 394
+            "value": "Baret"
         }
     ]
 }

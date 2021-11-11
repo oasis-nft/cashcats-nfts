@@ -8,32 +8,27 @@
         {
             "trait_type": "Background",
             "option_id": 2,
-            "value": "Green",
-            "trait_count": 1975
+            "value": "Green"
         },
         {
             "trait_type": "Body",
             "option_id": 2,
-            "value": "Yellow",
-            "trait_count": 2018
+            "value": "Yellow"
         },
         {
             "trait_type": "Eyes",
             "option_id": 4,
-            "value": "Uplifted Eyes",
-            "trait_count": 1077
+            "value": "Uplifted Eyes"
         },
         {
             "trait_type": "Mouth",
             "option_id": 1,
-            "value": "Snout",
-            "trait_count": 1441
+            "value": "Snout"
         },
         {
             "trait_type": "Accessory",
             "option_id": 10,
-            "value": "Golden Earring",
-            "trait_count": 681
+            "value": "Golden Earring"
         }
     ]
 }

@@ -8,32 +8,27 @@
         {
             "trait_type": "Background",
             "option_id": 4,
-            "value": "Blue",
-            "trait_count": 1936
+            "value": "Blue"
         },
         {
             "trait_type": "Body",
             "option_id": 6,
-            "value": "White Spotted",
-            "trait_count": 509
+            "value": "White Spotted"
         },
         {
             "trait_type": "Eyes",
             "option_id": 4,
-            "value": "Uplifted Eyes",
-            "trait_count": 1077
+            "value": "Uplifted Eyes"
         },
         {
             "trait_type": "Mouth",
             "option_id": 7,
-            "value": "Tongue",
-            "trait_count": 1499
+            "value": "Tongue"
         },
         {
             "trait_type": "Collar",
             "option_id": 7,
-            "value": "Flowers",
-            "trait_count": 518
+            "value": "Flowers"
         }
     ]
 }

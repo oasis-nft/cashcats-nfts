@@ -8,38 +8,32 @@
         {
             "trait_type": "Background",
             "option_id": 0,
-            "value": "Red",
-            "trait_count": 2023
+            "value": "Red"
         },
         {
             "trait_type": "Body",
             "option_id": 3,
-            "value": "Pink",
-            "trait_count": 1993
+            "value": "Pink"
         },
         {
             "trait_type": "Eyes",
             "option_id": 12,
-            "value": "Wink Eyes",
-            "trait_count": 1030
+            "value": "Wink Eyes"
         },
         {
             "trait_type": "Mouth",
             "option_id": 2,
-            "value": "Z Teeth",
-            "trait_count": 1331
+            "value": "Z Teeth"
         },
         {
             "trait_type": "Collar",
             "option_id": 2,
-            "value": "Bandana",
-            "trait_count": 816
+            "value": "Bandana"
         },
         {
             "trait_type": "Accessory",
             "option_id": 5,
-            "value": "Bow Clip",
-            "trait_count": 509
+            "value": "Bow Clip"
         }
     ]
 }

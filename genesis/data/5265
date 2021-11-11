@@ -8,38 +8,32 @@
         {
             "trait_type": "Background",
             "option_id": 1,
-            "value": "Purple",
-            "trait_count": 2017
+            "value": "Purple"
         },
         {
             "trait_type": "Body",
             "option_id": 4,
-            "value": "Red",
-            "trait_count": 397
+            "value": "Red"
         },
         {
             "trait_type": "Eyes",
             "option_id": 12,
-            "value": "Wink Eyes",
-            "trait_count": 1030
+            "value": "Wink Eyes"
         },
         {
             "trait_type": "Mouth",
             "option_id": 0,
-            "value": "Smoke",
-            "trait_count": 607
+            "value": "Smoke"
         },
         {
             "trait_type": "Collar",
             "option_id": 9,
-            "value": "Bitcoin Chain",
-            "trait_count": 215
+            "value": "Bitcoin Chain"
         },
         {
             "trait_type": "Accessory",
             "option_id": 9,
-            "value": "Bucket Hat",
-            "trait_count": 677
+            "value": "Bucket Hat"
         }
     ]
 }

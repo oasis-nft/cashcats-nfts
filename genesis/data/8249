@@ -8,32 +8,27 @@
         {
             "trait_type": "Background",
             "option_id": 3,
-            "value": "Yellow",
-            "trait_count": 2049
+            "value": "Yellow"
         },
         {
             "trait_type": "Body",
             "option_id": 8,
-            "value": "Ruby",
-            "trait_count": 226
+            "value": "Ruby"
         },
         {
             "trait_type": "Eyes",
             "option_id": 4,
-            "value": "Uplifted Eyes",
-            "trait_count": 1077
+            "value": "Uplifted Eyes"
         },
         {
             "trait_type": "Mouth",
             "option_id": 9,
-            "value": "Whisker Smile",
-            "trait_count": 1250
+            "value": "Whisker Smile"
         },
         {
             "trait_type": "Collar",
             "option_id": 6,
-            "value": "Hippy Collar",
-            "trait_count": 477
+            "value": "Hippy Collar"
         }
     ]
 }

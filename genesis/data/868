@@ -8,26 +8,22 @@
         {
             "trait_type": "Background",
             "option_id": 0,
-            "value": "Red",
-            "trait_count": 2023
+            "value": "Red"
         },
         {
             "trait_type": "Body",
             "option_id": 3,
-            "value": "Pink",
-            "trait_count": 1993
+            "value": "Pink"
         },
         {
             "trait_type": "Eyes",
             "option_id": 9,
-            "value": "Cute Look",
-            "trait_count": 887
+            "value": "Cute Look"
         },
         {
             "trait_type": "Mouth",
             "option_id": 5,
-            "value": "Happy Laugh",
-            "trait_count": 991
+            "value": "Happy Laugh"
         }
     ]
 }

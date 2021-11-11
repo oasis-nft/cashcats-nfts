@@ -8,38 +8,32 @@
         {
             "trait_type": "Background",
             "option_id": 3,
-            "value": "Yellow",
-            "trait_count": 2049
+            "value": "Yellow"
         },
         {
             "trait_type": "Body",
             "option_id": 0,
-            "value": "White",
-            "trait_count": 1939
+            "value": "White"
         },
         {
             "trait_type": "Eyes",
             "option_id": 12,
-            "value": "Wink Eyes",
-            "trait_count": 1030
+            "value": "Wink Eyes"
         },
         {
             "trait_type": "Mouth",
             "option_id": 3,
-            "value": "X Snout",
-            "trait_count": 808
+            "value": "X Snout"
         },
         {
             "trait_type": "Collar",
             "option_id": 5,
-            "value": "Leather Collar",
-            "trait_count": 762
+            "value": "Leather Collar"
         },
         {
             "trait_type": "Accessory",
             "option_id": 7,
-            "value": "Smooth Criminal",
-            "trait_count": 394
+            "value": "Smooth Criminal"
         }
     ]
 }

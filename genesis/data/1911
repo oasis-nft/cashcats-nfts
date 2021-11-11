@@ -8,38 +8,32 @@
         {
             "trait_type": "Background",
             "option_id": 1,
-            "value": "Purple",
-            "trait_count": 2017
+            "value": "Purple"
         },
         {
             "trait_type": "Body",
             "option_id": 2,
-            "value": "Yellow",
-            "trait_count": 2018
+            "value": "Yellow"
         },
         {
             "trait_type": "Eyes",
             "option_id": 5,
-            "value": "Resting Eyes",
-            "trait_count": 989
+            "value": "Resting Eyes"
         },
         {
             "trait_type": "Mouth",
             "option_id": 5,
-            "value": "Happy Laugh",
-            "trait_count": 991
+            "value": "Happy Laugh"
         },
         {
             "trait_type": "Collar",
             "option_id": 5,
-            "value": "Leather Collar",
-            "trait_count": 762
+            "value": "Leather Collar"
         },
         {
             "trait_type": "Accessory",
             "option_id": 9,
-            "value": "Bucket Hat",
-            "trait_count": 677
+            "value": "Bucket Hat"
         }
     ]
 }

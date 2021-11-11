@@ -8,38 +8,32 @@
         {
             "trait_type": "Background",
             "option_id": 3,
-            "value": "Yellow",
-            "trait_count": 2049
+            "value": "Yellow"
         },
         {
             "trait_type": "Body",
             "option_id": 2,
-            "value": "Yellow",
-            "trait_count": 2018
+            "value": "Yellow"
         },
         {
             "trait_type": "Eyes",
             "option_id": 14,
-            "value": "Awake Look",
-            "trait_count": 1024
+            "value": "Awake Look"
         },
         {
             "trait_type": "Mouth",
             "option_id": 2,
-            "value": "Z Teeth",
-            "trait_count": 1331
+            "value": "Z Teeth"
         },
         {
             "trait_type": "Collar",
             "option_id": 7,
-            "value": "Flowers",
-            "trait_count": 518
+            "value": "Flowers"
         },
         {
             "trait_type": "Accessory",
             "option_id": 3,
-            "value": "Flower",
-            "trait_count": 523
+            "value": "Flower"
         }
     ]
 }

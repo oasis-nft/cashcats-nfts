@@ -8,32 +8,27 @@
         {
             "trait_type": "Background",
             "option_id": 2,
-            "value": "Green",
-            "trait_count": 1975
+            "value": "Green"
         },
         {
             "trait_type": "Body",
             "option_id": 5,
-            "value": "White Striped",
-            "trait_count": 508
+            "value": "White Striped"
         },
         {
             "trait_type": "Eyes",
             "option_id": 12,
-            "value": "Wink Eyes",
-            "trait_count": 1030
+            "value": "Wink Eyes"
         },
         {
             "trait_type": "Mouth",
             "option_id": 9,
-            "value": "Whisker Smile",
-            "trait_count": 1250
+            "value": "Whisker Smile"
         },
         {
             "trait_type": "Accessory",
             "option_id": 7,
-            "value": "Smooth Criminal",
-            "trait_count": 394
+            "value": "Smooth Criminal"
         }
     ]
 }

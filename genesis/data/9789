@@ -8,38 +8,32 @@
         {
             "trait_type": "Background",
             "option_id": 2,
-            "value": "Green",
-            "trait_count": 1975
+            "value": "Green"
         },
         {
             "trait_type": "Body",
             "option_id": 7,
-            "value": "Emerald",
-            "trait_count": 290
+            "value": "Emerald"
         },
         {
             "trait_type": "Eyes",
             "option_id": 15,
-            "value": "Cool Glasses",
-            "trait_count": 388
+            "value": "Cool Glasses"
         },
         {
             "trait_type": "Mouth",
             "option_id": 2,
-            "value": "Z Teeth",
-            "trait_count": 1331
+            "value": "Z Teeth"
         },
         {
             "trait_type": "Collar",
             "option_id": 6,
-            "value": "Hippy Collar",
-            "trait_count": 477
+            "value": "Hippy Collar"
         },
         {
             "trait_type": "Accessory",
             "option_id": 4,
-            "value": "Bandana",
-            "trait_count": 667
+            "value": "Bandana"
         }
     ]
 }

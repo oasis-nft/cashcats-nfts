@@ -7,27 +7,23 @@
     "traits": [
         {
             "trait_type": "Background",
-            "option_id": 2,
-            "value": "Green",
-            "trait_count": 1975
+            "option_id": 7,
+            "value": "Purple / Green"
         },
         {
             "trait_type": "Body",
             "option_id": 1,
-            "value": "Brown",
-            "trait_count": 2031
+            "value": "Brown"
         },
         {
             "trait_type": "Eyes",
             "option_id": 11,
-            "value": "Happy Look",
-            "trait_count": 1019
+            "value": "Happy Look"
         },
         {
             "trait_type": "Mouth",
             "option_id": 2,
-            "value": "Z Teeth",
-            "trait_count": 1331
+            "value": "Z Teeth"
         }
     ]
 }

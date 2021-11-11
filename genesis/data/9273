@@ -8,38 +8,32 @@
         {
             "trait_type": "Background",
             "option_id": 0,
-            "value": "Red",
-            "trait_count": 2023
+            "value": "Red"
         },
         {
             "trait_type": "Body",
             "option_id": 3,
-            "value": "Pink",
-            "trait_count": 1993
+            "value": "Pink"
         },
         {
             "trait_type": "Eyes",
             "option_id": 14,
-            "value": "Awake Look",
-            "trait_count": 1024
+            "value": "Awake Look"
         },
         {
             "trait_type": "Mouth",
             "option_id": 7,
-            "value": "Tongue",
-            "trait_count": 1499
+            "value": "Tongue"
         },
         {
             "trait_type": "Collar",
             "option_id": 6,
-            "value": "Hippy Collar",
-            "trait_count": 477
+            "value": "Hippy Collar"
         },
         {
             "trait_type": "Accessory",
             "option_id": 7,
-            "value": "Smooth Criminal",
-            "trait_count": 394
+            "value": "Smooth Criminal"
         }
     ]
 }

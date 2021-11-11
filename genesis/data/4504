@@ -8,32 +8,27 @@
         {
             "trait_type": "Background",
             "option_id": 2,
-            "value": "Green",
-            "trait_count": 1975
+            "value": "Green"
         },
         {
             "trait_type": "Body",
             "option_id": 0,
-            "value": "White",
-            "trait_count": 1939
+            "value": "White"
         },
         {
             "trait_type": "Eyes",
             "option_id": 11,
-            "value": "Happy Look",
-            "trait_count": 1019
+            "value": "Happy Look"
         },
         {
             "trait_type": "Mouth",
             "option_id": 5,
-            "value": "Happy Laugh",
-            "trait_count": 991
+            "value": "Happy Laugh"
         },
         {
             "trait_type": "Accessory",
             "option_id": 12,
-            "value": "Hearts",
-            "trait_count": 591
+            "value": "Hearts"
         }
     ]
 }

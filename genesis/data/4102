@@ -8,32 +8,27 @@
         {
             "trait_type": "Background",
             "option_id": 4,
-            "value": "Blue",
-            "trait_count": 1936
+            "value": "Blue"
         },
         {
             "trait_type": "Body",
             "option_id": 7,
-            "value": "Emerald",
-            "trait_count": 290
+            "value": "Emerald"
         },
         {
             "trait_type": "Eyes",
             "option_id": 10,
-            "value": "Round Glasses",
-            "trait_count": 369
+            "value": "Round Glasses"
         },
         {
             "trait_type": "Mouth",
             "option_id": 7,
-            "value": "Tongue",
-            "trait_count": 1499
+            "value": "Tongue"
         },
         {
             "trait_type": "Accessory",
             "option_id": 1,
-            "value": "Ceasar",
-            "trait_count": 301
+            "value": "Ceasar"
         }
     ]
 }

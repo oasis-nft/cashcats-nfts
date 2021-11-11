@@ -8,38 +8,32 @@
         {
             "trait_type": "Background",
             "option_id": 2,
-            "value": "Green",
-            "trait_count": 1975
+            "value": "Green"
         },
         {
             "trait_type": "Body",
             "option_id": 5,
-            "value": "White Striped",
-            "trait_count": 508
+            "value": "White Striped"
         },
         {
             "trait_type": "Eyes",
             "option_id": 9,
-            "value": "Cute Look",
-            "trait_count": 887
+            "value": "Cute Look"
         },
         {
             "trait_type": "Mouth",
             "option_id": 7,
-            "value": "Tongue",
-            "trait_count": 1499
+            "value": "Tongue"
         },
         {
             "trait_type": "Collar",
             "option_id": 8,
-            "value": "Spiky Collar",
-            "trait_count": 768
+            "value": "Spiky Collar"
         },
         {
             "trait_type": "Accessory",
             "option_id": 9,
-            "value": "Bucket Hat",
-            "trait_count": 677
+            "value": "Bucket Hat"
         }
     ]
 }

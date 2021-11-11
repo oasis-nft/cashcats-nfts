@@ -7,33 +7,28 @@
     "traits": [
         {
             "trait_type": "Background",
-            "option_id": 2,
-            "value": "Green",
-            "trait_count": 1975
+            "option_id": 9,
+            "value": "Yellow / Green"
         },
         {
             "trait_type": "Body",
             "option_id": 2,
-            "value": "Yellow",
-            "trait_count": 2018
+            "value": "Yellow"
         },
         {
             "trait_type": "Eyes",
             "option_id": 15,
-            "value": "Cool Glasses",
-            "trait_count": 388
+            "value": "Cool Glasses"
         },
         {
             "trait_type": "Mouth",
             "option_id": 9,
-            "value": "Whisker Smile",
-            "trait_count": 1250
+            "value": "Whisker Smile"
         },
         {
             "trait_type": "Collar",
             "option_id": 3,
-            "value": "Bow Tie",
-            "trait_count": 749
+            "value": "Bow Tie"
         }
     ]
 }

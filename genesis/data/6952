@@ -8,38 +8,32 @@
         {
             "trait_type": "Background",
             "option_id": 2,
-            "value": "Green",
-            "trait_count": 1975
+            "value": "Green"
         },
         {
             "trait_type": "Body",
             "option_id": 1,
-            "value": "Brown",
-            "trait_count": 2031
+            "value": "Brown"
         },
         {
             "trait_type": "Eyes",
             "option_id": 6,
-            "value": "Love Look",
-            "trait_count": 274
+            "value": "Love Look"
         },
         {
             "trait_type": "Mouth",
             "option_id": 3,
-            "value": "X Snout",
-            "trait_count": 808
+            "value": "X Snout"
         },
         {
             "trait_type": "Collar",
             "option_id": 3,
-            "value": "Bow Tie",
-            "trait_count": 749
+            "value": "Bow Tie"
         },
         {
             "trait_type": "Accessory",
             "option_id": 1,
-            "value": "Ceasar",
-            "trait_count": 301
+            "value": "Ceasar"
         }
     ]
 }

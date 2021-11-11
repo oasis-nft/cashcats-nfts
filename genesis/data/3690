@@ -8,32 +8,27 @@
         {
             "trait_type": "Background",
             "option_id": 4,
-            "value": "Blue",
-            "trait_count": 1936
+            "value": "Blue"
         },
         {
             "trait_type": "Body",
             "option_id": 5,
-            "value": "White Striped",
-            "trait_count": 508
+            "value": "White Striped"
         },
         {
             "trait_type": "Eyes",
             "option_id": 2,
-            "value": "Cash",
-            "trait_count": 720
+            "value": "Cash"
         },
         {
             "trait_type": "Mouth",
             "option_id": 2,
-            "value": "Z Teeth",
-            "trait_count": 1331
+            "value": "Z Teeth"
         },
         {
             "trait_type": "Collar",
             "option_id": 3,
-            "value": "Bow Tie",
-            "trait_count": 749
+            "value": "Bow Tie"
         }
     ]
 }

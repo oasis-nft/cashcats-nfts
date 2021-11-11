@@ -8,38 +8,32 @@
         {
             "trait_type": "Background",
             "option_id": 4,
-            "value": "Blue",
-            "trait_count": 1936
+            "value": "Blue"
         },
         {
             "trait_type": "Body",
             "option_id": 7,
-            "value": "Emerald",
-            "trait_count": 290
+            "value": "Emerald"
         },
         {
             "trait_type": "Eyes",
             "option_id": 3,
-            "value": "Bitcoin",
-            "trait_count": 628
+            "value": "Bitcoin"
         },
         {
             "trait_type": "Mouth",
             "option_id": 3,
-            "value": "X Snout",
-            "trait_count": 808
+            "value": "X Snout"
         },
         {
             "trait_type": "Collar",
             "option_id": 7,
-            "value": "Flowers",
-            "trait_count": 518
+            "value": "Flowers"
         },
         {
             "trait_type": "Accessory",
             "option_id": 4,
-            "value": "Bandana",
-            "trait_count": 667
+            "value": "Bandana"
         }
     ]
 }

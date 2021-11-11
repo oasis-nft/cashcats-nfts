@@ -3,13 +3,25 @@ const { Canvas, Image } = require('canvas');
 const fs = require('fs');
 const _ = require('lodash');
 
-const generateCatImage = async function(assetsPath, outputPath, id, options) {
-  const optionImagePaths = _.map(options, option => {
+const generateCatImage = async function(assetsPath, patchedAssetPath, outputPath, id, options, burned, burnPath) {
+  
+  let optionImagePaths = _.map(options, option => {
     const splitId = option.split('-');
     const trait_id = parseInt(splitId[0], 10);
     const option_id = parseInt(splitId[1], 10);
-    return `${assetsPath}${trait_id}/${option_id}.png`
+
+    let path = assetsPath;
+
+    if(trait_id === 0 && option_id > 4) {
+      path = patchedAssetPath;
+    }
+
+    return `${path}${trait_id}/${option_id}.png`
   });
+
+  if(burned.includes(id)) {
+    optionImagePaths = [`${burnPath}`]
+  }
 
   await mergeImages(optionImagePaths, {
     Canvas: Canvas,

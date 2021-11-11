@@ -7,27 +7,23 @@
     "traits": [
         {
             "trait_type": "Background",
-            "option_id": 1,
-            "value": "Purple",
-            "trait_count": 2017
+            "option_id": 8,
+            "value": "Blue / Green"
         },
         {
             "trait_type": "Body",
             "option_id": 0,
-            "value": "White",
-            "trait_count": 1939
+            "value": "White"
         },
         {
             "trait_type": "Eyes",
             "option_id": 5,
-            "value": "Resting Eyes",
-            "trait_count": 989
+            "value": "Resting Eyes"
         },
         {
             "trait_type": "Mouth",
             "option_id": 5,
-            "value": "Happy Laugh",
-            "trait_count": 991
+            "value": "Happy Laugh"
         }
     ]
 }

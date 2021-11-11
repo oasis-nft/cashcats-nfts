@@ -8,32 +8,27 @@
         {
             "trait_type": "Background",
             "option_id": 2,
-            "value": "Green",
-            "trait_count": 1975
+            "value": "Green"
         },
         {
             "trait_type": "Body",
             "option_id": 5,
-            "value": "White Striped",
-            "trait_count": 508
+            "value": "White Striped"
         },
         {
             "trait_type": "Eyes",
             "option_id": 2,
-            "value": "Cash",
-            "trait_count": 720
+            "value": "Cash"
         },
         {
             "trait_type": "Mouth",
             "option_id": 0,
-            "value": "Smoke",
-            "trait_count": 607
+            "value": "Smoke"
         },
         {
             "trait_type": "Accessory",
             "option_id": 3,
-            "value": "Flower",
-            "trait_count": 523
+            "value": "Flower"
         }
     ]
 }

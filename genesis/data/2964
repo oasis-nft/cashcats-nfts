@@ -8,38 +8,32 @@
         {
             "trait_type": "Background",
             "option_id": 4,
-            "value": "Blue",
-            "trait_count": 1936
+            "value": "Blue"
         },
         {
             "trait_type": "Body",
             "option_id": 8,
-            "value": "Ruby",
-            "trait_count": 226
+            "value": "Ruby"
         },
         {
             "trait_type": "Eyes",
             "option_id": 8,
-            "value": "Librarian Glasses",
-            "trait_count": 308
+            "value": "Librarian Glasses"
         },
         {
             "trait_type": "Mouth",
             "option_id": 4,
-            "value": "Friendly Smile",
-            "trait_count": 1469
+            "value": "Friendly Smile"
         },
         {
             "trait_type": "Collar",
             "option_id": 6,
-            "value": "Hippy Collar",
-            "trait_count": 477
+            "value": "Hippy Collar"
         },
         {
             "trait_type": "Accessory",
             "option_id": 8,
-            "value": "Headphones",
-            "trait_count": 591
+            "value": "Headphones"
         }
     ]
 }

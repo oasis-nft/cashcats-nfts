@@ -8,38 +8,32 @@
         {
             "trait_type": "Background",
             "option_id": 0,
-            "value": "Red",
-            "trait_count": 2023
+            "value": "Red"
         },
         {
             "trait_type": "Body",
             "option_id": 1,
-            "value": "Brown",
-            "trait_count": 2031
+            "value": "Brown"
         },
         {
             "trait_type": "Eyes",
             "option_id": 12,
-            "value": "Wink Eyes",
-            "trait_count": 1030
+            "value": "Wink Eyes"
         },
         {
             "trait_type": "Mouth",
             "option_id": 9,
-            "value": "Whisker Smile",
-            "trait_count": 1250
+            "value": "Whisker Smile"
         },
         {
             "trait_type": "Collar",
             "option_id": 7,
-            "value": "Flowers",
-            "trait_count": 518
+            "value": "Flowers"
         },
         {
             "trait_type": "Accessory",
             "option_id": 0,
-            "value": "Baret",
-            "trait_count": 394
+            "value": "Baret"
         }
     ]
 }

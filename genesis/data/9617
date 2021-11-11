@@ -8,38 +8,32 @@
         {
             "trait_type": "Background",
             "option_id": 4,
-            "value": "Blue",
-            "trait_count": 1936
+            "value": "Blue"
         },
         {
             "trait_type": "Body",
             "option_id": 8,
-            "value": "Ruby",
-            "trait_count": 226
+            "value": "Ruby"
         },
         {
             "trait_type": "Eyes",
             "option_id": 10,
-            "value": "Round Glasses",
-            "trait_count": 369
+            "value": "Round Glasses"
         },
         {
             "trait_type": "Mouth",
             "option_id": 3,
-            "value": "X Snout",
-            "trait_count": 808
+            "value": "X Snout"
         },
         {
             "trait_type": "Collar",
             "option_id": 4,
-            "value": "Golden Collar",
-            "trait_count": 297
+            "value": "Golden Collar"
         },
         {
             "trait_type": "Accessory",
             "option_id": 6,
-            "value": "Hippie Feathers",
-            "trait_count": 307
+            "value": "Hippie Feathers"
         }
     ]
 }

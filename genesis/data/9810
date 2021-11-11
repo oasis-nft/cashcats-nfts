@@ -7,33 +7,28 @@
     "traits": [
         {
             "trait_type": "Background",
-            "option_id": 2,
-            "value": "Green",
-            "trait_count": 1975
+            "option_id": 8,
+            "value": "Blue / Green"
         },
         {
             "trait_type": "Body",
             "option_id": 3,
-            "value": "Pink",
-            "trait_count": 1993
+            "value": "Pink"
         },
         {
             "trait_type": "Eyes",
             "option_id": 10,
-            "value": "Round Glasses",
-            "trait_count": 369
+            "value": "Round Glasses"
         },
         {
             "trait_type": "Mouth",
             "option_id": 1,
-            "value": "Snout",
-            "trait_count": 1441
+            "value": "Snout"
         },
         {
             "trait_type": "Accessory",
             "option_id": 8,
-            "value": "Headphones",
-            "trait_count": 591
+            "value": "Headphones"
         }
     ]
 }

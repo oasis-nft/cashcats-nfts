@@ -8,38 +8,32 @@
         {
             "trait_type": "Background",
             "option_id": 4,
-            "value": "Blue",
-            "trait_count": 1936
+            "value": "Blue"
         },
         {
             "trait_type": "Body",
             "option_id": 4,
-            "value": "Red",
-            "trait_count": 397
+            "value": "Red"
         },
         {
             "trait_type": "Eyes",
             "option_id": 0,
-            "value": "Monocle",
-            "trait_count": 209
+            "value": "Monocle"
         },
         {
             "trait_type": "Mouth",
             "option_id": 2,
-            "value": "Z Teeth",
-            "trait_count": 1331
+            "value": "Z Teeth"
         },
         {
             "trait_type": "Collar",
             "option_id": 4,
-            "value": "Golden Collar",
-            "trait_count": 297
+            "value": "Golden Collar"
         },
         {
             "trait_type": "Accessory",
             "option_id": 12,
-            "value": "Hearts",
-            "trait_count": 591
+            "value": "Hearts"
         }
     ]
 }
