@@ -8,32 +8,38 @@
         {
             "trait_type": "Background",
             "option_id": 0,
-            "value": "Red"
+            "value": "Red",
+            "trait_count": 1867
         },
         {
             "trait_type": "Body",
             "option_id": 3,
-            "value": "Pink"
+            "value": "Pink",
+            "trait_count": 1916
         },
         {
             "trait_type": "Eyes",
             "option_id": 4,
-            "value": "Uplifted Eyes"
+            "value": "Uplifted Eyes",
+            "trait_count": 1011
         },
         {
             "trait_type": "Mouth",
             "option_id": 4,
-            "value": "Friendly Smile"
+            "value": "Friendly Smile",
+            "trait_count": 1408
         },
         {
             "trait_type": "Collar",
             "option_id": 9,
-            "value": "Bitcoin Chain"
+            "value": "Bitcoin Chain",
+            "trait_count": 212
         },
         {
             "trait_type": "Accessory",
             "option_id": 6,
-            "value": "Hippie Feathers"
+            "value": "Hippie Feathers",
+            "trait_count": 303
         }
     ]
 }

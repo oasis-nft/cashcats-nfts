@@ -8,32 +8,38 @@
         {
             "trait_type": "Background",
             "option_id": 2,
-            "value": "Green"
+            "value": "Green",
+            "trait_count": 1838
         },
         {
             "trait_type": "Body",
             "option_id": 4,
-            "value": "Red"
+            "value": "Red",
+            "trait_count": 390
         },
         {
             "trait_type": "Eyes",
             "option_id": 9,
-            "value": "Cute Look"
+            "value": "Cute Look",
+            "trait_count": 852
         },
         {
             "trait_type": "Mouth",
             "option_id": 0,
-            "value": "Smoke"
+            "value": "Smoke",
+            "trait_count": 594
         },
         {
             "trait_type": "Collar",
             "option_id": 1,
-            "value": "Cuban Chain"
+            "value": "Cuban Chain",
+            "trait_count": 392
         },
         {
             "trait_type": "Accessory",
             "option_id": 5,
-            "value": "Bow Clip"
+            "value": "Bow Clip",
+            "trait_count": 502
         }
     ]
 }

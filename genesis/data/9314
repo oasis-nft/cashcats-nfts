@@ -8,32 +8,38 @@
         {
             "trait_type": "Background",
             "option_id": 4,
-            "value": "Blue"
+            "value": "Blue",
+            "trait_count": 1801
         },
         {
             "trait_type": "Body",
             "option_id": 1,
-            "value": "Brown"
+            "value": "Brown",
+            "trait_count": 1932
         },
         {
             "trait_type": "Eyes",
             "option_id": 11,
-            "value": "Happy Look"
+            "value": "Happy Look",
+            "trait_count": 981
         },
         {
             "trait_type": "Mouth",
             "option_id": 3,
-            "value": "X Snout"
+            "value": "X Snout",
+            "trait_count": 785
         },
         {
             "trait_type": "Collar",
             "option_id": 6,
-            "value": "Hippy Collar"
+            "value": "Hippy Collar",
+            "trait_count": 468
         },
         {
             "trait_type": "Accessory",
             "option_id": 1,
-            "value": "Ceasar"
+            "value": "Ceasar",
+            "trait_count": 296
         }
     ]
 }

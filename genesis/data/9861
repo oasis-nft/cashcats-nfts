@@ -8,22 +8,26 @@
         {
             "trait_type": "Background",
             "option_id": 9,
-            "value": "Yellow / Green"
+            "value": "Yellow / Green",
+            "trait_count": 82
         },
         {
             "trait_type": "Body",
             "option_id": 1,
-            "value": "Brown"
+            "value": "Brown",
+            "trait_count": 1932
         },
         {
             "trait_type": "Eyes",
             "option_id": 9,
-            "value": "Cute Look"
+            "value": "Cute Look",
+            "trait_count": 852
         },
         {
             "trait_type": "Mouth",
             "option_id": 1,
-            "value": "Snout"
+            "value": "Snout",
+            "trait_count": 1387
         }
     ]
 }

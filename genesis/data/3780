@@ -8,32 +8,38 @@
         {
             "trait_type": "Background",
             "option_id": 1,
-            "value": "Purple"
+            "value": "Purple",
+            "trait_count": 1870
         },
         {
             "trait_type": "Body",
             "option_id": 2,
-            "value": "Yellow"
+            "value": "Yellow",
+            "trait_count": 1938
         },
         {
             "trait_type": "Eyes",
             "option_id": 2,
-            "value": "Cash"
+            "value": "Cash",
+            "trait_count": 692
         },
         {
             "trait_type": "Mouth",
             "option_id": 3,
-            "value": "X Snout"
+            "value": "X Snout",
+            "trait_count": 785
         },
         {
             "trait_type": "Collar",
             "option_id": 4,
-            "value": "Golden Collar"
+            "value": "Golden Collar",
+            "trait_count": 295
         },
         {
             "trait_type": "Accessory",
             "option_id": 5,
-            "value": "Bow Clip"
+            "value": "Bow Clip",
+            "trait_count": 502
         }
     ]
 }

@@ -8,32 +8,38 @@
         {
             "trait_type": "Background",
             "option_id": 2,
-            "value": "Green"
+            "value": "Green",
+            "trait_count": 1838
         },
         {
             "trait_type": "Body",
             "option_id": 0,
-            "value": "White"
+            "value": "White",
+            "trait_count": 1863
         },
         {
             "trait_type": "Eyes",
             "option_id": 2,
-            "value": "Cash"
+            "value": "Cash",
+            "trait_count": 692
         },
         {
             "trait_type": "Mouth",
             "option_id": 8,
-            "value": "Mustache"
+            "value": "Mustache",
+            "trait_count": 197
         },
         {
             "trait_type": "Collar",
             "option_id": 1,
-            "value": "Cuban Chain"
+            "value": "Cuban Chain",
+            "trait_count": 392
         },
         {
             "trait_type": "Accessory",
             "option_id": 10,
-            "value": "Golden Earring"
+            "value": "Golden Earring",
+            "trait_count": 665
         }
     ]
 }

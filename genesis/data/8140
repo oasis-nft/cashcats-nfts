@@ -8,32 +8,38 @@
         {
             "trait_type": "Background",
             "option_id": 1,
-            "value": "Purple"
+            "value": "Purple",
+            "trait_count": 1870
         },
         {
             "trait_type": "Body",
             "option_id": 7,
-            "value": "Emerald"
+            "value": "Emerald",
+            "trait_count": 288
         },
         {
             "trait_type": "Eyes",
             "option_id": 4,
-            "value": "Uplifted Eyes"
+            "value": "Uplifted Eyes",
+            "trait_count": 1011
         },
         {
             "trait_type": "Mouth",
             "option_id": 3,
-            "value": "X Snout"
+            "value": "X Snout",
+            "trait_count": 785
         },
         {
             "trait_type": "Collar",
             "option_id": 6,
-            "value": "Hippy Collar"
+            "value": "Hippy Collar",
+            "trait_count": 468
         },
         {
             "trait_type": "Accessory",
             "option_id": 9,
-            "value": "Bucket Hat"
+            "value": "Bucket Hat",
+            "trait_count": 660
         }
     ]
 }

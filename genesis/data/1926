@@ -8,27 +8,32 @@
         {
             "trait_type": "Background",
             "option_id": 0,
-            "value": "Red"
+            "value": "Red",
+            "trait_count": 1867
         },
         {
             "trait_type": "Body",
             "option_id": 0,
-            "value": "White"
+            "value": "White",
+            "trait_count": 1863
         },
         {
             "trait_type": "Eyes",
             "option_id": 12,
-            "value": "Wink Eyes"
+            "value": "Wink Eyes",
+            "trait_count": 996
         },
         {
             "trait_type": "Mouth",
             "option_id": 5,
-            "value": "Happy Laugh"
+            "value": "Happy Laugh",
+            "trait_count": 950
         },
         {
             "trait_type": "Accessory",
             "option_id": 3,
-            "value": "Flower"
+            "value": "Flower",
+            "trait_count": 519
         }
     ]
 }

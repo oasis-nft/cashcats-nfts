@@ -8,22 +8,26 @@
         {
             "trait_type": "Background",
             "option_id": 9,
-            "value": "Yellow / Green"
+            "value": "Yellow / Green",
+            "trait_count": 82
         },
         {
             "trait_type": "Body",
             "option_id": 3,
-            "value": "Pink"
+            "value": "Pink",
+            "trait_count": 1916
         },
         {
             "trait_type": "Eyes",
             "option_id": 11,
-            "value": "Happy Look"
+            "value": "Happy Look",
+            "trait_count": 981
         },
         {
             "trait_type": "Mouth",
             "option_id": 2,
-            "value": "Z Teeth"
+            "value": "Z Teeth",
+            "trait_count": 1279
         }
     ]
 }

@@ -8,27 +8,32 @@
         {
             "trait_type": "Background",
             "option_id": 1,
-            "value": "Purple"
+            "value": "Purple",
+            "trait_count": 1870
         },
         {
             "trait_type": "Body",
             "option_id": 5,
-            "value": "White Striped"
+            "value": "White Striped",
+            "trait_count": 498
         },
         {
             "trait_type": "Eyes",
             "option_id": 0,
-            "value": "Monocle"
+            "value": "Monocle",
+            "trait_count": 205
         },
         {
             "trait_type": "Mouth",
             "option_id": 8,
-            "value": "Mustache"
+            "value": "Mustache",
+            "trait_count": 197
         },
         {
             "trait_type": "Collar",
             "option_id": 2,
-            "value": "Bandana"
+            "value": "Bandana",
+            "trait_count": 802
         }
     ]
 }

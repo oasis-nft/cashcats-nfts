@@ -8,32 +8,38 @@
         {
             "trait_type": "Background",
             "option_id": 3,
-            "value": "Yellow"
+            "value": "Yellow",
+            "trait_count": 1891
         },
         {
             "trait_type": "Body",
             "option_id": 0,
-            "value": "White"
+            "value": "White",
+            "trait_count": 1863
         },
         {
             "trait_type": "Eyes",
             "option_id": 9,
-            "value": "Cute Look"
+            "value": "Cute Look",
+            "trait_count": 852
         },
         {
             "trait_type": "Mouth",
             "option_id": 8,
-            "value": "Mustache"
+            "value": "Mustache",
+            "trait_count": 197
         },
         {
             "trait_type": "Collar",
             "option_id": 5,
-            "value": "Leather Collar"
+            "value": "Leather Collar",
+            "trait_count": 749
         },
         {
             "trait_type": "Accessory",
             "option_id": 3,
-            "value": "Flower"
+            "value": "Flower",
+            "trait_count": 519
         }
     ]
 }

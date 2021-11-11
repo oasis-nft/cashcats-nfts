@@ -8,32 +8,38 @@
         {
             "trait_type": "Background",
             "option_id": 0,
-            "value": "Red"
+            "value": "Red",
+            "trait_count": 1867
         },
         {
             "trait_type": "Body",
             "option_id": 1,
-            "value": "Brown"
+            "value": "Brown",
+            "trait_count": 1932
         },
         {
             "trait_type": "Eyes",
             "option_id": 13,
-            "value": "Dead Look"
+            "value": "Dead Look",
+            "trait_count": 470
         },
         {
             "trait_type": "Mouth",
             "option_id": 9,
-            "value": "Whisker Smile"
+            "value": "Whisker Smile",
+            "trait_count": 1203
         },
         {
             "trait_type": "Collar",
             "option_id": 8,
-            "value": "Spiky Collar"
+            "value": "Spiky Collar",
+            "trait_count": 753
         },
         {
             "trait_type": "Accessory",
             "option_id": 6,
-            "value": "Hippie Feathers"
+            "value": "Hippie Feathers",
+            "trait_count": 303
         }
     ]
 }

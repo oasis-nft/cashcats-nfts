@@ -8,32 +8,38 @@
         {
             "trait_type": "Background",
             "option_id": 0,
-            "value": "Red"
+            "value": "Red",
+            "trait_count": 1867
         },
         {
             "trait_type": "Body",
             "option_id": 1,
-            "value": "Brown"
+            "value": "Brown",
+            "trait_count": 1932
         },
         {
             "trait_type": "Eyes",
             "option_id": 7,
-            "value": "8bit Glasses"
+            "value": "8bit Glasses",
+            "trait_count": 109
         },
         {
             "trait_type": "Mouth",
             "option_id": 3,
-            "value": "X Snout"
+            "value": "X Snout",
+            "trait_count": 785
         },
         {
             "trait_type": "Collar",
             "option_id": 1,
-            "value": "Cuban Chain"
+            "value": "Cuban Chain",
+            "trait_count": 392
         },
         {
             "trait_type": "Accessory",
             "option_id": 7,
-            "value": "Smooth Criminal"
+            "value": "Smooth Criminal",
+            "trait_count": 384
         }
     ]
 }

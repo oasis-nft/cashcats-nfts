@@ -8,27 +8,32 @@
         {
             "trait_type": "Background",
             "option_id": 2,
-            "value": "Green"
+            "value": "Green",
+            "trait_count": 1838
         },
         {
             "trait_type": "Body",
             "option_id": 0,
-            "value": "White"
+            "value": "White",
+            "trait_count": 1863
         },
         {
             "trait_type": "Eyes",
             "option_id": 4,
-            "value": "Uplifted Eyes"
+            "value": "Uplifted Eyes",
+            "trait_count": 1011
         },
         {
             "trait_type": "Mouth",
             "option_id": 3,
-            "value": "X Snout"
+            "value": "X Snout",
+            "trait_count": 785
         },
         {
             "trait_type": "Accessory",
             "option_id": 1,
-            "value": "Ceasar"
+            "value": "Ceasar",
+            "trait_count": 296
         }
     ]
 }

@@ -8,27 +8,32 @@
         {
             "trait_type": "Background",
             "option_id": 2,
-            "value": "Green"
+            "value": "Green",
+            "trait_count": 1838
         },
         {
             "trait_type": "Body",
             "option_id": 3,
-            "value": "Pink"
+            "value": "Pink",
+            "trait_count": 1916
         },
         {
             "trait_type": "Eyes",
             "option_id": 8,
-            "value": "Librarian Glasses"
+            "value": "Librarian Glasses",
+            "trait_count": 299
         },
         {
             "trait_type": "Mouth",
             "option_id": 1,
-            "value": "Snout"
+            "value": "Snout",
+            "trait_count": 1387
         },
         {
             "trait_type": "Collar",
             "option_id": 4,
-            "value": "Golden Collar"
+            "value": "Golden Collar",
+            "trait_count": 295
         }
     ]
 }

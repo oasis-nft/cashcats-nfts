@@ -8,32 +8,38 @@
         {
             "trait_type": "Background",
             "option_id": 1,
-            "value": "Purple"
+            "value": "Purple",
+            "trait_count": 1870
         },
         {
             "trait_type": "Body",
             "option_id": 0,
-            "value": "White"
+            "value": "White",
+            "trait_count": 1863
         },
         {
             "trait_type": "Eyes",
             "option_id": 5,
-            "value": "Resting Eyes"
+            "value": "Resting Eyes",
+            "trait_count": 951
         },
         {
             "trait_type": "Mouth",
             "option_id": 5,
-            "value": "Happy Laugh"
+            "value": "Happy Laugh",
+            "trait_count": 950
         },
         {
             "trait_type": "Collar",
             "option_id": 7,
-            "value": "Flowers"
+            "value": "Flowers",
+            "trait_count": 507
         },
         {
             "trait_type": "Accessory",
             "option_id": 11,
-            "value": "Halo"
+            "value": "Halo",
+            "trait_count": 204
         }
     ]
 }

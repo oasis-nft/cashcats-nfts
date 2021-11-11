@@ -8,22 +8,26 @@
         {
             "trait_type": "Background",
             "option_id": 1,
-            "value": "Purple"
+            "value": "Purple",
+            "trait_count": 1870
         },
         {
             "trait_type": "Body",
             "option_id": 6,
-            "value": "White Spotted"
+            "value": "White Spotted",
+            "trait_count": 502
         },
         {
             "trait_type": "Eyes",
             "option_id": 15,
-            "value": "Cool Glasses"
+            "value": "Cool Glasses",
+            "trait_count": 381
         },
         {
             "trait_type": "Mouth",
             "option_id": 5,
-            "value": "Happy Laugh"
+            "value": "Happy Laugh",
+            "trait_count": 950
         }
     ]
 }

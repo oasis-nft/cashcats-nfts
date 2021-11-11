@@ -8,32 +8,38 @@
         {
             "trait_type": "Background",
             "option_id": 1,
-            "value": "Purple"
+            "value": "Purple",
+            "trait_count": 1870
         },
         {
             "trait_type": "Body",
             "option_id": 4,
-            "value": "Red"
+            "value": "Red",
+            "trait_count": 390
         },
         {
             "trait_type": "Eyes",
             "option_id": 2,
-            "value": "Cash"
+            "value": "Cash",
+            "trait_count": 692
         },
         {
             "trait_type": "Mouth",
             "option_id": 8,
-            "value": "Mustache"
+            "value": "Mustache",
+            "trait_count": 197
         },
         {
             "trait_type": "Collar",
             "option_id": 8,
-            "value": "Spiky Collar"
+            "value": "Spiky Collar",
+            "trait_count": 753
         },
         {
             "trait_type": "Accessory",
             "option_id": 6,
-            "value": "Hippie Feathers"
+            "value": "Hippie Feathers",
+            "trait_count": 303
         }
     ]
 }

@@ -8,22 +8,26 @@
         {
             "trait_type": "Background",
             "option_id": 0,
-            "value": "Red"
+            "value": "Red",
+            "trait_count": 1867
         },
         {
             "trait_type": "Body",
             "option_id": 1,
-            "value": "Brown"
+            "value": "Brown",
+            "trait_count": 1932
         },
         {
             "trait_type": "Eyes",
             "option_id": 1,
-            "value": "Long Eyes"
+            "value": "Long Eyes",
+            "trait_count": 476
         },
         {
             "trait_type": "Mouth",
             "option_id": 9,
-            "value": "Whisker Smile"
+            "value": "Whisker Smile",
+            "trait_count": 1203
         }
     ]
 }

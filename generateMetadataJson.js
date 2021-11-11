@@ -52,7 +52,7 @@ const generateMetadata = async function(path, id, options, rarityMap) {
       entry.trait_type = attribute.name;
       entry.option_id = option.optionId;
       entry.value = optionName;
-      // entry.trait_count = rarity.count;
+      entry.trait_count = rarity.count;
 
       metadata.traits.push(entry)
     }

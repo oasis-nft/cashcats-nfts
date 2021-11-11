@@ -8,22 +8,26 @@
         {
             "trait_type": "Background",
             "option_id": 8,
-            "value": "Blue / Green"
+            "value": "Blue / Green",
+            "trait_count": 78
         },
         {
             "trait_type": "Body",
             "option_id": 1,
-            "value": "Brown"
+            "value": "Brown",
+            "trait_count": 1932
         },
         {
             "trait_type": "Eyes",
             "option_id": 12,
-            "value": "Wink Eyes"
+            "value": "Wink Eyes",
+            "trait_count": 996
         },
         {
             "trait_type": "Mouth",
             "option_id": 4,
-            "value": "Friendly Smile"
+            "value": "Friendly Smile",
+            "trait_count": 1408
         }
     ]
 }

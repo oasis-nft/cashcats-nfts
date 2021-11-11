@@ -8,22 +8,26 @@
         {
             "trait_type": "Background",
             "option_id": 6,
-            "value": "Purple / Blue"
+            "value": "Purple / Blue",
+            "trait_count": 84
         },
         {
             "trait_type": "Body",
             "option_id": 6,
-            "value": "White Spotted"
+            "value": "White Spotted",
+            "trait_count": 502
         },
         {
             "trait_type": "Eyes",
             "option_id": 14,
-            "value": "Awake Look"
+            "value": "Awake Look",
+            "trait_count": 978
         },
         {
             "trait_type": "Mouth",
             "option_id": 7,
-            "value": "Tongue"
+            "value": "Tongue",
+            "trait_count": 1444
         }
     ]
 }

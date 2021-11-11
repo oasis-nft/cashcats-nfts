@@ -8,27 +8,32 @@
         {
             "trait_type": "Background",
             "option_id": 1,
-            "value": "Purple"
+            "value": "Purple",
+            "trait_count": 1870
         },
         {
             "trait_type": "Body",
             "option_id": 9,
-            "value": "Diamond"
+            "value": "Diamond",
+            "trait_count": 89
         },
         {
             "trait_type": "Eyes",
             "option_id": 3,
-            "value": "Bitcoin"
+            "value": "Bitcoin",
+            "trait_count": 608
         },
         {
             "trait_type": "Mouth",
             "option_id": 5,
-            "value": "Happy Laugh"
+            "value": "Happy Laugh",
+            "trait_count": 950
         },
         {
             "trait_type": "Accessory",
             "option_id": 5,
-            "value": "Bow Clip"
+            "value": "Bow Clip",
+            "trait_count": 502
         }
     ]
 }

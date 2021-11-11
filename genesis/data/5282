@@ -8,22 +8,26 @@
         {
             "trait_type": "Background",
             "option_id": 4,
-            "value": "Blue"
+            "value": "Blue",
+            "trait_count": 1801
         },
         {
             "trait_type": "Body",
             "option_id": 5,
-            "value": "White Striped"
+            "value": "White Striped",
+            "trait_count": 498
         },
         {
             "trait_type": "Eyes",
             "option_id": 9,
-            "value": "Cute Look"
+            "value": "Cute Look",
+            "trait_count": 852
         },
         {
             "trait_type": "Mouth",
             "option_id": 9,
-            "value": "Whisker Smile"
+            "value": "Whisker Smile",
+            "trait_count": 1203
         }
     ]
 }

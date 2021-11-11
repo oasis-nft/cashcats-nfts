@@ -8,32 +8,38 @@
         {
             "trait_type": "Background",
             "option_id": 2,
-            "value": "Green"
+            "value": "Green",
+            "trait_count": 1838
         },
         {
             "trait_type": "Body",
             "option_id": 2,
-            "value": "Yellow"
+            "value": "Yellow",
+            "trait_count": 1938
         },
         {
             "trait_type": "Eyes",
             "option_id": 14,
-            "value": "Awake Look"
+            "value": "Awake Look",
+            "trait_count": 978
         },
         {
             "trait_type": "Mouth",
             "option_id": 6,
-            "value": "Vampire Cat"
+            "value": "Vampire Cat",
+            "trait_count": 395
         },
         {
             "trait_type": "Collar",
             "option_id": 4,
-            "value": "Golden Collar"
+            "value": "Golden Collar",
+            "trait_count": 295
         },
         {
             "trait_type": "Accessory",
             "option_id": 12,
-            "value": "Hearts"
+            "value": "Hearts",
+            "trait_count": 583
         }
     ]
 }

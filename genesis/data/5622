@@ -8,27 +8,32 @@
         {
             "trait_type": "Background",
             "option_id": 4,
-            "value": "Blue"
+            "value": "Blue",
+            "trait_count": 1801
         },
         {
             "trait_type": "Body",
             "option_id": 0,
-            "value": "White"
+            "value": "White",
+            "trait_count": 1863
         },
         {
             "trait_type": "Eyes",
             "option_id": 9,
-            "value": "Cute Look"
+            "value": "Cute Look",
+            "trait_count": 852
         },
         {
             "trait_type": "Mouth",
             "option_id": 5,
-            "value": "Happy Laugh"
+            "value": "Happy Laugh",
+            "trait_count": 950
         },
         {
             "trait_type": "Accessory",
             "option_id": 8,
-            "value": "Headphones"
+            "value": "Headphones",
+            "trait_count": 579
         }
     ]
 }

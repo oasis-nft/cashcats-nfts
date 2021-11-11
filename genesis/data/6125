@@ -8,32 +8,38 @@
         {
             "trait_type": "Background",
             "option_id": 1,
-            "value": "Purple"
+            "value": "Purple",
+            "trait_count": 1870
         },
         {
             "trait_type": "Body",
             "option_id": 3,
-            "value": "Pink"
+            "value": "Pink",
+            "trait_count": 1916
         },
         {
             "trait_type": "Eyes",
             "option_id": 10,
-            "value": "Round Glasses"
+            "value": "Round Glasses",
+            "trait_count": 363
         },
         {
             "trait_type": "Mouth",
             "option_id": 7,
-            "value": "Tongue"
+            "value": "Tongue",
+            "trait_count": 1444
         },
         {
             "trait_type": "Collar",
             "option_id": 5,
-            "value": "Leather Collar"
+            "value": "Leather Collar",
+            "trait_count": 749
         },
         {
             "trait_type": "Accessory",
             "option_id": 8,
-            "value": "Headphones"
+            "value": "Headphones",
+            "trait_count": 579
         }
     ]
 }

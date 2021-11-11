@@ -8,27 +8,32 @@
         {
             "trait_type": "Background",
             "option_id": 1,
-            "value": "Purple"
+            "value": "Purple",
+            "trait_count": 1870
         },
         {
             "trait_type": "Body",
             "option_id": 1,
-            "value": "Brown"
+            "value": "Brown",
+            "trait_count": 1932
         },
         {
             "trait_type": "Eyes",
             "option_id": 9,
-            "value": "Cute Look"
+            "value": "Cute Look",
+            "trait_count": 852
         },
         {
             "trait_type": "Mouth",
             "option_id": 7,
-            "value": "Tongue"
+            "value": "Tongue",
+            "trait_count": 1444
         },
         {
             "trait_type": "Collar",
             "option_id": 4,
-            "value": "Golden Collar"
+            "value": "Golden Collar",
+            "trait_count": 295
         }
     ]
 }

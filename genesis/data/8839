@@ -8,27 +8,32 @@
         {
             "trait_type": "Background",
             "option_id": 1,
-            "value": "Purple"
+            "value": "Purple",
+            "trait_count": 1870
         },
         {
             "trait_type": "Body",
             "option_id": 1,
-            "value": "Brown"
+            "value": "Brown",
+            "trait_count": 1932
         },
         {
             "trait_type": "Eyes",
             "option_id": 0,
-            "value": "Monocle"
+            "value": "Monocle",
+            "trait_count": 205
         },
         {
             "trait_type": "Mouth",
             "option_id": 8,
-            "value": "Mustache"
+            "value": "Mustache",
+            "trait_count": 197
         },
         {
             "trait_type": "Accessory",
             "option_id": 5,
-            "value": "Bow Clip"
+            "value": "Bow Clip",
+            "trait_count": 502
         }
     ]
 }

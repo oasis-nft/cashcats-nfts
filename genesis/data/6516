@@ -8,32 +8,38 @@
         {
             "trait_type": "Background",
             "option_id": 3,
-            "value": "Yellow"
+            "value": "Yellow",
+            "trait_count": 1891
         },
         {
             "trait_type": "Body",
             "option_id": 0,
-            "value": "White"
+            "value": "White",
+            "trait_count": 1863
         },
         {
             "trait_type": "Eyes",
             "option_id": 8,
-            "value": "Librarian Glasses"
+            "value": "Librarian Glasses",
+            "trait_count": 299
         },
         {
             "trait_type": "Mouth",
             "option_id": 4,
-            "value": "Friendly Smile"
+            "value": "Friendly Smile",
+            "trait_count": 1408
         },
         {
             "trait_type": "Collar",
             "option_id": 4,
-            "value": "Golden Collar"
+            "value": "Golden Collar",
+            "trait_count": 295
         },
         {
             "trait_type": "Accessory",
             "option_id": 12,
-            "value": "Hearts"
+            "value": "Hearts",
+            "trait_count": 583
         }
     ]
 }
