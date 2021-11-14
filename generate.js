@@ -10,7 +10,7 @@ const optionMap = require('./optionMap/optionMap.json');
 const optionMapDuplicatePatch = require('./optionMap/duplicateOptionPatch.json');
 const oasisUnsoldCats = require('./optionMap/undistributedCats.json');
 
-const { find, map, filter, compact, clone, reverse, uniq, split } = require("lodash");
+const { map, filter, compact, uniq } = require("lodash");
 
 const optionHash = web3.utils.soliditySha3(JSON.stringify(optionMap));
 
@@ -86,7 +86,7 @@ async function generate() {
 
   while(nftSet.length < MAX_GEN) {
     // line of code that caused duplicates. This method should've been ran after selecting the candidates. Copycats slipped in...
-    nftSet = uniqueSet(nftSet); 
+    nftSet = uniqueSet(nftSet);
     const amountToSelect = MAX_GEN - nftSet.length;
     nftSet = nftSet.concat(selectCandidate(amountToSelect, catAssets))
   }
@@ -120,12 +120,12 @@ async function generate() {
         } else if( oasisUnsoldCats.includes(duplicate[1].id)) {
           toBurn.push(duplicate[1].id);
           return false;
-        }     
+        }
       }
 
       return true;
     });
-    
+
     //when all dupes are fixed, we are done.
     if(duplicatesToFix.length === 0) {
       complete = true;
@@ -217,7 +217,7 @@ async function generate() {
   // identify all the changes made by the dupe patch and map them
   const patchMap = [];
   let changeCount = 0;
-  
+
   _.uniqWith(allDuplicates, _.isEqual).forEach(dupedPair => {
     const pair = {
       count: dupedPair.length,
@@ -235,7 +235,7 @@ async function generate() {
         action = `changed background (${backgroundOptionId})`;
         changeCount++;
       }
-    
+
       pair.tokens.push({
         id: token.id,
         option: nftSet[token.id],
@@ -244,9 +244,20 @@ async function generate() {
     });
 
     patchMap.push(pair);
-  })
+  });
+
+  const ogCats = [];
+  patchMap.forEach(patch => {
+    patch.tokens.forEach(token => {
+      if(token.action === 'unchanged' && !toBurn.includes(token.id)) {
+        ogCats.push(token.id)
+      }
+    });
+  });
 
   console.log('PATCHED CATS', changeCount);
+  console.log('OG CATS', ogCats.length);
+
   //fixed cats
   await fs.writeFileSync(`${OUTPUT_PATH_ROOT}fixedCats.json`, JSON.stringify(patchMap, null, 4), function(err) {
     if(err) {
@@ -256,12 +267,12 @@ async function generate() {
 
   for(let i = 0; i < max; i++) {
     // generate json metadata
-    // await generateMetadata(OUTPUT_PATH_META, i, nftSet[i], rarityMap);
+    await generateMetadata(OUTPUT_PATH_META, i, nftSet[i], rarityMap, ogCats);
     // generate the cats
     // await generateCatImage(ASSETS_PATH, PATCHED_ASSETS_PATH, OUTPUT_PATH, i, nftSet[i], toBurn, BURNED_CAT_PATH);
-    
+
   }
-  
+
   // generate simple html index page, rarity page and patch overview
   genHtml(nftSet);
   genRarityMap(rarityMap, optionMap, optionMapDuplicatePatch)
@@ -330,14 +341,14 @@ function findDuplicates(nftSet) {
   // for each duped cat, find its clones and add it to the dupedset. It will cause multiple copies of duped sets, we will filter them out below..
   dupedCats.forEach((cat, index) => {
     let amount = 0;
-    
+
     let dupes = map(stringArray, (item, key) => {
       if(item === cat) {
         return {
           id: key,
           option: item
         }
-      } 
+      }
 
       return undefined;
     });
@@ -356,7 +367,7 @@ function fixDuplicates(nftSet, dupedSet) {
       if(index > 0) {
         // for each copycat, we take a random ID among the new background (5-9)
         const newBackgroundId = rndInt(5,10);
-        
+
         const fixedOption = JSON.parse(dupedOption.option);
         fixedOption[0] = `0-${newBackgroundId}`;
 
@@ -364,6 +375,6 @@ function fixDuplicates(nftSet, dupedSet) {
         nftSet[dupedOption.id] = fixedOption
       }
     });
-  }); 
+  });
   return nftSet
 }

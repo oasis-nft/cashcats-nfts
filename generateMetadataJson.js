@@ -4,7 +4,7 @@ const _ = require('lodash');
 const optionMap = require('./optionMap/optionMap.json');
 const optionPatch = require('./optionMap/duplicateOptionPatch.json');
 
-const generateMetadata = async function(path, id, options, rarityMap) {
+const generateMetadata = async function(path, id, options, rarityMap, ogCats) {
   const metadata = {
     id,
     description: "CashCats",
@@ -14,6 +14,8 @@ const generateMetadata = async function(path, id, options, rarityMap) {
     traits: []
   }
 
+  const isOG = ogCats.includes(id);
+
   for(let i = 0; i < options.length; i++) {
     // const attributeName = optionNames[i] ?? i;
     const attributeId = parseInt(options[i].split('-')[0], 10);
@@ -22,7 +24,7 @@ const generateMetadata = async function(path, id, options, rarityMap) {
     let attribute = _.find(optionMap, {attributeId: attributeId});
     let option = _.find(attribute.optionValues, {optionId: optionId});
 
-    // options 5 and up are the extra added background that were patched in after discovering the duplicate cats. 
+    // options 5 and up are the extra added background that were patched in after discovering the duplicate cats.
     if(attributeId === 0 && optionId > 4)  {
       attribute = _.find(optionPatch, {attributeId: attributeId});
       option = _.find(attribute.optionValues, {optionId: optionId});
@@ -36,7 +38,7 @@ const generateMetadata = async function(path, id, options, rarityMap) {
       let optionId = option.optionId;
       let attributeName = attribute.name;
       // let traitCount = rarity.count;
-      
+
       // we made a mistake in the optionMap. Emerald and Ruby have been swapped. Since we cant change the optionMap we correct it here..
       if(optionName === "Emerald" ) {
         optionName = "Ruby";
@@ -56,6 +58,16 @@ const generateMetadata = async function(path, id, options, rarityMap) {
 
       metadata.traits.push(entry)
     }
+  }
+
+  if(isOG) {
+    const entry = {}
+      entry.trait_type = 'OG';
+      entry.option_id = 0;
+      entry.value = 'OG';
+      entry.trait_count = ogCats.length;
+
+      metadata.traits.push(entry)
   }
 
   await fs.writeFileSync(`${path}${id}`, JSON.stringify(metadata, null, 4), function(err) {

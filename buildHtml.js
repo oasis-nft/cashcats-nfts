@@ -14,7 +14,7 @@ function genHtml(nfts) {
 }
 
 function genRarityMap(rarityMap, optionMap, optionMapPatch) {
-  
+
   var fileName = `${OUTPUT_PATH_ROOT}rarity.html`;
   var stream = fs.createWriteStream(fileName);
 
@@ -26,7 +26,7 @@ function genRarityMap(rarityMap, optionMap, optionMapPatch) {
 }
 
 function genPatchOverview(patchMap) {
-  
+
   var fileName = `${OUTPUT_PATH_ROOT}patch.html`;
   var stream = fs.createWriteStream(fileName);
 
@@ -62,7 +62,7 @@ function buildRarityHtml(rarityMap, optionMap, optionMapPatch) {
       </div>
     `
   );
-  
+
   // Add the patched backgrounds to the full map
   const fullMap = optionMap;
   const backgrounds = _.find(optionMap, {attributeId: 0});
@@ -78,7 +78,7 @@ function buildRarityHtml(rarityMap, optionMap, optionMapPatch) {
     body = body.concat('<div class="wrapper">')
     attribute.optionValues.forEach( option => {
       const rarity = _.find(rarityMap, {key: `${attribute.attributeId}-${option.optionId}`});
-      
+
       // we made a mistake in the optionMap. The name labels Emerald and Ruby have been swapped. Since we cant change the optionMap we correct it here..
       let name = option.name;
 
@@ -135,7 +135,7 @@ function buildPatchOverview(patchMap) {
   let body = '';
 
   let style = `
-    
+
   `;
 
   body = body.concat(`
@@ -165,11 +165,18 @@ function buildPatchOverview(patchMap) {
   patchMap.forEach( (pair, index) => {
     let duplicateHtml = '';
     pair.tokens.forEach( token => {
+      let action = token.action;
+
+      if(action === 'unchanged') {
+        action = 'no visual change. added OG (original) trait.'
+      }
+
       // console.log(token);
       duplicateHtml = duplicateHtml.concat(`
 <div style="display: flex; width: 100%">
-  <div style="width: 10%">TokenID: #${token.id}</div>
-  <div style="width: 90%">Action:  ${token.action}</div>
+  <div style="width: 20%">TokenID: #${token.id}</div>
+
+  <div style="width: 80%">Action:  ${action}</div>
 </div>
       `)
     });
