@@ -40,6 +40,12 @@
             "option_id": 3,
             "value": "Flower",
             "trait_count": 519
+        },
+        {
+            "trait_type": "OG",
+            "option_id": 0,
+            "value": "OG",
+            "trait_count": 542
         }
     ]
 }

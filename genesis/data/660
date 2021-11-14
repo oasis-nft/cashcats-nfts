@@ -28,6 +28,12 @@
             "option_id": 0,
             "value": "Smoke",
             "trait_count": 594
+        },
+        {
+            "trait_type": "OG",
+            "option_id": 0,
+            "value": "OG",
+            "trait_count": 542
         }
     ]
 }

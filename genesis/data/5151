@@ -34,6 +34,12 @@
             "option_id": 11,
             "value": "Halo",
             "trait_count": 204
+        },
+        {
+            "trait_type": "OG",
+            "option_id": 0,
+            "value": "OG",
+            "trait_count": 542
         }
     ]
 }

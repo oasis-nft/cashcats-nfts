@@ -28,6 +28,12 @@
             "option_id": 5,
             "value": "Happy Laugh",
             "trait_count": 950
+        },
+        {
+            "trait_type": "OG",
+            "option_id": 0,
+            "value": "OG",
+            "trait_count": 542
         }
     ]
 }
