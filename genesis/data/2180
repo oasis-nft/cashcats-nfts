@@ -2,38 +2,38 @@
     "id": 2180,
     "description": "CashCats",
     "name": "Cat # 2180",
-    "image": "https://cashcats.mypinata.cloud/ipfs/bafybeigio5rjqqlz6abnvayng7w26a32p6b2keovroqopr46pw45oc3laa/2180.png",
-    "external_url": "ipfs/bafybeigio5rjqqlz6abnvayng7w26a32p6b2keovroqopr46pw45oc3laa/2180.png",
+    "image": "https://cashcats.mypinata.cloud/ipfs/QmRc5zbZBfM6S7FDguMKhdJMbCCEgaFrEeAVoxzxnAAZyR/2180.png",
+    "external_url": "ipfs/QmRc5zbZBfM6S7FDguMKhdJMbCCEgaFrEeAVoxzxnAAZyR/2180.png",
     "traits": [
         {
             "trait_type": "Background",
             "option_id": 0,
             "value": "Red",
-            "trait_count": 2023
+            "trait_count": 1867
         },
         {
             "trait_type": "Body",
             "option_id": 5,
             "value": "White Striped",
-            "trait_count": 508
+            "trait_count": 498
         },
         {
             "trait_type": "Eyes",
             "option_id": 6,
             "value": "Love Look",
-            "trait_count": 274
+            "trait_count": 270
         },
         {
             "trait_type": "Mouth",
             "option_id": 8,
             "value": "Mustache",
-            "trait_count": 199
+            "trait_count": 197
         },
         {
             "trait_type": "Collar",
             "option_id": 5,
             "value": "Leather Collar",
-            "trait_count": 762
+            "trait_count": 749
         }
     ]
 }

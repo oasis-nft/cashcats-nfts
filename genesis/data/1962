@@ -2,38 +2,38 @@
     "id": 1962,
     "description": "CashCats",
     "name": "Cat # 1962",
-    "image": "https://cashcats.mypinata.cloud/ipfs/bafybeigio5rjqqlz6abnvayng7w26a32p6b2keovroqopr46pw45oc3laa/1962.png",
-    "external_url": "ipfs/bafybeigio5rjqqlz6abnvayng7w26a32p6b2keovroqopr46pw45oc3laa/1962.png",
+    "image": "https://cashcats.mypinata.cloud/ipfs/QmRc5zbZBfM6S7FDguMKhdJMbCCEgaFrEeAVoxzxnAAZyR/1962.png",
+    "external_url": "ipfs/QmRc5zbZBfM6S7FDguMKhdJMbCCEgaFrEeAVoxzxnAAZyR/1962.png",
     "traits": [
         {
             "trait_type": "Background",
             "option_id": 0,
             "value": "Red",
-            "trait_count": 2023
+            "trait_count": 1867
         },
         {
             "trait_type": "Body",
             "option_id": 1,
             "value": "Brown",
-            "trait_count": 2031
+            "trait_count": 1932
         },
         {
             "trait_type": "Eyes",
             "option_id": 12,
             "value": "Wink Eyes",
-            "trait_count": 1030
+            "trait_count": 996
         },
         {
             "trait_type": "Mouth",
             "option_id": 6,
             "value": "Vampire Cat",
-            "trait_count": 405
+            "trait_count": 395
         },
         {
             "trait_type": "Accessory",
             "option_id": 7,
             "value": "Smooth Criminal",
-            "trait_count": 394
+            "trait_count": 384
         }
     ]
 }

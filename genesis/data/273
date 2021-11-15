@@ -2,38 +2,38 @@
     "id": 273,
     "description": "CashCats",
     "name": "Cat # 273",
-    "image": "https://cashcats.mypinata.cloud/ipfs/bafybeigio5rjqqlz6abnvayng7w26a32p6b2keovroqopr46pw45oc3laa/273.png",
-    "external_url": "ipfs/bafybeigio5rjqqlz6abnvayng7w26a32p6b2keovroqopr46pw45oc3laa/273.png",
+    "image": "https://cashcats.mypinata.cloud/ipfs/QmRc5zbZBfM6S7FDguMKhdJMbCCEgaFrEeAVoxzxnAAZyR/273.png",
+    "external_url": "ipfs/QmRc5zbZBfM6S7FDguMKhdJMbCCEgaFrEeAVoxzxnAAZyR/273.png",
     "traits": [
         {
             "trait_type": "Background",
             "option_id": 1,
             "value": "Purple",
-            "trait_count": 2017
+            "trait_count": 1870
         },
         {
             "trait_type": "Body",
             "option_id": 5,
             "value": "White Striped",
-            "trait_count": 508
+            "trait_count": 498
         },
         {
             "trait_type": "Eyes",
             "option_id": 5,
             "value": "Resting Eyes",
-            "trait_count": 989
+            "trait_count": 951
         },
         {
             "trait_type": "Mouth",
             "option_id": 3,
             "value": "X Snout",
-            "trait_count": 808
+            "trait_count": 785
         },
         {
             "trait_type": "Collar",
             "option_id": 9,
             "value": "Bitcoin Chain",
-            "trait_count": 215
+            "trait_count": 212
         }
     ]
 }

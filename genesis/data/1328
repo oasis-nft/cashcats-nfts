@@ -2,44 +2,44 @@
     "id": 1328,
     "description": "CashCats",
     "name": "Cat # 1328",
-    "image": "https://cashcats.mypinata.cloud/ipfs/bafybeigio5rjqqlz6abnvayng7w26a32p6b2keovroqopr46pw45oc3laa/1328.png",
-    "external_url": "ipfs/bafybeigio5rjqqlz6abnvayng7w26a32p6b2keovroqopr46pw45oc3laa/1328.png",
+    "image": "https://cashcats.mypinata.cloud/ipfs/QmRc5zbZBfM6S7FDguMKhdJMbCCEgaFrEeAVoxzxnAAZyR/1328.png",
+    "external_url": "ipfs/QmRc5zbZBfM6S7FDguMKhdJMbCCEgaFrEeAVoxzxnAAZyR/1328.png",
     "traits": [
         {
             "trait_type": "Background",
             "option_id": 0,
             "value": "Red",
-            "trait_count": 2023
+            "trait_count": 1867
         },
         {
             "trait_type": "Body",
             "option_id": 0,
             "value": "White",
-            "trait_count": 1939
+            "trait_count": 1863
         },
         {
             "trait_type": "Eyes",
             "option_id": 3,
             "value": "Bitcoin",
-            "trait_count": 628
+            "trait_count": 608
         },
         {
             "trait_type": "Mouth",
             "option_id": 5,
             "value": "Happy Laugh",
-            "trait_count": 991
+            "trait_count": 950
         },
         {
             "trait_type": "Collar",
             "option_id": 5,
             "value": "Leather Collar",
-            "trait_count": 762
+            "trait_count": 749
         },
         {
             "trait_type": "Accessory",
             "option_id": 11,
             "value": "Halo",
-            "trait_count": 207
+            "trait_count": 204
         }
     ]
 }

@@ -2,38 +2,44 @@
     "id": 106,
     "description": "CashCats",
     "name": "Cat # 106",
-    "image": "https://cashcats.mypinata.cloud/ipfs/bafybeigio5rjqqlz6abnvayng7w26a32p6b2keovroqopr46pw45oc3laa/106.png",
-    "external_url": "ipfs/bafybeigio5rjqqlz6abnvayng7w26a32p6b2keovroqopr46pw45oc3laa/106.png",
+    "image": "https://cashcats.mypinata.cloud/ipfs/QmRc5zbZBfM6S7FDguMKhdJMbCCEgaFrEeAVoxzxnAAZyR/106.png",
+    "external_url": "ipfs/QmRc5zbZBfM6S7FDguMKhdJMbCCEgaFrEeAVoxzxnAAZyR/106.png",
     "traits": [
         {
             "trait_type": "Background",
             "option_id": 1,
             "value": "Purple",
-            "trait_count": 2017
+            "trait_count": 1870
         },
         {
             "trait_type": "Body",
             "option_id": 1,
             "value": "Brown",
-            "trait_count": 2031
+            "trait_count": 1932
         },
         {
             "trait_type": "Eyes",
             "option_id": 15,
             "value": "Cool Glasses",
-            "trait_count": 388
+            "trait_count": 381
         },
         {
             "trait_type": "Mouth",
             "option_id": 4,
             "value": "Friendly Smile",
-            "trait_count": 1469
+            "trait_count": 1408
         },
         {
             "trait_type": "Accessory",
             "option_id": 1,
             "value": "Ceasar",
-            "trait_count": 301
+            "trait_count": 296
+        },
+        {
+            "trait_type": "OG",
+            "option_id": 0,
+            "value": "OG",
+            "trait_count": 542
         }
     ]
 }

@@ -2,44 +2,50 @@
     "id": 5316,
     "description": "CashCats",
     "name": "Cat # 5316",
-    "image": "https://cashcats.mypinata.cloud/ipfs/bafybeigio5rjqqlz6abnvayng7w26a32p6b2keovroqopr46pw45oc3laa/5316.png",
-    "external_url": "ipfs/bafybeigio5rjqqlz6abnvayng7w26a32p6b2keovroqopr46pw45oc3laa/5316.png",
+    "image": "https://cashcats.mypinata.cloud/ipfs/QmRc5zbZBfM6S7FDguMKhdJMbCCEgaFrEeAVoxzxnAAZyR/5316.png",
+    "external_url": "ipfs/QmRc5zbZBfM6S7FDguMKhdJMbCCEgaFrEeAVoxzxnAAZyR/5316.png",
     "traits": [
         {
             "trait_type": "Background",
             "option_id": 0,
             "value": "Red",
-            "trait_count": 2023
+            "trait_count": 1867
         },
         {
             "trait_type": "Body",
             "option_id": 0,
             "value": "White",
-            "trait_count": 1939
+            "trait_count": 1863
         },
         {
             "trait_type": "Eyes",
             "option_id": 14,
             "value": "Awake Look",
-            "trait_count": 1024
+            "trait_count": 978
         },
         {
             "trait_type": "Mouth",
             "option_id": 1,
             "value": "Snout",
-            "trait_count": 1441
+            "trait_count": 1387
         },
         {
             "trait_type": "Collar",
             "option_id": 6,
             "value": "Hippy Collar",
-            "trait_count": 477
+            "trait_count": 468
         },
         {
             "trait_type": "Accessory",
             "option_id": 7,
             "value": "Smooth Criminal",
-            "trait_count": 394
+            "trait_count": 384
+        },
+        {
+            "trait_type": "OG",
+            "option_id": 0,
+            "value": "OG",
+            "trait_count": 542
         }
     ]
 }

@@ -2,44 +2,44 @@
     "id": 4483,
     "description": "CashCats",
     "name": "Cat # 4483",
-    "image": "https://cashcats.mypinata.cloud/ipfs/bafybeigio5rjqqlz6abnvayng7w26a32p6b2keovroqopr46pw45oc3laa/4483.png",
-    "external_url": "ipfs/bafybeigio5rjqqlz6abnvayng7w26a32p6b2keovroqopr46pw45oc3laa/4483.png",
+    "image": "https://cashcats.mypinata.cloud/ipfs/QmRc5zbZBfM6S7FDguMKhdJMbCCEgaFrEeAVoxzxnAAZyR/4483.png",
+    "external_url": "ipfs/QmRc5zbZBfM6S7FDguMKhdJMbCCEgaFrEeAVoxzxnAAZyR/4483.png",
     "traits": [
         {
             "trait_type": "Background",
             "option_id": 1,
             "value": "Purple",
-            "trait_count": 2017
+            "trait_count": 1870
         },
         {
             "trait_type": "Body",
             "option_id": 6,
             "value": "White Spotted",
-            "trait_count": 509
+            "trait_count": 502
         },
         {
             "trait_type": "Eyes",
             "option_id": 4,
             "value": "Uplifted Eyes",
-            "trait_count": 1077
+            "trait_count": 1011
         },
         {
             "trait_type": "Mouth",
             "option_id": 5,
             "value": "Happy Laugh",
-            "trait_count": 991
+            "trait_count": 950
         },
         {
             "trait_type": "Collar",
             "option_id": 8,
             "value": "Spiky Collar",
-            "trait_count": 768
+            "trait_count": 753
         },
         {
             "trait_type": "Accessory",
             "option_id": 8,
             "value": "Headphones",
-            "trait_count": 591
+            "trait_count": 579
         }
     ]
 }

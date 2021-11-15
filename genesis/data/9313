@@ -2,38 +2,38 @@
     "id": 9313,
     "description": "CashCats",
     "name": "Cat # 9313",
-    "image": "https://cashcats.mypinata.cloud/ipfs/bafybeigio5rjqqlz6abnvayng7w26a32p6b2keovroqopr46pw45oc3laa/9313.png",
-    "external_url": "ipfs/bafybeigio5rjqqlz6abnvayng7w26a32p6b2keovroqopr46pw45oc3laa/9313.png",
+    "image": "https://cashcats.mypinata.cloud/ipfs/QmRc5zbZBfM6S7FDguMKhdJMbCCEgaFrEeAVoxzxnAAZyR/9313.png",
+    "external_url": "ipfs/QmRc5zbZBfM6S7FDguMKhdJMbCCEgaFrEeAVoxzxnAAZyR/9313.png",
     "traits": [
         {
             "trait_type": "Background",
             "option_id": 4,
             "value": "Blue",
-            "trait_count": 1936
+            "trait_count": 1801
         },
         {
             "trait_type": "Body",
             "option_id": 7,
             "value": "Emerald",
-            "trait_count": 290
+            "trait_count": 288
         },
         {
             "trait_type": "Eyes",
             "option_id": 15,
             "value": "Cool Glasses",
-            "trait_count": 388
+            "trait_count": 381
         },
         {
             "trait_type": "Mouth",
             "option_id": 3,
             "value": "X Snout",
-            "trait_count": 808
+            "trait_count": 785
         },
         {
             "trait_type": "Collar",
             "option_id": 3,
             "value": "Bow Tie",
-            "trait_count": 749
+            "trait_count": 735
         }
     ]
 }

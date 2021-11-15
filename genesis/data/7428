@@ -2,44 +2,44 @@
     "id": 7428,
     "description": "CashCats",
     "name": "Cat # 7428",
-    "image": "https://cashcats.mypinata.cloud/ipfs/bafybeigio5rjqqlz6abnvayng7w26a32p6b2keovroqopr46pw45oc3laa/7428.png",
-    "external_url": "ipfs/bafybeigio5rjqqlz6abnvayng7w26a32p6b2keovroqopr46pw45oc3laa/7428.png",
+    "image": "https://cashcats.mypinata.cloud/ipfs/QmRc5zbZBfM6S7FDguMKhdJMbCCEgaFrEeAVoxzxnAAZyR/7428.png",
+    "external_url": "ipfs/QmRc5zbZBfM6S7FDguMKhdJMbCCEgaFrEeAVoxzxnAAZyR/7428.png",
     "traits": [
         {
             "trait_type": "Background",
             "option_id": 2,
             "value": "Green",
-            "trait_count": 1975
+            "trait_count": 1838
         },
         {
             "trait_type": "Body",
             "option_id": 0,
             "value": "White",
-            "trait_count": 1939
+            "trait_count": 1863
         },
         {
             "trait_type": "Eyes",
             "option_id": 13,
             "value": "Dead Look",
-            "trait_count": 482
+            "trait_count": 470
         },
         {
             "trait_type": "Mouth",
             "option_id": 0,
             "value": "Smoke",
-            "trait_count": 607
+            "trait_count": 594
         },
         {
             "trait_type": "Collar",
             "option_id": 2,
             "value": "Bandana",
-            "trait_count": 816
+            "trait_count": 802
         },
         {
             "trait_type": "Accessory",
             "option_id": 3,
             "value": "Flower",
-            "trait_count": 523
+            "trait_count": 519
         }
     ]
 }

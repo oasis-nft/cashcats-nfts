@@ -2,38 +2,38 @@
     "id": 3888,
     "description": "CashCats",
     "name": "Cat # 3888",
-    "image": "https://cashcats.mypinata.cloud/ipfs/bafybeigio5rjqqlz6abnvayng7w26a32p6b2keovroqopr46pw45oc3laa/3888.png",
-    "external_url": "ipfs/bafybeigio5rjqqlz6abnvayng7w26a32p6b2keovroqopr46pw45oc3laa/3888.png",
+    "image": "https://cashcats.mypinata.cloud/ipfs/QmRc5zbZBfM6S7FDguMKhdJMbCCEgaFrEeAVoxzxnAAZyR/3888.png",
+    "external_url": "ipfs/QmRc5zbZBfM6S7FDguMKhdJMbCCEgaFrEeAVoxzxnAAZyR/3888.png",
     "traits": [
         {
             "trait_type": "Background",
             "option_id": 2,
             "value": "Green",
-            "trait_count": 1975
+            "trait_count": 1838
         },
         {
             "trait_type": "Body",
             "option_id": 0,
             "value": "White",
-            "trait_count": 1939
+            "trait_count": 1863
         },
         {
             "trait_type": "Eyes",
             "option_id": 12,
             "value": "Wink Eyes",
-            "trait_count": 1030
+            "trait_count": 996
         },
         {
             "trait_type": "Mouth",
             "option_id": 2,
             "value": "Z Teeth",
-            "trait_count": 1331
+            "trait_count": 1279
         },
         {
             "trait_type": "Accessory",
             "option_id": 0,
             "value": "Baret",
-            "trait_count": 394
+            "trait_count": 388
         }
     ]
 }

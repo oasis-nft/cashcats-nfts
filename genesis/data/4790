@@ -2,32 +2,32 @@
     "id": 4790,
     "description": "CashCats",
     "name": "Cat # 4790",
-    "image": "https://cashcats.mypinata.cloud/ipfs/bafybeigio5rjqqlz6abnvayng7w26a32p6b2keovroqopr46pw45oc3laa/4790.png",
-    "external_url": "ipfs/bafybeigio5rjqqlz6abnvayng7w26a32p6b2keovroqopr46pw45oc3laa/4790.png",
+    "image": "https://cashcats.mypinata.cloud/ipfs/QmRc5zbZBfM6S7FDguMKhdJMbCCEgaFrEeAVoxzxnAAZyR/4790.png",
+    "external_url": "ipfs/QmRc5zbZBfM6S7FDguMKhdJMbCCEgaFrEeAVoxzxnAAZyR/4790.png",
     "traits": [
         {
             "trait_type": "Background",
-            "option_id": 1,
-            "value": "Purple",
-            "trait_count": 2017
+            "option_id": 7,
+            "value": "Purple / Green",
+            "trait_count": 67
         },
         {
             "trait_type": "Body",
             "option_id": 2,
             "value": "Yellow",
-            "trait_count": 2018
+            "trait_count": 1938
         },
         {
             "trait_type": "Eyes",
             "option_id": 12,
             "value": "Wink Eyes",
-            "trait_count": 1030
+            "trait_count": 996
         },
         {
             "trait_type": "Mouth",
             "option_id": 1,
             "value": "Snout",
-            "trait_count": 1441
+            "trait_count": 1387
         }
     ]
 }

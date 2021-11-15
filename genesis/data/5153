@@ -2,14 +2,14 @@
     "id": 5153,
     "description": "CashCats",
     "name": "Cat # 5153",
-    "image": "https://cashcats.mypinata.cloud/ipfs/bafybeigio5rjqqlz6abnvayng7w26a32p6b2keovroqopr46pw45oc3laa/5153.png",
-    "external_url": "ipfs/bafybeigio5rjqqlz6abnvayng7w26a32p6b2keovroqopr46pw45oc3laa/5153.png",
+    "image": "https://cashcats.mypinata.cloud/ipfs/QmRc5zbZBfM6S7FDguMKhdJMbCCEgaFrEeAVoxzxnAAZyR/5153.png",
+    "external_url": "ipfs/QmRc5zbZBfM6S7FDguMKhdJMbCCEgaFrEeAVoxzxnAAZyR/5153.png",
     "traits": [
         {
             "trait_type": "Background",
             "option_id": 1,
             "value": "Purple",
-            "trait_count": 2017
+            "trait_count": 1870
         },
         {
             "trait_type": "Body",
@@ -21,19 +21,19 @@
             "trait_type": "Eyes",
             "option_id": 11,
             "value": "Happy Look",
-            "trait_count": 1019
+            "trait_count": 981
         },
         {
             "trait_type": "Mouth",
             "option_id": 6,
             "value": "Vampire Cat",
-            "trait_count": 405
+            "trait_count": 395
         },
         {
             "trait_type": "Collar",
             "option_id": 2,
             "value": "Bandana",
-            "trait_count": 816
+            "trait_count": 802
         }
     ]
 }

@@ -2,38 +2,38 @@
     "id": 4230,
     "description": "CashCats",
     "name": "Cat # 4230",
-    "image": "https://cashcats.mypinata.cloud/ipfs/bafybeigio5rjqqlz6abnvayng7w26a32p6b2keovroqopr46pw45oc3laa/4230.png",
-    "external_url": "ipfs/bafybeigio5rjqqlz6abnvayng7w26a32p6b2keovroqopr46pw45oc3laa/4230.png",
+    "image": "https://cashcats.mypinata.cloud/ipfs/QmRc5zbZBfM6S7FDguMKhdJMbCCEgaFrEeAVoxzxnAAZyR/4230.png",
+    "external_url": "ipfs/QmRc5zbZBfM6S7FDguMKhdJMbCCEgaFrEeAVoxzxnAAZyR/4230.png",
     "traits": [
         {
             "trait_type": "Background",
             "option_id": 1,
             "value": "Purple",
-            "trait_count": 2017
+            "trait_count": 1870
         },
         {
             "trait_type": "Body",
             "option_id": 3,
             "value": "Pink",
-            "trait_count": 1993
+            "trait_count": 1916
         },
         {
             "trait_type": "Eyes",
             "option_id": 13,
             "value": "Dead Look",
-            "trait_count": 482
+            "trait_count": 470
         },
         {
             "trait_type": "Mouth",
             "option_id": 7,
             "value": "Tongue",
-            "trait_count": 1499
+            "trait_count": 1444
         },
         {
             "trait_type": "Accessory",
             "option_id": 7,
             "value": "Smooth Criminal",
-            "trait_count": 394
+            "trait_count": 384
         }
     ]
 }

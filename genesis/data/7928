@@ -2,44 +2,44 @@
     "id": 7928,
     "description": "CashCats",
     "name": "Cat # 7928",
-    "image": "https://cashcats.mypinata.cloud/ipfs/bafybeigio5rjqqlz6abnvayng7w26a32p6b2keovroqopr46pw45oc3laa/7928.png",
-    "external_url": "ipfs/bafybeigio5rjqqlz6abnvayng7w26a32p6b2keovroqopr46pw45oc3laa/7928.png",
+    "image": "https://cashcats.mypinata.cloud/ipfs/QmRc5zbZBfM6S7FDguMKhdJMbCCEgaFrEeAVoxzxnAAZyR/7928.png",
+    "external_url": "ipfs/QmRc5zbZBfM6S7FDguMKhdJMbCCEgaFrEeAVoxzxnAAZyR/7928.png",
     "traits": [
         {
             "trait_type": "Background",
             "option_id": 0,
             "value": "Red",
-            "trait_count": 2023
+            "trait_count": 1867
         },
         {
             "trait_type": "Body",
             "option_id": 2,
             "value": "Yellow",
-            "trait_count": 2018
+            "trait_count": 1938
         },
         {
             "trait_type": "Eyes",
             "option_id": 0,
             "value": "Monocle",
-            "trait_count": 209
+            "trait_count": 205
         },
         {
             "trait_type": "Mouth",
             "option_id": 4,
             "value": "Friendly Smile",
-            "trait_count": 1469
+            "trait_count": 1408
         },
         {
             "trait_type": "Collar",
             "option_id": 6,
             "value": "Hippy Collar",
-            "trait_count": 477
+            "trait_count": 468
         },
         {
             "trait_type": "Accessory",
             "option_id": 12,
             "value": "Hearts",
-            "trait_count": 591
+            "trait_count": 583
         }
     ]
 }

@@ -2,44 +2,44 @@
     "id": 7014,
     "description": "CashCats",
     "name": "Cat # 7014",
-    "image": "https://cashcats.mypinata.cloud/ipfs/bafybeigio5rjqqlz6abnvayng7w26a32p6b2keovroqopr46pw45oc3laa/7014.png",
-    "external_url": "ipfs/bafybeigio5rjqqlz6abnvayng7w26a32p6b2keovroqopr46pw45oc3laa/7014.png",
+    "image": "https://cashcats.mypinata.cloud/ipfs/QmRc5zbZBfM6S7FDguMKhdJMbCCEgaFrEeAVoxzxnAAZyR/7014.png",
+    "external_url": "ipfs/QmRc5zbZBfM6S7FDguMKhdJMbCCEgaFrEeAVoxzxnAAZyR/7014.png",
     "traits": [
         {
             "trait_type": "Background",
             "option_id": 2,
             "value": "Green",
-            "trait_count": 1975
+            "trait_count": 1838
         },
         {
             "trait_type": "Body",
             "option_id": 0,
             "value": "White",
-            "trait_count": 1939
+            "trait_count": 1863
         },
         {
             "trait_type": "Eyes",
             "option_id": 15,
             "value": "Cool Glasses",
-            "trait_count": 388
+            "trait_count": 381
         },
         {
             "trait_type": "Mouth",
             "option_id": 1,
             "value": "Snout",
-            "trait_count": 1441
+            "trait_count": 1387
         },
         {
             "trait_type": "Collar",
             "option_id": 7,
             "value": "Flowers",
-            "trait_count": 518
+            "trait_count": 507
         },
         {
             "trait_type": "Accessory",
             "option_id": 2,
             "value": "Crown",
-            "trait_count": 122
+            "trait_count": 121
         }
     ]
 }

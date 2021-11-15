@@ -2,38 +2,38 @@
     "id": 4565,
     "description": "CashCats",
     "name": "Cat # 4565",
-    "image": "https://cashcats.mypinata.cloud/ipfs/bafybeigio5rjqqlz6abnvayng7w26a32p6b2keovroqopr46pw45oc3laa/4565.png",
-    "external_url": "ipfs/bafybeigio5rjqqlz6abnvayng7w26a32p6b2keovroqopr46pw45oc3laa/4565.png",
+    "image": "https://cashcats.mypinata.cloud/ipfs/QmRc5zbZBfM6S7FDguMKhdJMbCCEgaFrEeAVoxzxnAAZyR/4565.png",
+    "external_url": "ipfs/QmRc5zbZBfM6S7FDguMKhdJMbCCEgaFrEeAVoxzxnAAZyR/4565.png",
     "traits": [
         {
             "trait_type": "Background",
-            "option_id": 4,
-            "value": "Blue",
-            "trait_count": 1936
+            "option_id": 6,
+            "value": "Purple / Blue",
+            "trait_count": 84
         },
         {
             "trait_type": "Body",
             "option_id": 2,
             "value": "Yellow",
-            "trait_count": 2018
+            "trait_count": 1938
         },
         {
             "trait_type": "Eyes",
             "option_id": 9,
             "value": "Cute Look",
-            "trait_count": 887
+            "trait_count": 852
         },
         {
             "trait_type": "Mouth",
             "option_id": 4,
             "value": "Friendly Smile",
-            "trait_count": 1469
+            "trait_count": 1408
         },
         {
             "trait_type": "Accessory",
             "option_id": 2,
             "value": "Crown",
-            "trait_count": 122
+            "trait_count": 121
         }
     ]
 }

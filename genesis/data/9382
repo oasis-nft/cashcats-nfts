@@ -2,44 +2,44 @@
     "id": 9382,
     "description": "CashCats",
     "name": "Cat # 9382",
-    "image": "https://cashcats.mypinata.cloud/ipfs/bafybeigio5rjqqlz6abnvayng7w26a32p6b2keovroqopr46pw45oc3laa/9382.png",
-    "external_url": "ipfs/bafybeigio5rjqqlz6abnvayng7w26a32p6b2keovroqopr46pw45oc3laa/9382.png",
+    "image": "https://cashcats.mypinata.cloud/ipfs/QmRc5zbZBfM6S7FDguMKhdJMbCCEgaFrEeAVoxzxnAAZyR/9382.png",
+    "external_url": "ipfs/QmRc5zbZBfM6S7FDguMKhdJMbCCEgaFrEeAVoxzxnAAZyR/9382.png",
     "traits": [
         {
             "trait_type": "Background",
             "option_id": 2,
             "value": "Green",
-            "trait_count": 1975
+            "trait_count": 1838
         },
         {
             "trait_type": "Body",
             "option_id": 2,
             "value": "Yellow",
-            "trait_count": 2018
+            "trait_count": 1938
         },
         {
             "trait_type": "Eyes",
             "option_id": 4,
             "value": "Uplifted Eyes",
-            "trait_count": 1077
+            "trait_count": 1011
         },
         {
             "trait_type": "Mouth",
             "option_id": 1,
             "value": "Snout",
-            "trait_count": 1441
+            "trait_count": 1387
         },
         {
             "trait_type": "Collar",
             "option_id": 6,
             "value": "Hippy Collar",
-            "trait_count": 477
+            "trait_count": 468
         },
         {
             "trait_type": "Accessory",
             "option_id": 5,
             "value": "Bow Clip",
-            "trait_count": 509
+            "trait_count": 502
         }
     ]
 }

@@ -2,44 +2,44 @@
     "id": 4124,
     "description": "CashCats",
     "name": "Cat # 4124",
-    "image": "https://cashcats.mypinata.cloud/ipfs/bafybeigio5rjqqlz6abnvayng7w26a32p6b2keovroqopr46pw45oc3laa/4124.png",
-    "external_url": "ipfs/bafybeigio5rjqqlz6abnvayng7w26a32p6b2keovroqopr46pw45oc3laa/4124.png",
+    "image": "https://cashcats.mypinata.cloud/ipfs/QmRc5zbZBfM6S7FDguMKhdJMbCCEgaFrEeAVoxzxnAAZyR/4124.png",
+    "external_url": "ipfs/QmRc5zbZBfM6S7FDguMKhdJMbCCEgaFrEeAVoxzxnAAZyR/4124.png",
     "traits": [
         {
             "trait_type": "Background",
             "option_id": 4,
             "value": "Blue",
-            "trait_count": 1936
+            "trait_count": 1801
         },
         {
             "trait_type": "Body",
             "option_id": 2,
             "value": "Yellow",
-            "trait_count": 2018
+            "trait_count": 1938
         },
         {
             "trait_type": "Eyes",
             "option_id": 13,
             "value": "Dead Look",
-            "trait_count": 482
+            "trait_count": 470
         },
         {
             "trait_type": "Mouth",
             "option_id": 5,
             "value": "Happy Laugh",
-            "trait_count": 991
+            "trait_count": 950
         },
         {
             "trait_type": "Collar",
             "option_id": 2,
             "value": "Bandana",
-            "trait_count": 816
+            "trait_count": 802
         },
         {
             "trait_type": "Accessory",
             "option_id": 6,
             "value": "Hippie Feathers",
-            "trait_count": 307
+            "trait_count": 303
         }
     ]
 }

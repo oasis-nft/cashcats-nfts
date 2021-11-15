@@ -2,38 +2,38 @@
     "id": 2110,
     "description": "CashCats",
     "name": "Cat # 2110",
-    "image": "https://cashcats.mypinata.cloud/ipfs/bafybeigio5rjqqlz6abnvayng7w26a32p6b2keovroqopr46pw45oc3laa/2110.png",
-    "external_url": "ipfs/bafybeigio5rjqqlz6abnvayng7w26a32p6b2keovroqopr46pw45oc3laa/2110.png",
+    "image": "https://cashcats.mypinata.cloud/ipfs/QmRc5zbZBfM6S7FDguMKhdJMbCCEgaFrEeAVoxzxnAAZyR/2110.png",
+    "external_url": "ipfs/QmRc5zbZBfM6S7FDguMKhdJMbCCEgaFrEeAVoxzxnAAZyR/2110.png",
     "traits": [
         {
             "trait_type": "Background",
             "option_id": 3,
             "value": "Yellow",
-            "trait_count": 2049
+            "trait_count": 1891
         },
         {
             "trait_type": "Body",
             "option_id": 4,
             "value": "Red",
-            "trait_count": 397
+            "trait_count": 390
         },
         {
             "trait_type": "Eyes",
             "option_id": 15,
             "value": "Cool Glasses",
-            "trait_count": 388
+            "trait_count": 381
         },
         {
             "trait_type": "Mouth",
             "option_id": 7,
             "value": "Tongue",
-            "trait_count": 1499
+            "trait_count": 1444
         },
         {
             "trait_type": "Accessory",
             "option_id": 4,
             "value": "Bandana",
-            "trait_count": 667
+            "trait_count": 655
         }
     ]
 }

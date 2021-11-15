@@ -2,38 +2,38 @@
     "id": 8336,
     "description": "CashCats",
     "name": "Cat # 8336",
-    "image": "https://cashcats.mypinata.cloud/ipfs/bafybeigio5rjqqlz6abnvayng7w26a32p6b2keovroqopr46pw45oc3laa/8336.png",
-    "external_url": "ipfs/bafybeigio5rjqqlz6abnvayng7w26a32p6b2keovroqopr46pw45oc3laa/8336.png",
+    "image": "https://cashcats.mypinata.cloud/ipfs/QmRc5zbZBfM6S7FDguMKhdJMbCCEgaFrEeAVoxzxnAAZyR/8336.png",
+    "external_url": "ipfs/QmRc5zbZBfM6S7FDguMKhdJMbCCEgaFrEeAVoxzxnAAZyR/8336.png",
     "traits": [
         {
             "trait_type": "Background",
             "option_id": 3,
             "value": "Yellow",
-            "trait_count": 2049
+            "trait_count": 1891
         },
         {
             "trait_type": "Body",
             "option_id": 3,
             "value": "Pink",
-            "trait_count": 1993
+            "trait_count": 1916
         },
         {
             "trait_type": "Eyes",
             "option_id": 9,
             "value": "Cute Look",
-            "trait_count": 887
+            "trait_count": 852
         },
         {
             "trait_type": "Mouth",
             "option_id": 5,
             "value": "Happy Laugh",
-            "trait_count": 991
+            "trait_count": 950
         },
         {
             "trait_type": "Collar",
             "option_id": 9,
             "value": "Bitcoin Chain",
-            "trait_count": 215
+            "trait_count": 212
         }
     ]
 }

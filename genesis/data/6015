@@ -2,38 +2,38 @@
     "id": 6015,
     "description": "CashCats",
     "name": "Cat # 6015",
-    "image": "https://cashcats.mypinata.cloud/ipfs/bafybeigio5rjqqlz6abnvayng7w26a32p6b2keovroqopr46pw45oc3laa/6015.png",
-    "external_url": "ipfs/bafybeigio5rjqqlz6abnvayng7w26a32p6b2keovroqopr46pw45oc3laa/6015.png",
+    "image": "https://cashcats.mypinata.cloud/ipfs/QmRc5zbZBfM6S7FDguMKhdJMbCCEgaFrEeAVoxzxnAAZyR/6015.png",
+    "external_url": "ipfs/QmRc5zbZBfM6S7FDguMKhdJMbCCEgaFrEeAVoxzxnAAZyR/6015.png",
     "traits": [
         {
             "trait_type": "Background",
             "option_id": 3,
             "value": "Yellow",
-            "trait_count": 2049
+            "trait_count": 1891
         },
         {
             "trait_type": "Body",
             "option_id": 2,
             "value": "Yellow",
-            "trait_count": 2018
+            "trait_count": 1938
         },
         {
             "trait_type": "Eyes",
             "option_id": 14,
             "value": "Awake Look",
-            "trait_count": 1024
+            "trait_count": 978
         },
         {
             "trait_type": "Mouth",
             "option_id": 2,
             "value": "Z Teeth",
-            "trait_count": 1331
+            "trait_count": 1279
         },
         {
             "trait_type": "Collar",
             "option_id": 1,
             "value": "Cuban Chain",
-            "trait_count": 397
+            "trait_count": 392
         }
     ]
 }

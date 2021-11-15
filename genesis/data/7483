@@ -2,38 +2,38 @@
     "id": 7483,
     "description": "CashCats",
     "name": "Cat # 7483",
-    "image": "https://cashcats.mypinata.cloud/ipfs/bafybeigio5rjqqlz6abnvayng7w26a32p6b2keovroqopr46pw45oc3laa/7483.png",
-    "external_url": "ipfs/bafybeigio5rjqqlz6abnvayng7w26a32p6b2keovroqopr46pw45oc3laa/7483.png",
+    "image": "https://cashcats.mypinata.cloud/ipfs/QmRc5zbZBfM6S7FDguMKhdJMbCCEgaFrEeAVoxzxnAAZyR/7483.png",
+    "external_url": "ipfs/QmRc5zbZBfM6S7FDguMKhdJMbCCEgaFrEeAVoxzxnAAZyR/7483.png",
     "traits": [
         {
             "trait_type": "Background",
             "option_id": 1,
             "value": "Purple",
-            "trait_count": 2017
+            "trait_count": 1870
         },
         {
             "trait_type": "Body",
             "option_id": 5,
             "value": "White Striped",
-            "trait_count": 508
+            "trait_count": 498
         },
         {
             "trait_type": "Eyes",
             "option_id": 14,
             "value": "Awake Look",
-            "trait_count": 1024
+            "trait_count": 978
         },
         {
             "trait_type": "Mouth",
             "option_id": 9,
             "value": "Whisker Smile",
-            "trait_count": 1250
+            "trait_count": 1203
         },
         {
             "trait_type": "Collar",
             "option_id": 5,
             "value": "Leather Collar",
-            "trait_count": 762
+            "trait_count": 749
         }
     ]
 }

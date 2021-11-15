@@ -2,38 +2,38 @@
     "id": 5972,
     "description": "CashCats",
     "name": "Cat # 5972",
-    "image": "https://cashcats.mypinata.cloud/ipfs/bafybeigio5rjqqlz6abnvayng7w26a32p6b2keovroqopr46pw45oc3laa/5972.png",
-    "external_url": "ipfs/bafybeigio5rjqqlz6abnvayng7w26a32p6b2keovroqopr46pw45oc3laa/5972.png",
+    "image": "https://cashcats.mypinata.cloud/ipfs/QmRc5zbZBfM6S7FDguMKhdJMbCCEgaFrEeAVoxzxnAAZyR/5972.png",
+    "external_url": "ipfs/QmRc5zbZBfM6S7FDguMKhdJMbCCEgaFrEeAVoxzxnAAZyR/5972.png",
     "traits": [
         {
             "trait_type": "Background",
             "option_id": 1,
             "value": "Purple",
-            "trait_count": 2017
+            "trait_count": 1870
         },
         {
             "trait_type": "Body",
             "option_id": 6,
             "value": "White Spotted",
-            "trait_count": 509
+            "trait_count": 502
         },
         {
             "trait_type": "Eyes",
             "option_id": 4,
             "value": "Uplifted Eyes",
-            "trait_count": 1077
+            "trait_count": 1011
         },
         {
             "trait_type": "Mouth",
             "option_id": 9,
             "value": "Whisker Smile",
-            "trait_count": 1250
+            "trait_count": 1203
         },
         {
             "trait_type": "Accessory",
             "option_id": 12,
             "value": "Hearts",
-            "trait_count": 591
+            "trait_count": 583
         }
     ]
 }

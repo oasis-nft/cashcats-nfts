@@ -2,38 +2,38 @@
     "id": 4933,
     "description": "CashCats",
     "name": "Cat # 4933",
-    "image": "https://cashcats.mypinata.cloud/ipfs/bafybeigio5rjqqlz6abnvayng7w26a32p6b2keovroqopr46pw45oc3laa/4933.png",
-    "external_url": "ipfs/bafybeigio5rjqqlz6abnvayng7w26a32p6b2keovroqopr46pw45oc3laa/4933.png",
+    "image": "https://cashcats.mypinata.cloud/ipfs/QmRc5zbZBfM6S7FDguMKhdJMbCCEgaFrEeAVoxzxnAAZyR/4933.png",
+    "external_url": "ipfs/QmRc5zbZBfM6S7FDguMKhdJMbCCEgaFrEeAVoxzxnAAZyR/4933.png",
     "traits": [
         {
             "trait_type": "Background",
             "option_id": 0,
             "value": "Red",
-            "trait_count": 2023
+            "trait_count": 1867
         },
         {
             "trait_type": "Body",
             "option_id": 5,
             "value": "White Striped",
-            "trait_count": 508
+            "trait_count": 498
         },
         {
             "trait_type": "Eyes",
             "option_id": 0,
             "value": "Monocle",
-            "trait_count": 209
+            "trait_count": 205
         },
         {
             "trait_type": "Mouth",
             "option_id": 1,
             "value": "Snout",
-            "trait_count": 1441
+            "trait_count": 1387
         },
         {
             "trait_type": "Collar",
             "option_id": 8,
             "value": "Spiky Collar",
-            "trait_count": 768
+            "trait_count": 753
         }
     ]
 }

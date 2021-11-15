@@ -2,38 +2,38 @@
     "id": 9742,
     "description": "CashCats",
     "name": "Cat # 9742",
-    "image": "https://cashcats.mypinata.cloud/ipfs/bafybeigio5rjqqlz6abnvayng7w26a32p6b2keovroqopr46pw45oc3laa/9742.png",
-    "external_url": "ipfs/bafybeigio5rjqqlz6abnvayng7w26a32p6b2keovroqopr46pw45oc3laa/9742.png",
+    "image": "https://cashcats.mypinata.cloud/ipfs/QmRc5zbZBfM6S7FDguMKhdJMbCCEgaFrEeAVoxzxnAAZyR/9742.png",
+    "external_url": "ipfs/QmRc5zbZBfM6S7FDguMKhdJMbCCEgaFrEeAVoxzxnAAZyR/9742.png",
     "traits": [
         {
             "trait_type": "Background",
             "option_id": 1,
             "value": "Purple",
-            "trait_count": 2017
+            "trait_count": 1870
         },
         {
             "trait_type": "Body",
             "option_id": 1,
             "value": "Brown",
-            "trait_count": 2031
+            "trait_count": 1932
         },
         {
             "trait_type": "Eyes",
             "option_id": 3,
             "value": "Bitcoin",
-            "trait_count": 628
+            "trait_count": 608
         },
         {
             "trait_type": "Mouth",
             "option_id": 6,
             "value": "Vampire Cat",
-            "trait_count": 405
+            "trait_count": 395
         },
         {
             "trait_type": "Accessory",
             "option_id": 8,
             "value": "Headphones",
-            "trait_count": 591
+            "trait_count": 579
         }
     ]
 }

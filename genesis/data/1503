@@ -2,44 +2,44 @@
     "id": 1503,
     "description": "CashCats",
     "name": "Cat # 1503",
-    "image": "https://cashcats.mypinata.cloud/ipfs/bafybeigio5rjqqlz6abnvayng7w26a32p6b2keovroqopr46pw45oc3laa/1503.png",
-    "external_url": "ipfs/bafybeigio5rjqqlz6abnvayng7w26a32p6b2keovroqopr46pw45oc3laa/1503.png",
+    "image": "https://cashcats.mypinata.cloud/ipfs/QmRc5zbZBfM6S7FDguMKhdJMbCCEgaFrEeAVoxzxnAAZyR/1503.png",
+    "external_url": "ipfs/QmRc5zbZBfM6S7FDguMKhdJMbCCEgaFrEeAVoxzxnAAZyR/1503.png",
     "traits": [
         {
             "trait_type": "Background",
             "option_id": 2,
             "value": "Green",
-            "trait_count": 1975
+            "trait_count": 1838
         },
         {
             "trait_type": "Body",
             "option_id": 0,
             "value": "White",
-            "trait_count": 1939
+            "trait_count": 1863
         },
         {
             "trait_type": "Eyes",
             "option_id": 5,
             "value": "Resting Eyes",
-            "trait_count": 989
+            "trait_count": 951
         },
         {
             "trait_type": "Mouth",
             "option_id": 0,
             "value": "Smoke",
-            "trait_count": 607
+            "trait_count": 594
         },
         {
             "trait_type": "Collar",
             "option_id": 9,
             "value": "Bitcoin Chain",
-            "trait_count": 215
+            "trait_count": 212
         },
         {
             "trait_type": "Accessory",
             "option_id": 5,
             "value": "Bow Clip",
-            "trait_count": 509
+            "trait_count": 502
         }
     ]
 }

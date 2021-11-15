@@ -2,38 +2,38 @@
     "id": 6116,
     "description": "CashCats",
     "name": "Cat # 6116",
-    "image": "https://cashcats.mypinata.cloud/ipfs/bafybeigio5rjqqlz6abnvayng7w26a32p6b2keovroqopr46pw45oc3laa/6116.png",
-    "external_url": "ipfs/bafybeigio5rjqqlz6abnvayng7w26a32p6b2keovroqopr46pw45oc3laa/6116.png",
+    "image": "https://cashcats.mypinata.cloud/ipfs/QmRc5zbZBfM6S7FDguMKhdJMbCCEgaFrEeAVoxzxnAAZyR/6116.png",
+    "external_url": "ipfs/QmRc5zbZBfM6S7FDguMKhdJMbCCEgaFrEeAVoxzxnAAZyR/6116.png",
     "traits": [
         {
             "trait_type": "Background",
             "option_id": 4,
             "value": "Blue",
-            "trait_count": 1936
+            "trait_count": 1801
         },
         {
             "trait_type": "Body",
             "option_id": 6,
             "value": "White Spotted",
-            "trait_count": 509
+            "trait_count": 502
         },
         {
             "trait_type": "Eyes",
             "option_id": 14,
             "value": "Awake Look",
-            "trait_count": 1024
+            "trait_count": 978
         },
         {
             "trait_type": "Mouth",
             "option_id": 1,
             "value": "Snout",
-            "trait_count": 1441
+            "trait_count": 1387
         },
         {
             "trait_type": "Collar",
             "option_id": 3,
             "value": "Bow Tie",
-            "trait_count": 749
+            "trait_count": 735
         }
     ]
 }

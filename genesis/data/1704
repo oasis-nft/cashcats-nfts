@@ -2,38 +2,38 @@
     "id": 1704,
     "description": "CashCats",
     "name": "Cat # 1704",
-    "image": "https://cashcats.mypinata.cloud/ipfs/bafybeigio5rjqqlz6abnvayng7w26a32p6b2keovroqopr46pw45oc3laa/1704.png",
-    "external_url": "ipfs/bafybeigio5rjqqlz6abnvayng7w26a32p6b2keovroqopr46pw45oc3laa/1704.png",
+    "image": "https://cashcats.mypinata.cloud/ipfs/QmRc5zbZBfM6S7FDguMKhdJMbCCEgaFrEeAVoxzxnAAZyR/1704.png",
+    "external_url": "ipfs/QmRc5zbZBfM6S7FDguMKhdJMbCCEgaFrEeAVoxzxnAAZyR/1704.png",
     "traits": [
         {
             "trait_type": "Background",
             "option_id": 4,
             "value": "Blue",
-            "trait_count": 1936
+            "trait_count": 1801
         },
         {
             "trait_type": "Body",
             "option_id": 6,
             "value": "White Spotted",
-            "trait_count": 509
+            "trait_count": 502
         },
         {
             "trait_type": "Eyes",
             "option_id": 1,
             "value": "Long Eyes",
-            "trait_count": 485
+            "trait_count": 476
         },
         {
             "trait_type": "Mouth",
             "option_id": 3,
             "value": "X Snout",
-            "trait_count": 808
+            "trait_count": 785
         },
         {
             "trait_type": "Accessory",
             "option_id": 10,
             "value": "Golden Earring",
-            "trait_count": 681
+            "trait_count": 665
         }
     ]
 }

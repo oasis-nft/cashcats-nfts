@@ -2,14 +2,14 @@
     "id": 4373,
     "description": "CashCats",
     "name": "Cat # 4373",
-    "image": "https://cashcats.mypinata.cloud/ipfs/bafybeigio5rjqqlz6abnvayng7w26a32p6b2keovroqopr46pw45oc3laa/4373.png",
-    "external_url": "ipfs/bafybeigio5rjqqlz6abnvayng7w26a32p6b2keovroqopr46pw45oc3laa/4373.png",
+    "image": "https://cashcats.mypinata.cloud/ipfs/QmRc5zbZBfM6S7FDguMKhdJMbCCEgaFrEeAVoxzxnAAZyR/4373.png",
+    "external_url": "ipfs/QmRc5zbZBfM6S7FDguMKhdJMbCCEgaFrEeAVoxzxnAAZyR/4373.png",
     "traits": [
         {
             "trait_type": "Background",
             "option_id": 1,
             "value": "Purple",
-            "trait_count": 2017
+            "trait_count": 1870
         },
         {
             "trait_type": "Body",
@@ -21,25 +21,25 @@
             "trait_type": "Eyes",
             "option_id": 2,
             "value": "Cash",
-            "trait_count": 720
+            "trait_count": 692
         },
         {
             "trait_type": "Mouth",
             "option_id": 0,
             "value": "Smoke",
-            "trait_count": 607
+            "trait_count": 594
         },
         {
             "trait_type": "Collar",
             "option_id": 5,
             "value": "Leather Collar",
-            "trait_count": 762
+            "trait_count": 749
         },
         {
             "trait_type": "Accessory",
             "option_id": 6,
             "value": "Hippie Feathers",
-            "trait_count": 307
+            "trait_count": 303
         }
     ]
 }

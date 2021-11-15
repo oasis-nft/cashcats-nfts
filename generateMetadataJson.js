@@ -2,8 +2,9 @@ const fs = require('fs');
 const {EXTERNAL_URL, IPFS_URL} = require("./settings");
 const _ = require('lodash');
 const optionMap = require('./optionMap/optionMap.json');
+const optionPatch = require('./optionMap/duplicateOptionPatch.json');
 
-const generateMetadata = async function(path, id, options, rarityMap) {
+const generateMetadata = async function(path, id, options, rarityMap, ogCats) {
   const metadata = {
     id,
     description: "CashCats",
@@ -13,35 +14,60 @@ const generateMetadata = async function(path, id, options, rarityMap) {
     traits: []
   }
 
+  const isOG = ogCats.includes(id);
+
   for(let i = 0; i < options.length; i++) {
     // const attributeName = optionNames[i] ?? i;
     const attributeId = parseInt(options[i].split('-')[0], 10);
     const optionId = parseInt(options[i].split('-')[1], 10);
 
-    const attribute = _.find(optionMap, {attributeId: attributeId});
-    const option = _.find(attribute.optionValues, {optionId: optionId});
+    let attribute = _.find(optionMap, {attributeId: attributeId});
+    let option = _.find(attribute.optionValues, {optionId: optionId});
+
+    // options 5 and up are the extra added background that were patched in after discovering the duplicate cats.
+    if(attributeId === 0 && optionId > 4)  {
+      attribute = _.find(optionPatch, {attributeId: attributeId});
+      option = _.find(attribute.optionValues, {optionId: optionId});
+    }
 
     const rarity = _.find(rarityMap, {key: options[i]});
 
     if(option.name !== 'None') {
 
-      // we made a mistake in the optionMap. Emerald and Ruby have been swapped. Since we cant change the optionMap we correct it here..
-      let name = option.name;
+      let optionName = option.name;
+      let optionId = option.optionId;
+      let attributeName = attribute.name;
+      // let traitCount = rarity.count;
 
-      if(name === "Emerald" ) {
-        name = "Ruby";
-      } else if(name === "Ruby") {
-        name = "Emerald";
+      // we made a mistake in the optionMap. Emerald and Ruby have been swapped. Since we cant change the optionMap we correct it here..
+      if(optionName === "Emerald" ) {
+        optionName = "Ruby";
+      } else if(optionName === "Ruby") {
+        optionName = "Emerald";
       }
+
+      // in order to address the duplicate cats issue, here we map the newly introducted backgrounds. (#5-#9)
+
+
 
       const entry = {}
       entry.trait_type = attribute.name;
       entry.option_id = option.optionId;
-      entry.value = name;
+      entry.value = optionName;
       entry.trait_count = rarity.count;
 
       metadata.traits.push(entry)
     }
+  }
+
+  if(isOG) {
+    const entry = {}
+      entry.trait_type = 'OG';
+      entry.option_id = 0;
+      entry.value = 'OG';
+      entry.trait_count = ogCats.length;
+
+      metadata.traits.push(entry)
   }
 
   await fs.writeFileSync(`${path}${id}`, JSON.stringify(metadata, null, 4), function(err) {

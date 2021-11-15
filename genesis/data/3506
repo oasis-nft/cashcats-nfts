@@ -2,44 +2,44 @@
     "id": 3506,
     "description": "CashCats",
     "name": "Cat # 3506",
-    "image": "https://cashcats.mypinata.cloud/ipfs/bafybeigio5rjqqlz6abnvayng7w26a32p6b2keovroqopr46pw45oc3laa/3506.png",
-    "external_url": "ipfs/bafybeigio5rjqqlz6abnvayng7w26a32p6b2keovroqopr46pw45oc3laa/3506.png",
+    "image": "https://cashcats.mypinata.cloud/ipfs/QmRc5zbZBfM6S7FDguMKhdJMbCCEgaFrEeAVoxzxnAAZyR/3506.png",
+    "external_url": "ipfs/QmRc5zbZBfM6S7FDguMKhdJMbCCEgaFrEeAVoxzxnAAZyR/3506.png",
     "traits": [
         {
             "trait_type": "Background",
             "option_id": 2,
             "value": "Green",
-            "trait_count": 1975
+            "trait_count": 1838
         },
         {
             "trait_type": "Body",
             "option_id": 0,
             "value": "White",
-            "trait_count": 1939
+            "trait_count": 1863
         },
         {
             "trait_type": "Eyes",
             "option_id": 5,
             "value": "Resting Eyes",
-            "trait_count": 989
+            "trait_count": 951
         },
         {
             "trait_type": "Mouth",
             "option_id": 3,
             "value": "X Snout",
-            "trait_count": 808
+            "trait_count": 785
         },
         {
             "trait_type": "Collar",
             "option_id": 6,
             "value": "Hippy Collar",
-            "trait_count": 477
+            "trait_count": 468
         },
         {
             "trait_type": "Accessory",
             "option_id": 0,
             "value": "Baret",
-            "trait_count": 394
+            "trait_count": 388
         }
     ]
 }

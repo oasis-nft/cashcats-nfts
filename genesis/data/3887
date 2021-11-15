@@ -2,44 +2,44 @@
     "id": 3887,
     "description": "CashCats",
     "name": "Cat # 3887",
-    "image": "https://cashcats.mypinata.cloud/ipfs/bafybeigio5rjqqlz6abnvayng7w26a32p6b2keovroqopr46pw45oc3laa/3887.png",
-    "external_url": "ipfs/bafybeigio5rjqqlz6abnvayng7w26a32p6b2keovroqopr46pw45oc3laa/3887.png",
+    "image": "https://cashcats.mypinata.cloud/ipfs/QmRc5zbZBfM6S7FDguMKhdJMbCCEgaFrEeAVoxzxnAAZyR/3887.png",
+    "external_url": "ipfs/QmRc5zbZBfM6S7FDguMKhdJMbCCEgaFrEeAVoxzxnAAZyR/3887.png",
     "traits": [
         {
             "trait_type": "Background",
             "option_id": 1,
             "value": "Purple",
-            "trait_count": 2017
+            "trait_count": 1870
         },
         {
             "trait_type": "Body",
             "option_id": 3,
             "value": "Pink",
-            "trait_count": 1993
+            "trait_count": 1916
         },
         {
             "trait_type": "Eyes",
             "option_id": 7,
             "value": "8bit Glasses",
-            "trait_count": 111
+            "trait_count": 109
         },
         {
             "trait_type": "Mouth",
             "option_id": 9,
             "value": "Whisker Smile",
-            "trait_count": 1250
+            "trait_count": 1203
         },
         {
             "trait_type": "Collar",
             "option_id": 6,
             "value": "Hippy Collar",
-            "trait_count": 477
+            "trait_count": 468
         },
         {
             "trait_type": "Accessory",
             "option_id": 4,
             "value": "Bandana",
-            "trait_count": 667
+            "trait_count": 655
         }
     ]
 }

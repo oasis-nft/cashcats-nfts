@@ -2,44 +2,44 @@
     "id": 3215,
     "description": "CashCats",
     "name": "Cat # 3215",
-    "image": "https://cashcats.mypinata.cloud/ipfs/bafybeigio5rjqqlz6abnvayng7w26a32p6b2keovroqopr46pw45oc3laa/3215.png",
-    "external_url": "ipfs/bafybeigio5rjqqlz6abnvayng7w26a32p6b2keovroqopr46pw45oc3laa/3215.png",
+    "image": "https://cashcats.mypinata.cloud/ipfs/QmRc5zbZBfM6S7FDguMKhdJMbCCEgaFrEeAVoxzxnAAZyR/3215.png",
+    "external_url": "ipfs/QmRc5zbZBfM6S7FDguMKhdJMbCCEgaFrEeAVoxzxnAAZyR/3215.png",
     "traits": [
         {
             "trait_type": "Background",
             "option_id": 3,
             "value": "Yellow",
-            "trait_count": 2049
+            "trait_count": 1891
         },
         {
             "trait_type": "Body",
             "option_id": 1,
             "value": "Brown",
-            "trait_count": 2031
+            "trait_count": 1932
         },
         {
             "trait_type": "Eyes",
             "option_id": 14,
             "value": "Awake Look",
-            "trait_count": 1024
+            "trait_count": 978
         },
         {
             "trait_type": "Mouth",
             "option_id": 9,
             "value": "Whisker Smile",
-            "trait_count": 1250
+            "trait_count": 1203
         },
         {
             "trait_type": "Collar",
             "option_id": 5,
             "value": "Leather Collar",
-            "trait_count": 762
+            "trait_count": 749
         },
         {
             "trait_type": "Accessory",
             "option_id": 0,
             "value": "Baret",
-            "trait_count": 394
+            "trait_count": 388
         }
     ]
 }
