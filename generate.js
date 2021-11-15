@@ -269,7 +269,7 @@ async function generate() {
     // generate json metadata
     await generateMetadata(OUTPUT_PATH_META, i, nftSet[i], rarityMap, ogCats);
     // generate the cats
-    // await generateCatImage(ASSETS_PATH, PATCHED_ASSETS_PATH, OUTPUT_PATH, i, nftSet[i], toBurn, BURNED_CAT_PATH);
+    await generateCatImage(ASSETS_PATH, PATCHED_ASSETS_PATH, OUTPUT_PATH, i, nftSet[i], toBurn, BURNED_CAT_PATH);
 
   }
 
